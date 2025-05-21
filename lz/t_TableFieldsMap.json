@@ -1,0 +1,1568 @@
+[
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYBH",
+    "ZDXH": "1",
+    "ZDLX": "0",
+    "ZDMBXH": "1",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYDTGMD",
+    "ZDXH": "16",
+    "ZDLX": "0",
+    "ZDMBXH": "16",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYKL_0000",
+    "ZDXH": "11",
+    "ZDLX": "0",
+    "ZDMBXH": "11",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYKL_0005",
+    "ZDXH": "10",
+    "ZDLX": "0",
+    "ZDMBXH": "10",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYKL_0070",
+    "ZDXH": "9",
+    "ZDLX": "0",
+    "ZDMBXH": "9",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYKL_0075",
+    "ZDXH": "8",
+    "ZDLX": "0",
+    "ZDMBXH": "8",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYKL_025",
+    "ZDXH": "7",
+    "ZDLX": "0",
+    "ZDMBXH": "7",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYKL_05",
+    "ZDXH": "6",
+    "ZDLX": "0",
+    "ZDMBXH": "6",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYKL_2",
+    "ZDXH": "5",
+    "ZDLX": "0",
+    "ZDMBXH": "5",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYKL_20",
+    "ZDXH": "4",
+    "ZDLX": "0",
+    "ZDMBXH": "4",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYKL_60",
+    "ZDXH": "3",
+    "ZDLX": "0",
+    "ZDMBXH": "3",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYKLMD",
+    "ZDXH": "14",
+    "ZDLX": "0",
+    "ZDMBXH": "14",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYRHXCXX",
+    "ZDXH": "21",
+    "ZDLX": "0",
+    "ZDMBXH": "21",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYSD",
+    "ZDXH": "2",
+    "ZDLX": "0",
+    "ZDMBXH": "2",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYSX",
+    "ZDXH": "18",
+    "ZDLX": "0",
+    "ZDMBXH": "18",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYTJHBL",
+    "ZDXH": "13",
+    "ZDLX": "0",
+    "ZDMBXH": "13",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYTRMD",
+    "ZDXH": "15",
+    "ZDLX": "0",
+    "ZDMBXH": "15",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYWDHSL",
+    "ZDXH": "19",
+    "ZDLX": "0",
+    "ZDMBXH": "19",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYXDHBL",
+    "ZDXH": "20",
+    "ZDLX": "0",
+    "ZDMBXH": "20",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYYSXX",
+    "ZDXH": "22",
+    "ZDLX": "0",
+    "ZDMBXH": "22",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYYX",
+    "ZDXH": "17",
+    "ZDLX": "0",
+    "ZDMBXH": "17",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "QYZHSL",
+    "ZDXH": "12",
+    "ZDLX": "0",
+    "ZDMBXH": "12",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "TSXM1",
+    "ZDXH": "23",
+    "ZDLX": "0",
+    "ZDMBXH": "23",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "FIELD": "TSXM2",
+    "ZDXH": "24",
+    "ZDLX": "0",
+    "ZDMBXH": "24",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_PengZhangXing",
+    "FIELD": "MTSHLP",
+    "ZDXH": "7",
+    "ZDLX": "0",
+    "ZDMBXH": "7",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_PengZhangXing",
+    "FIELD": "QYBH",
+    "ZDXH": "1",
+    "ZDLX": "0",
+    "ZDMBXH": "1",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_PengZhangXing",
+    "FIELD": "QYDDLC",
+    "ZDXH": "3",
+    "ZDLX": "0",
+    "ZDMBXH": "3",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_PengZhangXing",
+    "FIELD": "QYSD",
+    "ZDXH": "4",
+    "ZDLX": "0",
+    "ZDMBXH": "4",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_PengZhangXing",
+    "FIELD": "WTBH",
+    "ZDXH": "2",
+    "ZDLX": "0",
+    "ZDMBXH": "2",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_PengZhangXing",
+    "FIELD": "YLZJHL",
+    "ZDXH": "6",
+    "ZDLX": "0",
+    "ZDMBXH": "6",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_PengZhangXing",
+    "FIELD": "ZYPZLP",
+    "ZDXH": "5",
+    "ZDLX": "0",
+    "ZDMBXH": "5",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYBH",
+    "ZDXH": "1",
+    "ZDLX": "0",
+    "ZDMBXH": "1",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYBHD",
+    "ZDXH": "18",
+    "ZDLX": "0",
+    "ZDMBXH": "18",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYCS",
+    "ZDXH": "49",
+    "ZDLX": "0",
+    "ZDMBXH": "49",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYGJCZ",
+    "ZDXH": "37",
+    "ZDLX": "0",
+    "ZDMBXH": "37",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYGJSP",
+    "ZDXH": "38",
+    "ZDLX": "0",
+    "ZDMBXH": "38",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYGJXS",
+    "ZDXH": "39",
+    "ZDLX": "0",
+    "ZDMBXH": "39",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYGMD",
+    "ZDXH": "15",
+    "ZDLX": "0",
+    "ZDMBXH": "15",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYHSL",
+    "ZDXH": "13",
+    "ZDLX": "0",
+    "ZDMBXH": "13",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYJQFF",
+    "ZDXH": "42",
+    "ZDLX": "0",
+    "ZDMBXH": "42",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYJQMCJ",
+    "ZDXH": "43",
+    "ZDLX": "0",
+    "ZDMBXH": "43",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYJQNJL",
+    "ZDXH": "44",
+    "ZDLX": "0",
+    "ZDMBXH": "44",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYKL_0000",
+    "ZDXH": "11",
+    "ZDLX": "0",
+    "ZDMBXH": "11",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYKL_0005",
+    "ZDXH": "10",
+    "ZDLX": "0",
+    "ZDMBXH": "10",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYKL_0070",
+    "ZDXH": "9",
+    "ZDLX": "0",
+    "ZDMBXH": "9",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYKL_0075",
+    "ZDXH": "8",
+    "ZDLX": "0",
+    "ZDMBXH": "8",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYKL_025",
+    "ZDXH": "7",
+    "ZDLX": "0",
+    "ZDMBXH": "7",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYKL_05",
+    "ZDXH": "6",
+    "ZDLX": "0",
+    "ZDMBXH": "6",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYKL_2",
+    "ZDXH": "5",
+    "ZDLX": "0",
+    "ZDMBXH": "5",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYKL_20",
+    "ZDXH": "4",
+    "ZDLX": "0",
+    "ZDMBXH": "4",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYKL_60",
+    "ZDXH": "3",
+    "ZDLX": "0",
+    "ZDMBXH": "3",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYKLMD",
+    "ZDXH": "16",
+    "ZDLX": "0",
+    "ZDMBXH": "16",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYKXB",
+    "ZDXH": "17",
+    "ZDLX": "0",
+    "ZDMBXH": "17",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYLMD",
+    "ZDXH": "50",
+    "ZDLX": "0",
+    "ZDMBXH": "50",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYSD",
+    "ZDXH": "2",
+    "ZDLX": "0",
+    "ZDMBXH": "2",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYSTXSCZ",
+    "ZDXH": "40",
+    "ZDLX": "0",
+    "ZDMBXH": "40",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYSTXSSP",
+    "ZDXH": "41",
+    "ZDLX": "0",
+    "ZDMBXH": "41",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYSX",
+    "ZDXH": "20",
+    "ZDLX": "0",
+    "ZDMBXH": "20",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYSXBXXS",
+    "ZDXH": "51",
+    "ZDLX": "0",
+    "ZDMBXH": "51",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYSXQSYL",
+    "ZDXH": "53",
+    "ZDLX": "0",
+    "ZDMBXH": "53",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYSXZS",
+    "ZDXH": "21",
+    "ZDLX": "0",
+    "ZDMBXH": "21",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYSXZZXS",
+    "ZDXH": "52",
+    "ZDLX": "0",
+    "ZDMBXH": "52",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYSZFF",
+    "ZDXH": "45",
+    "ZDLX": "0",
+    "ZDMBXH": "45",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYSZMCJ",
+    "ZDXH": "46",
+    "ZDLX": "0",
+    "ZDMBXH": "46",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYSZNJL",
+    "ZDXH": "47",
+    "ZDLX": "0",
+    "ZDMBXH": "47",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYTRMD",
+    "ZDXH": "14",
+    "ZDLX": "0",
+    "ZDMBXH": "14",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYYJZ",
+    "ZDXH": "12",
+    "ZDLX": "0",
+    "ZDMBXH": "12",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYYSML01",
+    "ZDXH": "30",
+    "ZDLX": "0",
+    "ZDMBXH": "30",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYYSML02",
+    "ZDXH": "31",
+    "ZDLX": "0",
+    "ZDMBXH": "31",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYYSML03",
+    "ZDXH": "32",
+    "ZDLX": "0",
+    "ZDMBXH": "32",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYYSML04",
+    "ZDXH": "33",
+    "ZDLX": "0",
+    "ZDMBXH": "33",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYYSML05",
+    "ZDXH": "34",
+    "ZDLX": "0",
+    "ZDMBXH": "34",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYYSML06",
+    "ZDXH": "35",
+    "ZDLX": "0",
+    "ZDMBXH": "35",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYYSML07",
+    "ZDXH": "36",
+    "ZDLX": "0",
+    "ZDMBXH": "36",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYYSXS01",
+    "ZDXH": "23",
+    "ZDLX": "0",
+    "ZDMBXH": "23",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYYSXS02",
+    "ZDXH": "24",
+    "ZDLX": "0",
+    "ZDMBXH": "24",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYYSXS03",
+    "ZDXH": "25",
+    "ZDLX": "0",
+    "ZDMBXH": "25",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYYSXS04",
+    "ZDXH": "26",
+    "ZDLX": "0",
+    "ZDMBXH": "26",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYYSXS05",
+    "ZDXH": "27",
+    "ZDLX": "0",
+    "ZDMBXH": "27",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYYSXS06",
+    "ZDXH": "28",
+    "ZDLX": "0",
+    "ZDMBXH": "28",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYYSXS07",
+    "ZDXH": "29",
+    "ZDLX": "0",
+    "ZDMBXH": "29",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYYX",
+    "ZDXH": "19",
+    "ZDLX": "0",
+    "ZDMBXH": "19",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYYXZS",
+    "ZDXH": "22",
+    "ZDLX": "0",
+    "ZDMBXH": "22",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "QYYZ",
+    "ZDXH": "48",
+    "ZDLX": "0",
+    "ZDMBXH": "48",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "TSXM1",
+    "ZDXH": "54",
+    "ZDLX": "0",
+    "ZDMBXH": "54",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "TSXM2",
+    "ZDXH": "55",
+    "ZDLX": "0",
+    "ZDMBXH": "55",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "TSXM3",
+    "ZDXH": "56",
+    "ZDLX": "0",
+    "ZDMBXH": "56",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "FIELD": "YTLB",
+    "ZDXH": "57",
+    "ZDLX": "0",
+    "ZDMBXH": "57",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuHuaZhongHe",
+    "FIELD": "NRYHL",
+    "ZDXH": "6",
+    "ZDLX": "0",
+    "ZDMBXH": "6",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuHuaZhongHe",
+    "FIELD": "QYBH",
+    "ZDXH": "1",
+    "ZDLX": "0",
+    "ZDMBXH": "1",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuHuaZhongHe",
+    "FIELD": "QYDDLC",
+    "ZDXH": "3",
+    "ZDLX": "0",
+    "ZDMBXH": "3",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuHuaZhongHe",
+    "FIELD": "QYSD",
+    "ZDXH": "4",
+    "ZDLX": "0",
+    "ZDMBXH": "4",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuHuaZhongHe",
+    "FIELD": "WTBH",
+    "ZDXH": "2",
+    "ZDLX": "0",
+    "ZDMBXH": "2",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuHuaZhongHe",
+    "FIELD": "YJZHL",
+    "ZDXH": "7",
+    "ZDLX": "0",
+    "ZDMBXH": "7",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_TuHuaZhongHe",
+    "FIELD": "ZRYHL",
+    "ZDXH": "5",
+    "ZDLX": "0",
+    "ZDMBXH": "5",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "BHXSL",
+    "ZDXH": "9",
+    "ZDLX": "0",
+    "ZDMBXH": "9",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "DZKYQD_BH",
+    "ZDXH": "12",
+    "ZDLX": "0",
+    "ZDMBXH": "12",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "DZKYQD_HG",
+    "ZDXH": "11",
+    "ZDLX": "0",
+    "ZDMBXH": "11",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "DZKYQD_TR",
+    "ZDXH": "10",
+    "ZDLX": "0",
+    "ZDMBXH": "10",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "GMD",
+    "ZDXH": "6",
+    "ZDLX": "0",
+    "ZDMBXH": "6",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "HSL",
+    "ZDXH": "4",
+    "ZDLX": "0",
+    "ZDMBXH": "4",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "KJDQD_NJL",
+    "ZDXH": "15",
+    "ZDLX": "0",
+    "ZDMBXH": "15",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "KJDQD_NMCJ",
+    "ZDXH": "16",
+    "ZDLX": "0",
+    "ZDMBXH": "16",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "KJQJZJ_NJL",
+    "ZDXH": "17",
+    "ZDLX": "0",
+    "ZDMBXH": "17",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "KJQJZJ_NMCJ",
+    "ZDXH": "18",
+    "ZDLX": "0",
+    "ZDMBXH": "18",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "KLMD",
+    "ZDXH": "7",
+    "ZDLX": "0",
+    "ZDMBXH": "7",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "KLSY",
+    "ZDXH": "14",
+    "ZDLX": "0",
+    "ZDMBXH": "14",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "PZXSY_NBJZS",
+    "ZDXH": "21",
+    "ZDLX": "0",
+    "ZDMBXH": "21",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "PZXSY_PZLI",
+    "ZDXH": "20",
+    "ZDLX": "0",
+    "ZDMBXH": "20",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "PZXSY_PZLV",
+    "ZDXH": "19",
+    "ZDLX": "0",
+    "ZDMBXH": "19",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "QYBH",
+    "ZDXH": "1",
+    "ZDLX": "0",
+    "ZDMBXH": "1",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "QYSD",
+    "ZDXH": "2",
+    "ZDLX": "0",
+    "ZDMBXH": "2",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "RHXS",
+    "ZDXH": "13",
+    "ZDLX": "0",
+    "ZDMBXH": "13",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "SBBS_HBBS",
+    "ZDXH": "23",
+    "ZDLX": "0",
+    "ZDMBXH": "23",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "SBBS_ZBBS",
+    "ZDXH": "22",
+    "ZDLX": "0",
+    "ZDMBXH": "22",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "TRMD",
+    "ZDXH": "5",
+    "ZDLX": "0",
+    "ZDMBXH": "5",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "TSXM1",
+    "ZDXH": "24",
+    "ZDLX": "0",
+    "ZDMBXH": "24",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "TSXM2",
+    "ZDXH": "25",
+    "ZDLX": "0",
+    "ZDMBXH": "25",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "TSXM3",
+    "ZDXH": "26",
+    "ZDLX": "0",
+    "ZDMBXH": "26",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "XCJDMC",
+    "ZDXH": "3",
+    "ZDLX": "0",
+    "ZDMBXH": "3",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "FIELD": "XSL",
+    "ZDXH": "8",
+    "ZDLX": "0",
+    "ZDMBXH": "8",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "FIELD": "AL2O3",
+    "ZDXH": "7",
+    "ZDLX": "0",
+    "ZDMBXH": "7",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "FIELD": "CAO",
+    "ZDXH": "10",
+    "ZDLX": "0",
+    "ZDMBXH": "10",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "FIELD": "FE2O3",
+    "ZDXH": "8",
+    "ZDLX": "0",
+    "ZDMBXH": "8",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "FIELD": "K2O",
+    "ZDXH": "13",
+    "ZDLX": "0",
+    "ZDMBXH": "13",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "FIELD": "MEB1",
+    "ZDXH": "20",
+    "ZDLX": "0",
+    "ZDMBXH": "20",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "FIELD": "MEB2",
+    "ZDXH": "21",
+    "ZDLX": "0",
+    "ZDMBXH": "21",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "FIELD": "MGO",
+    "ZDXH": "11",
+    "ZDLX": "0",
+    "ZDMBXH": "11",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "FIELD": "MNO",
+    "ZDXH": "9",
+    "ZDLX": "0",
+    "ZDMBXH": "9",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "FIELD": "NG2O",
+    "ZDXH": "12",
+    "ZDLX": "0",
+    "ZDMBXH": "12",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "FIELD": "QYBH",
+    "ZDXH": "1",
+    "ZDLX": "0",
+    "ZDMBXH": "1",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "FIELD": "QYDDLC",
+    "ZDXH": "3",
+    "ZDLX": "0",
+    "ZDMBXH": "3",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "FIELD": "QYSD",
+    "ZDXH": "4",
+    "ZDLX": "0",
+    "ZDMBXH": "4",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "FIELD": "R2O3",
+    "ZDXH": "6",
+    "ZDLX": "0",
+    "ZDMBXH": "6",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "FIELD": "SIO2",
+    "ZDXH": "5",
+    "ZDLX": "0",
+    "ZDMBXH": "5",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "FIELD": "SZSL",
+    "ZDXH": "14",
+    "ZDLX": "0",
+    "ZDMBXH": "14",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "FIELD": "WTBH",
+    "ZDXH": "2",
+    "ZDLX": "0",
+    "ZDMBXH": "2",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "FIELD": "YLZJHL",
+    "ZDXH": "16",
+    "ZDLX": "0",
+    "ZDMBXH": "16",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "FIELD": "ZBBMJ",
+    "ZDXH": "18",
+    "ZDLX": "0",
+    "ZDMBXH": "18",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "FIELD": "ZL",
+    "ZDXH": "15",
+    "ZDLX": "0",
+    "ZDMBXH": "15",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "FCYRYHL",
+    "ZDXH": "36",
+    "ZDLX": "0",
+    "ZDMBXH": "36",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "FCYRYHLDT",
+    "ZDXH": "37",
+    "ZDLX": "0",
+    "ZDMBXH": "37",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "FCYZTDM",
+    "ZDXH": "38",
+    "ZDLX": "0",
+    "ZDMBXH": "38",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "GLZHL",
+    "ZDXH": "26",
+    "ZDLX": "0",
+    "ZDMBXH": "26",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "GLZHLP",
+    "ZDXH": "27",
+    "ZDLX": "0",
+    "ZDMBXH": "27",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "GLZZLBHL",
+    "ZDXH": "28",
+    "ZDLX": "0",
+    "ZDMBXH": "28",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "LSGHL",
+    "ZDXH": "23",
+    "ZDLX": "0",
+    "ZDMBXH": "23",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "LSGHLP",
+    "ZDXH": "24",
+    "ZDLX": "0",
+    "ZDMBXH": "24",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "LSGZLBHL",
+    "ZDXH": "25",
+    "ZDLX": "0",
+    "ZDMBXH": "25",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "MLZHL",
+    "ZDXH": "29",
+    "ZDLX": "0",
+    "ZDMBXH": "29",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "MLZHLP",
+    "ZDXH": "30",
+    "ZDLX": "0",
+    "ZDMBXH": "30",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "MLZZLBHL",
+    "ZDXH": "31",
+    "ZDLX": "0",
+    "ZDMBXH": "31",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "NJLZHL",
+    "ZDXH": "32",
+    "ZDLX": "0",
+    "ZDMBXH": "32",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "NJLZHLP",
+    "ZDXH": "33",
+    "ZDLX": "0",
+    "ZDMBXH": "33",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "NJLZZLBHL",
+    "ZDXH": "34",
+    "ZDLX": "0",
+    "ZDMBXH": "34",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "PH",
+    "ZDXH": "35",
+    "ZDLX": "0",
+    "ZDMBXH": "35",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "PJHYL",
+    "ZDXH": "39",
+    "ZDLX": "0",
+    "ZDMBXH": "39",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "PJMEB",
+    "ZDXH": "40",
+    "ZDLX": "0",
+    "ZDMBXH": "40",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "QYBH",
+    "ZDXH": "9",
+    "ZDLX": "0",
+    "ZDMBXH": "9",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "QYGHL",
+    "ZDXH": "11",
+    "ZDLX": "0",
+    "ZDMBXH": "11",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "QYGHLP",
+    "ZDXH": "12",
+    "ZDLX": "0",
+    "ZDMBXH": "12",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "QYGZLBHL",
+    "ZDXH": "13",
+    "ZDLX": "0",
+    "ZDMBXH": "13",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "QYSD",
+    "ZDXH": "10",
+    "ZDLX": "0",
+    "ZDMBXH": "10",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "TSGHL",
+    "ZDXH": "14",
+    "ZDLX": "0",
+    "ZDMBXH": "14",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "TSGHLP",
+    "ZDXH": "15",
+    "ZDLX": "0",
+    "ZDMBXH": "15",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "TSGZLBHL",
+    "ZDXH": "16",
+    "ZDLX": "0",
+    "ZDMBXH": "16",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "TSQGHL",
+    "ZDXH": "17",
+    "ZDLX": "0",
+    "ZDMBXH": "17",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "TSQGHLP",
+    "ZDXH": "18",
+    "ZDLX": "0",
+    "ZDMBXH": "18",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "TSQGZLBHL",
+    "ZDXH": "19",
+    "ZDLX": "0",
+    "ZDMBXH": "19",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "YSGHL",
+    "ZDXH": "20",
+    "ZDLX": "0",
+    "ZDMBXH": "20",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "YSGHLP",
+    "ZDXH": "21",
+    "ZDLX": "0",
+    "ZDMBXH": "21",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "YSGZLBHL",
+    "ZDXH": "22",
+    "ZDLX": "0",
+    "ZDMBXH": "22",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "YZHCD",
+    "ZDXH": "42",
+    "ZDLX": "0",
+    "ZDMBXH": "42",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "FIELD": "YZTDM",
+    "ZDXH": "41",
+    "ZDLX": "0",
+    "ZDMBXH": "41",
+    "LZID": "",
+    "table": "t_TableFieldsMap"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "LSB": "x_KCDKSLRTable",
+    "DRB": "t_ShuiZhiJianFX",
+    "LSBKEY": "XQYBH,XQYDSDTOP,XQYDSD",
+    "LSBNOTKEY": "XQYLX",
+    "DRWHERE": "IIf(IsNull(QYBH), '0', string(20-len(trim(QYBH)),'0')+trim(QYBH)) ASC",
+    "LSBZD": "XQYBH,XQYDSDTOP,XQYLX",
+    "DRBZD": "QYBH,SZQSSD,4",
+    "table": "g_PeiZhiDC"
+  },
+  {
+    "LSB": "x_KCDKSLRTable",
+    "DRB": "t_YanShi",
+    "LSBKEY": "XQYBH,XQYDSDTOP,XQYDSD",
+    "LSBNOTKEY": "XQYLX",
+    "DRWHERE": "IIf(IsNull(QYBH), '0', string(20-len(trim(QYBH)),'0')+trim(QYBH)) ASC",
+    "LSBZD": "XQYBH,XQYDSDTOP,XQYDSD,XQYLX",
+    "DRBZD": "QYBH,QYSDTOP,QYSDBOT,3",
+    "table": "g_PeiZhiDC"
+  },
+  {
+    "LSB": "x_KCDKSLRTable",
+    "DRB": "z_c_QuYang",
+    "LSBKEY": "XQYBH,XQYDSDTOP,XQYDSD",
+    "LSBNOTKEY": "XQYLX",
+    "DRWHERE": "IIf(IsNull(QYBH), '0', string(20-len(trim(QYBH)),'0')+trim(QYBH)) ASC",
+    "LSBZD": "XQYBH,XQYLX,XQYDSDTOP,XQYDSD",
+    "DRBZD": "QYBH,QYLX+1,QYSD,QYHD+QYSD",
+    "table": "g_PeiZhiDC"
+  },
+  {
+    "LSB": "x_KCDKSLRTable",
+    "DRB": "z_g_ShuiWei",
+    "LSBKEY": "",
+    "LSBNOTKEY": "WDSWSD,XSWCSRQ,CJSWSD,XCJSWCSRQ,XSWCH",
+    "DRWHERE": "LZID ASC",
+    "LSBZD": "WDSWSD,XSWCSRQ,CJSWSD,XCJSWCSRQ,XSWCH",
+    "DRBZD": "SWSD,SWCSRQ,CJSWSD,CJSWCSRQ,SWCH",
+    "table": "g_PeiZhiDC"
+  },
+  {
+    "LSB": "x_KCDKSLRTable",
+    "DRB": "z_g_tuceng",
+    "LSBKEY": "TCZZWZ",
+    "LSBNOTKEY": "TCMC,TCZCBH,XTCYCBH,XTCCYCBH,TCSID,TCKSX,TCMSD,XTCMS,TCKSWZ",
+    "DRWHERE": "TCCDSD ASC",
+    "LSBZD": "TCMC,TCZCBH,XTCYCBH,XTCCYCBH,TCSID,TCKSX,TCMSD,XTCMS,TCZZWZ,TCKSWZ",
+    "DRBZD": "TCMC,TCZCBH,TCYCBH,TCCYCBH,TCSID,TCKSX,TCMSD,TCMS,TCCDSD,TCCDSD-TCHD",
+    "table": "g_PeiZhiDC"
+  },
+  {
+    "LSB": "x_KCDKSLRTable",
+    "DRB": "z_y_BiaoGuan",
+    "LSBKEY": "XBGDSDTOP,XBGDSD",
+    "LSBNOTKEY": "XBGJS,XBGGC",
+    "DRWHERE": "BGDSDTOP",
+    "LSBZD": "XBGDSDTOP,XBGDSD,XBGJS,XBGGC",
+    "DRBZD": "BGDSDTOP,BGDSD,BGYZJS,BGGC",
+    "table": "g_PeiZhiDC"
+  },
+  {
+    "LSB": "x_KCDKSLRTable",
+    "DRB": "z_y_DongTan",
+    "LSBKEY": "XDTDSDTOP,XDTLX",
+    "LSBNOTKEY": "XDTCD,XDTGC,DTJS",
+    "DRWHERE": "DTDSDTOP",
+    "LSBZD": "XDTDSDTOP,XDTLX,XDTCD,XDTGC,DTJS",
+    "DRBZD": "DTDSDTOP,DTLX,DTCD,DTGC,DTYZJS",
+    "table": "g_PeiZhiDC"
+  }
+]

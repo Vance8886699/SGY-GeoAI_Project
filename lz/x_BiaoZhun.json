@@ -1,0 +1,32 @@
+[
+  {
+    "GCBZ": "-1",
+    "BZMC": "公用标准",
+    "LZID": "",
+    "table": "x_BiaoZhun"
+  },
+  {
+    "GCBZ": "0",
+    "BZMC": "工民建标准",
+    "LZID": "",
+    "table": "x_BiaoZhun"
+  },
+  {
+    "GCBZ": "1",
+    "BZMC": "铁路标准",
+    "LZID": "",
+    "table": "x_BiaoZhun"
+  },
+  {
+    "GCBZ": "2",
+    "BZMC": "公路标准",
+    "LZID": "",
+    "table": "x_BiaoZhun"
+  },
+  {
+    "GCBZ": "3",
+    "BZMC": "水利标准",
+    "LZID": "",
+    "table": "x_BiaoZhun"
+  }
+]

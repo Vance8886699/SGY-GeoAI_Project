@@ -1,0 +1,18 @@
+[
+  {
+    "ID": "1",
+    "F_Leixing": "平面图",
+    "F_Filed": "P_SCZ",
+    "F_Name": "上传者",
+    "LZID": "",
+    "table": "t_FileDuiZhao"
+  },
+  {
+    "ID": "2",
+    "F_Leixing": "平面图",
+    "F_Filed": "P_SPZ",
+    "F_Name": "审批者",
+    "LZID": "",
+    "table": "t_FileDuiZhao"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "LZID": "",
+    "GCBZ": "-1",
+    "LIST_KEY": "测试索引1",
+    "LIST_ORDERNUM": "0",
+    "LIST_VALUE": "列表值1",
+    "table": "t_Option_List"
+  },
+  {
+    "LZID": "",
+    "GCBZ": "-1",
+    "LIST_KEY": "测试索引1",
+    "LIST_ORDERNUM": "1",
+    "LIST_VALUE": "列表值2",
+    "table": "t_Option_List"
+  },
+  {
+    "LZID": "",
+    "GCBZ": "-1",
+    "LIST_KEY": "测试索引1",
+    "LIST_ORDERNUM": "2",
+    "LIST_VALUE": "列表值3",
+    "table": "t_Option_List"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "TABLE": "t_JingTanWDSX",
+    "Model": "静探事前指导书模板.xls",
+    "NUMSHUJU": "25",
+    "SJB": "t_JingTanWDSS",
+    "WDMC": "JTMC",
+    "FOLDERNAME": "静探事前指导书",
+    "LZID": "",
+    "table": "t_ExcelPeiZhi"
+  },
+  {
+    "TABLE": "t_ShiKengZDSX",
+    "Model": "试坑事前指导书模板.xls",
+    "NUMSHUJU": "22",
+    "SJB": "t_ShiKengZDSS",
+    "WDMC": "SKMC",
+    "FOLDERNAME": "试坑事前指导书",
+    "LZID": "",
+    "table": "t_ExcelPeiZhi"
+  },
+  {
+    "TABLE": "t_ShuiZhiWDSX",
+    "Model": "水质试验委托书模板.xls",
+    "NUMSHUJU": "20",
+    "SJB": "t_ShuiZhiWDSS",
+    "WDMC": "SZMC",
+    "FOLDERNAME": "水质试验委托书",
+    "LZID": "",
+    "table": "t_ExcelPeiZhi"
+  },
+  {
+    "TABLE": "t_TuGongWDSX",
+    "Model": "土工试验委托书模板.xls",
+    "NUMSHUJU": "20",
+    "SJB": "t_TuGongWDSS",
+    "WDMC": "YSMC",
+    "FOLDERNAME": "土工试验委托书",
+    "LZID": "",
+    "table": "t_ExcelPeiZhi"
+  },
+  {
+    "TABLE": "t_WuTanZDS",
+    "Model": "",
+    "NUMSHUJU": "0",
+    "SJB": "",
+    "WDMC": "ZDMC",
+    "FOLDERNAME": "",
+    "LZID": "",
+    "table": "t_ExcelPeiZhi"
+  },
+  {
+    "TABLE": "t_YanShiWDSX",
+    "Model": "岩石试验委托书模板.xls",
+    "NUMSHUJU": "20",
+    "SJB": "t_YanShiWDSS",
+    "WDMC": "YSMC",
+    "FOLDERNAME": "岩石试验委托书",
+    "LZID": "",
+    "table": "t_ExcelPeiZhi"
+  },
+  {
+    "TABLE": "t_ZuanTanZDSX",
+    "Model": "钻探事前指导书模板.xls",
+    "NUMSHUJU": "23",
+    "SJB": "t_ZuanTanZDSS",
+    "WDMC": "ZTMC",
+    "FOLDERNAME": "钻探事前指导书",
+    "LZID": "",
+    "table": "t_ExcelPeiZhi"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "GCBZ": "0",
+    "YLJB": "12.5",
+    "LZID": "1",
+    "table": "g_GJSYYLJB"
+  },
+  {
+    "GCBZ": "0",
+    "YLJB": "25.0",
+    "LZID": "2",
+    "table": "g_GJSYYLJB"
+  },
+  {
+    "GCBZ": "0",
+    "YLJB": "50.0",
+    "LZID": "3",
+    "table": "g_GJSYYLJB"
+  },
+  {
+    "GCBZ": "0",
+    "YLJB": "100.0",
+    "LZID": "4",
+    "table": "g_GJSYYLJB"
+  },
+  {
+    "GCBZ": "0",
+    "YLJB": "200.0",
+    "LZID": "5",
+    "table": "g_GJSYYLJB"
+  },
+  {
+    "GCBZ": "0",
+    "YLJB": "400.0",
+    "LZID": "6",
+    "table": "g_GJSYYLJB"
+  },
+  {
+    "GCBZ": "0",
+    "YLJB": "800.0",
+    "LZID": "7",
+    "table": "g_GJSYYLJB"
+  },
+  {
+    "GCBZ": "0",
+    "YLJB": "1600.0",
+    "LZID": "8",
+    "table": "g_GJSYYLJB"
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "BLBA": "1020",
+    "ZDMC": "LFTCMC",
+    "ZDMS": "岩土名称",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1044",
+    "ZDMC": "LFYXZS",
+    "ZDMS": "液性指数(I L)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1045",
+    "ZDMC": "LFSXZS",
+    "ZDMS": "塑性指数(I P)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1034",
+    "ZDMC": "LFKXB",
+    "ZDMS": "孔隙比e",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1037",
+    "ZDMC": "LFBHD",
+    "ZDMS": "饱和度S(%)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1200",
+    "ZDMC": "LFBGJS",
+    "ZDMS": "标贯击数(击/30cm)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1009",
+    "ZDMC": "LFDCFHCD",
+    "ZDMS": "风化程度",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1105",
+    "ZDMC": "LFKL20",
+    "ZDMS": "大于20mm颗粒含量",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1108",
+    "ZDMC": "LFKL2",
+    "ZDMS": "大于2mm颗粒含量",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1149",
+    "ZDMC": "DCBHDZKYQD",
+    "ZDMS": "饱和单轴抗压强度",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1006",
+    "ZDMC": "DCMD",
+    "ZDMS": "密实度",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1204",
+    "ZDMC": "NX63_5",
+    "ZDMS": "重型动探修正N63.5(击/10cm)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1206",
+    "ZDMC": "NX120",
+    "ZDMS": "超重型动探修正N120(击/10cm)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1050",
+    "ZDMC": "ZJNMJ00",
+    "ZDMS": "内摩擦角φq(度)(快剪)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1051",
+    "ZDMC": "ZJNJL00",
+    "ZDMS": "粘聚力Cq(kPa)(快剪)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1055",
+    "ZDMC": "ZJNMJ10",
+    "ZDMS": "内摩擦角φc(度)(固快)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1052",
+    "ZDMC": "ZJNJL10",
+    "ZDMS": "粘聚力Cc(kPa)(固快)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1053",
+    "ZDMC": "ZJNMJ11",
+    "ZDMS": "内摩擦角φs(度)(慢剪)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1054",
+    "ZDMC": "ZJNJL11",
+    "ZDMS": "粘聚力Cs(kPa)(慢剪)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1060",
+    "ZDMC": "SHZF01",
+    "ZDMS": "内摩擦角φuu(度)\n(不固结不排水剪)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1061",
+    "ZDMC": "SHZC00",
+    "ZDMS": "粘聚力Cuu(kPa)\n(不固结不排水剪)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1062",
+    "ZDMC": "SHZF21",
+    "ZDMS": "有效内摩擦角φ'(度)\n(固结不排水剪)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1063",
+    "ZDMC": "SHZC20",
+    "ZDMS": "有效粘聚力c'(kPa)\n(固结不排水剪)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1064",
+    "ZDMC": "SHZF11",
+    "ZDMS": "内摩擦角φcu(度)\n(固结不排水剪)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1065",
+    "ZDMC": "SHZC10",
+    "ZDMS": "粘聚力Ccu(kPa)\n(固结不排水剪)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1066",
+    "ZDMC": "SHZF31",
+    "ZDMS": "内摩擦角φcd(度)\n(固结排水剪)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1067",
+    "ZDMC": "SHZC30",
+    "ZDMS": "粘聚力Ccd(kPa)\n(固结排水剪)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1088",
+    "ZDMC": "GJML0102",
+    "ZDMS": "Es0.1-0.2(Mpa)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1087",
+    "ZDMC": "GJML00501",
+    "ZDMS": "Es0.05-0.1(Mpa)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1031",
+    "ZDMC": "JYZLMD",
+    "ZDMS": "质量密度ρ(g/cm^3)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1153",
+    "ZDMC": "DCSTXS",
+    "ZDMS": "渗透系数k(*10^-6 cm/s)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1147",
+    "ZDMC": "DCGZDZKYQD",
+    "ZDMS": "干燥单轴抗压强度fr(MPa)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1148",
+    "ZDMC": "DCTRDZKYQD",
+    "ZDMS": "天然单轴抗压强度f∝(MPa)",
+    "table": "g_WLLXZBToDC"
+  },
+  {
+    "BLBA": "1009",
+    "ZDMC": "DCFHCD",
+    "ZDMS": "风化程度",
+    "table": "g_WLLXZBToDC"
+  }
+]

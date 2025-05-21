@@ -1,0 +1,506 @@
+[
+  {
+    "XH": "20",
+    "TableName": "CFGCurZXBZ",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "21",
+    "TableName": "CFGDbversion",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "2",
+    "TableName": "g_BiaoLie",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "3",
+    "TableName": "g_BiaoTou",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "22",
+    "TableName": "g_BIMCheckGF",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "23",
+    "TableName": "g_CG_DuiZhao",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "24",
+    "TableName": "g_CG_JSZBDZ",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "25",
+    "TableName": "g_CG_ZhParaCalc",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "26",
+    "TableName": "g_ChengZaiLiPeiZhi",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "27",
+    "TableName": "g_DestopArea",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "28",
+    "TableName": "g_DiZhi",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "4",
+    "TableName": "g_DuiZhao",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "29",
+    "TableName": "g_DuiZhaoDZSD",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "30",
+    "TableName": "g_DuiZhaoKH",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "31",
+    "TableName": "g_DZSDPXB",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "32",
+    "TableName": "g_GCGL",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "33",
+    "TableName": "g_GJSY",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "34",
+    "TableName": "g_GJSYYLJB",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "35",
+    "TableName": "g_GJSYYLJB_SHP",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "36",
+    "TableName": "g_HCJC",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "37",
+    "TableName": "g_KanChaBaoGao",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "38",
+    "TableName": "g_KTDToZHSYD",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "39",
+    "TableName": "g_MenuPeiZhi",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "5",
+    "TableName": "g_OrgTree",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "6",
+    "TableName": "g_PeiZhi",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "40",
+    "TableName": "g_peizhi_People",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "41",
+    "TableName": "g_PeiZhiDC",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "42",
+    "TableName": "g_PeiZhiDR",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "43",
+    "TableName": "g_PeiZhiZhiYu",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "44",
+    "TableName": "g_Region",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "7",
+    "TableName": "g_SJDuiZhao",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "45",
+    "TableName": "g_SJDZBH",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "46",
+    "TableName": "g_SpecialPeiZhi",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "47",
+    "TableName": "g_Stat_FieldCalc",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "18",
+    "TableName": "g_Stat_FieldInfo",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "8",
+    "TableName": "g_Stat_Model",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "9",
+    "TableName": "g_Stat_ModelPeiZhi",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "48",
+    "TableName": "g_Stat_StandardModel",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "19",
+    "TableName": "g_Stat_TableHead",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "49",
+    "TableName": "g_Stat_WLLXTJModel",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "50",
+    "TableName": "g_Stat_YSGridHead",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "51",
+    "TableName": "g_StatSelZKBH",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "10",
+    "TableName": "g_STuCeng",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "52",
+    "TableName": "g_SubTree",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "11",
+    "TableName": "g_TableName",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "53",
+    "TableName": "g_TJ_QYTable",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "54",
+    "TableName": "g_ToolBarPeiZhi",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "55",
+    "TableName": "g_TuMingChange",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "56",
+    "TableName": "g_UpdateDBVer",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "57",
+    "TableName": "g_WordSet",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "12",
+    "TableName": "g_XiaoShuDian",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "58",
+    "TableName": "g_YanXing",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "59",
+    "TableName": "g_YanXing_all",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "60",
+    "TableName": "g_YanXing_bj",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "61",
+    "TableName": "g_YanXing_cq",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "62",
+    "TableName": "g_YanXing_dl",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "63",
+    "TableName": "g_YanXing_Tsy",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "13",
+    "TableName": "g_YanXing_tyy",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "64",
+    "TableName": "g_ZHK",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "65",
+    "TableName": "g_ZhuangDuanCeZu",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "66",
+    "TableName": "g_ZiDuan",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "67",
+    "TableName": "g_ZKTree",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "14",
+    "TableName": "g_ZPTou",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "15",
+    "TableName": "g_ZztBiaoLie",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "16",
+    "TableName": "g_ZztBiaoTou",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "17",
+    "TableName": "g_ZZTTK",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "68",
+    "TableName": "t_DZSDPeiZhi",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "69",
+    "TableName": "t_Excel_Lie",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "70",
+    "TableName": "t_Excel_TempletKey",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "71",
+    "TableName": "t_ExcelLie",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "72",
+    "TableName": "t_ExcelPeiZhi",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "73",
+    "TableName": "t_FileDuiZhao",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "74",
+    "TableName": "t_Filter_PeiZhi",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "75",
+    "TableName": "t_HZ_PEIZHI",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "76",
+    "TableName": "t_MBPeizhi",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "77",
+    "TableName": "t_Option_List",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "78",
+    "TableName": "t_PeopleRecord",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "79",
+    "TableName": "t_table_PeiZhi",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "80",
+    "TableName": "t_TableFieldsMap",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "81",
+    "TableName": "t_TableMBMap",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "82",
+    "TableName": "t_TJ_PEIZHI",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "83",
+    "TableName": "TABLECOUNT",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "1",
+    "TableName": "x_BiaoZhun",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  },
+  {
+    "XH": "84",
+    "TableName": "x_Tree_PZPT",
+    "LZID": "",
+    "table": "g_UpdateTable"
+  }
+]

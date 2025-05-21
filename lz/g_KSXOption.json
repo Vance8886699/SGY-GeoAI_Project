@@ -1,0 +1,114 @@
+[
+  {
+    "XMDH": "TCKSX",
+    "DZMC": "坚硬",
+    "PATFILENAME_5": "1",
+    "PATFILENAME_4": "1",
+    "PATFILENAME_3": "1",
+    "table": "g_KSXOption"
+  },
+  {
+    "XMDH": "TCKSX",
+    "DZMC": "硬塑",
+    "PATFILENAME_5": "5",
+    "PATFILENAME_4": "2",
+    "PATFILENAME_3": "2",
+    "table": "g_KSXOption"
+  },
+  {
+    "XMDH": "TCKSX",
+    "DZMC": "可塑",
+    "PATFILENAME_5": "3",
+    "PATFILENAME_4": "3",
+    "PATFILENAME_3": "2",
+    "table": "g_KSXOption"
+  },
+  {
+    "XMDH": "TCKSX",
+    "DZMC": "软塑",
+    "PATFILENAME_5": "6",
+    "PATFILENAME_4": "3",
+    "PATFILENAME_3": "2",
+    "table": "g_KSXOption"
+  },
+  {
+    "XMDH": "TCKSX",
+    "DZMC": "流塑",
+    "PATFILENAME_5": "4",
+    "PATFILENAME_4": "4",
+    "PATFILENAME_3": "4",
+    "table": "g_KSXOption"
+  },
+  {
+    "XMDH": "TCMSD",
+    "DZMC": "密实",
+    "PATFILENAME_5": "",
+    "PATFILENAME_4": "1",
+    "PATFILENAME_3": "",
+    "table": "g_KSXOption"
+  },
+  {
+    "XMDH": "TCMSD",
+    "DZMC": "中密",
+    "PATFILENAME_5": "",
+    "PATFILENAME_4": "2",
+    "PATFILENAME_3": "",
+    "table": "g_KSXOption"
+  },
+  {
+    "XMDH": "TCMSD",
+    "DZMC": "稍密",
+    "PATFILENAME_5": "",
+    "PATFILENAME_4": "3",
+    "PATFILENAME_3": "",
+    "table": "g_KSXOption"
+  },
+  {
+    "XMDH": "TCMSD",
+    "DZMC": "松散",
+    "PATFILENAME_5": "",
+    "PATFILENAME_4": "4",
+    "PATFILENAME_3": "",
+    "table": "g_KSXOption"
+  },
+  {
+    "XMDH": "TCSID",
+    "DZMC": "稍湿",
+    "PATFILENAME_5": "1",
+    "PATFILENAME_4": "1",
+    "PATFILENAME_3": "1",
+    "table": "g_KSXOption"
+  },
+  {
+    "XMDH": "TCSID",
+    "DZMC": "湿",
+    "PATFILENAME_5": "",
+    "PATFILENAME_4": "",
+    "PATFILENAME_3": "",
+    "table": "g_KSXOption"
+  },
+  {
+    "XMDH": "TCSID",
+    "DZMC": "潮湿",
+    "PATFILENAME_5": "2",
+    "PATFILENAME_4": "2",
+    "PATFILENAME_3": "2",
+    "table": "g_KSXOption"
+  },
+  {
+    "XMDH": "TCSID",
+    "DZMC": "很湿",
+    "PATFILENAME_5": "",
+    "PATFILENAME_4": "",
+    "PATFILENAME_3": "",
+    "table": "g_KSXOption"
+  },
+  {
+    "XMDH": "TCSID",
+    "DZMC": "饱和",
+    "PATFILENAME_5": "4",
+    "PATFILENAME_4": "4",
+    "PATFILENAME_3": "4",
+    "table": "g_KSXOption"
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "Fil_ID": "不良地质及特殊岩土统计",
+    "Fil_SQL": "SELECT z_ZuanKong.ZKBH, z_ZuanKong.ZKLX, t_FangAnZuanKong.LGH, t_FangAnZuanKong.ZKLC, t_FangAnZuanKong.ZKPIL, t_gongdianZK.GongDianMC FROM (z_ZuanKong LEFT JOIN t_FangAnZuanKong ON (z_ZuanKong.GCSY = t_FangAnZuanKong.GCSY) AND (z_ZuanKong.ZKBH = t_FangAnZuanKong.ZKBH)) LEFT JOIN t_gongdianZK ON (t_FangAnZuanKong.ZKBH = t_gongdianZK.ZKBH) AND (t_FangAnZuanKong.GCSY = t_gongdianZK.GCSY) AND (t_FangAnZuanKong.FANGANID = t_gongdianZK.FANGANID)",
+    "Fil_Title": "编  号,类  型,冠号,里  程,偏移量,工  点",
+    "Fil_Type": "0,0,0,1,1,0",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "导入_水质试验委托书",
+    "Fil_SQL": "select SZMC, XMMC, SYDW, CStr(Year(SYRQ))+'年'+CStr(Month(SYRQ))+'月'+CStr(Day(SYRQ))+'日',CStr(Year(JFRQ))+'年'+CStr(Month(JFRQ))+'月'+CStr(Day(JFRQ))+'日', DWFZR, ZBR, SYR, SHYR,CStr(Year(SHYRQ))+'年'+CStr(Month(SHYRQ))+'月'+CStr(Day(SHYRQ))+'日' from t_ShuiZhiWDSX_KCUser",
+    "Fil_Title": "水质试验委托书名称,项目名称,送样单位,送样日期,交付资料日期,单位负责人,制表者,送样者,收样者,收样日期",
+    "Fil_Type": "0,0,0,1,1,0,0,0,0,1",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "导入_土工试验委托书",
+    "Fil_SQL": "select YSMC, XMMC, SYDW, CStr(Year(SYRQ))+'年'+CStr(Month(SYRQ))+'月'+CStr(Day(SYRQ))+'日',CStr(Year(JFRQ))+'年'+CStr(Month(JFRQ))+'月'+CStr(Day(JFRQ))+'日', DWFZR, ZBR, SYREN, SYR, CStr(Year(SYSJ))+'年'+CStr(Month(SYSJ))+'月'+CStr(Day(SYSJ))+'日' from t_TuGongWDSX_KCUser",
+    "Fil_Title": "土工试验委托书名称,项目名称,送样单位,送样日期,交付资料日期,单位负责人,制表者,送样者,收样者,收样日期",
+    "Fil_Type": "0,0,0,1,1,0,0,0,0,1",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "导入_岩石试验委托书",
+    "Fil_SQL": "select YSMC, XMMC, SYDW, CStr(Year(SYRQ))+'年'+CStr(Month(SYRQ))+'月'+CStr(Day(SYRQ))+'日',CStr(Year(JFRQ))+'年'+CStr(Month(JFRQ))+'月'+CStr(Day(JFRQ))+'日', DWFZR, ZBR, SYREN, SYR, CStr(Year(SYSJ))+'年'+CStr(Month(SYSJ))+'月'+CStr(Day(SYSJ))+'日' from t_YanShiWDSX_KCUser",
+    "Fil_Title": "岩石试验委托书名称,项目名称,送样单位,送样日期,交付资料日期,单位负责人,制表者,送样者,收样者,收样日期",
+    "Fil_Type": "0,0,0,1,1,0,0,0,0,1",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "地层统计",
+    "Fil_SQL": "SELECT z_ZuanKong.ZKBH, z_ZuanKong.ZKLX, t_FangAnZuanKong.LGH, t_FangAnZuanKong.ZKLC, t_FangAnZuanKong.ZKPIL, t_gongdianZK.GongDianMC FROM (z_ZuanKong LEFT JOIN t_FangAnZuanKong ON (z_ZuanKong.GCSY = t_FangAnZuanKong.GCSY) AND (z_ZuanKong.ZKBH = t_FangAnZuanKong.ZKBH)) LEFT JOIN t_gongdianZK ON (t_FangAnZuanKong.ZKBH = t_gongdianZK.ZKBH) AND (t_FangAnZuanKong.GCSY = t_gongdianZK.GCSY) AND (t_FangAnZuanKong.FANGANID = t_gongdianZK.FANGANID)",
+    "Fil_Title": "编  号,类  型,冠号,里  程,偏移量,工  点",
+    "Fil_Type": "0,0,0,1,1,0",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "地下水位统计",
+    "Fil_SQL": "SELECT z_ZuanKong.ZKBH, z_ZuanKong.ZKLX, t_FangAnZuanKong.LGH, t_FangAnZuanKong.ZKLC, t_FangAnZuanKong.ZKPIL, t_gongdianZK.GongDianMC, min(z_g_ShuiWei.SWSD) FROM ((z_ZuanKong LEFT JOIN t_FangAnZuanKong ON (z_ZuanKong.GCSY = t_FangAnZuanKong.GCSY) AND (z_ZuanKong.ZKBH = t_FangAnZuanKong.ZKBH)) LEFT JOIN t_gongdianZK ON (t_FangAnZuanKong.ZKBH = t_gongdianZK.ZKBH) AND (t_FangAnZuanKong.GCSY = t_gongdianZK.GCSY) AND (t_FangAnZuanKong.FANGANID = t_gongdianZK.FANGANID)) INNER JOIN z_g_ShuiWei ON (z_ZuanKong.ZKBH = z_g_ShuiWei.ZKBH) AND (z_ZuanKong.GCSY = z_g_ShuiWei.GCSY)",
+    "Fil_Title": "编  号,类  型,冠号,里  程,偏移量,工  点,水位深度(m)",
+    "Fil_Type": "0,0,0,1,1,0,1",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "断面图筛选",
+    "Fil_SQL": "SELECT z_ZuanKong.ZKBH, t_FangAnZuanKong.ZKLC,t_FangAnZuanKong.ZKPIL,t_gongdianZK.GongDianMC, z_ZuanKong.ZKZTDW, z_ZuanKong.JZ, z_ZuanKong.FZR, z_ZuanKong.ZKKSRQ, z_ZuanKong.ZKZZRQ\r\nFROM (z_ZuanKong LEFT JOIN t_FangAnZuanKong ON (z_ZuanKong.[ZKBH] = t_FangAnZuanKong.[ZKBH]) AND (z_ZuanKong.[GCSY] = t_FangAnZuanKong.[GCSY])) LEFT JOIN t_gongdianZK ON (t_FangAnZuanKong.[ZKBH] = t_gongdianZK.[ZKBH]) AND (t_FangAnZuanKong.[GCSY] = t_gongdianZK.[GCSY]) AND (t_FangAnZuanKong.[FANGANID] = t_gongdianZK.[FANGANID])",
+    "Fil_Title": "钻孔编号,里程,偏移量,工点,勘探单位,机组,负责人,开始日期,终止日期",
+    "Fil_Type": "0,1,1,0,0,0,0,1,1",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "工点断面图筛选",
+    "Fil_SQL": "SELECT z_ZuanKong.ZKBH, t_FangAnZuanKong.ZKLC,t_FangAnZuanKong.ZKPIL, z_ZuanKong.ZKZTDW, z_ZuanKong.JZ, z_ZuanKong.FZR, z_ZuanKong.ZKKSRQ, z_ZuanKong.ZKZZRQ\r\nFROM (z_ZuanKong LEFT JOIN t_FangAnZuanKong ON (z_ZuanKong.[ZKBH] = t_FangAnZuanKong.[ZKBH]) AND (z_ZuanKong.[GCSY] = t_FangAnZuanKong.[GCSY])) LEFT JOIN t_gongdianZK ON (t_FangAnZuanKong.[ZKBH] = t_gongdianZK.[ZKBH]) AND (t_FangAnZuanKong.[GCSY] = t_gongdianZK.[GCSY]) AND (t_FangAnZuanKong.[FANGANID] = t_gongdianZK.[FANGANID])",
+    "Fil_Title": "钻孔编号,里程,偏移量,勘探单位,机组,负责人,开始日期,终止日期",
+    "Fil_Type": "0,1,1,0,0,0,1,1",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "观测点打印筛选",
+    "Fil_SQL": "SELECT z_ZuanKong.GCSY, t_FangAnZuanKong.FANGANID, z_ZuanKong.ZKBH, Iif(IsNull(t_FangAnZuanKong.ZKLC),Null,Iif(IsNull(t_FangAnZuanKong.LGH),'',t_FangAnZuanKong.LGH)+CStr(Fix(t_FangAnZuanKong.ZKLC)\\1000)+'+'+CStr(Format(t_FangAnZuanKong.ZKLC-(Fix(t_FangAnZuanKong.ZKLC)\\1000)*1000,\"000.00\"))+Iif(IsNull(t_FangAnZuanKong.ZKPIL),'',Iif(t_FangAnZuanKong.ZKPIL>0,\"右\"+CStr(Format(Abs(t_FangAnZuanKong.ZKPIL),\"0.00\")),Iif(t_FangAnZuanKong.ZKPIL<0,\"左\"+CStr(Format(Abs(t_FangAnZuanKong.ZKPIL),\"0.00\")),'')))) AS zklc, t_FangAnZuanKong.ZKZBH,t_FangAnZuanKong.LGH,t_FangAnZuanKong.ZKLC,t_FangAnZuanKong.ZKPIL,\r\nt_gongdianZK.GongDianMC, z_ZuanKong.ZKDCZ, z_ZuanKong.ZKDCRQ, z_ZuanKong.ZKKTDW, z_ZuanKong.GCDLX, z_ZuanKong.ZKX, z_ZuanKong.ZKY, z_ZuanKong.ZKH, z_ZuanKong.ZKV FROM (z_ZuanKong INNER JOIN t_fanganzuankong ON (z_ZuanKong.GCSY = t_fanganzuankong.GCSY AND z_ZuanKong.ZKBH = t_fanganzuankong.ZKBH)) LEFT JOIN t_gongdianZK ON (t_FangAnZuanKong.ZKBH = t_gongdianZK.ZKBH) AND (t_FangAnZuanKong.GCSY = t_gongdianZK.GCSY) AND (t_FangAnZuanKong.FANGANID = t_gongdianZK.FANGANID)",
+    "Fil_Title": "工程索引,方案ID,钻孔编号,里程,钻孔总编号,冠号,里程(m),偏移量(m),工点,调查者,调查日期,调查单位,观测点类型,坐标X,坐标Y,ZKH,ZKV",
+    "Fil_Type": "0,0,0,0,0,0,1,1,0,0,1,0,0,1,1,0,1",
+    "Fil_Hide": "工程索引,方案ID,里程,ZKH,ZKV",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "观测点分类统计",
+    "Fil_SQL": "SELECT z_ZuanKong.ZKBH, z_ZuanKong.ZKLX, t_FangAnZuanKong.LGH, t_FangAnZuanKong.ZKLC, t_FangAnZuanKong.ZKPIL, t_gongdianZK.GongDianMC, z_ZuanKong.ZKKTDW, z_ZuanKong.ZKDCZ, z_ZuanKong.ZKDCRQ, z_ZuanKong.GCDLX\r\nFROM (z_ZuanKong INNER JOIN t_FangAnZuanKong ON (z_ZuanKong.[ZKBH] = t_FangAnZuanKong.[ZKBH]) AND (z_ZuanKong.[GCSY] = t_FangAnZuanKong.[GCSY])) LEFT JOIN t_gongdianZK ON (t_FangAnZuanKong.[ZKBH] = t_gongdianZK.[ZKBH]) AND (t_FangAnZuanKong.[GCSY] = t_gongdianZK.[GCSY]) AND (t_FangAnZuanKong.[FANGANID] = t_gongdianZK.[FANGANID])",
+    "Fil_Title": "编  号,类  型,冠号,里  程,偏移量,工  点,单位,调查者,调查日期,观测点类型",
+    "Fil_Type": "0,0,0,1,1,0,0,0,1,0",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "观测点汇总",
+    "Fil_SQL": "SELECT z_ZuanKong.ZKBH, z_ZuanKong.ZKLX, t_FangAnZuanKong.LGH, t_FangAnZuanKong.ZKLC, t_FangAnZuanKong.ZKPIL, t_KcFenDuan.KCFD, z_ZuanKong_Buf.JY, z_ZuanKong.ZKKTDW, z_ZuanKong.DZZZ, z_ZuanKong.ZKDCRQ\r\nFROM ((t_KcFenDuan INNER JOIN z_ZuanKong ON t_KcFenDuan.ID = z_ZuanKong.GCSY) INNER JOIN z_ZuanKong_Buf ON (z_ZuanKong.ZKBH = z_ZuanKong_Buf.ZKBH) AND (z_ZuanKong.GCSY = z_ZuanKong_Buf.GCSY)) LEFT JOIN t_FangAnZuanKong ON (z_ZuanKong_Buf.ZKBH = t_FangAnZuanKong.ZKBH) AND (z_ZuanKong_Buf.GCSY = t_FangAnZuanKong.GCSY)",
+    "Fil_Title": "编  号,类  型,冠号,里  程,偏移量,段  落,基岩,单位,地质组长,调查日期",
+    "Fil_Type": "0,0,0,1,1,0,0,0,0,1",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "观测点筛选",
+    "Fil_SQL": "SELECT z_zuankong.zkwz,z_ZuanKong.ZKBH,t_FangAnZuanKong.LGH, t_FangAnZuanKong.ZKLC,  t_FangAnZuanKong.ZKPIL, z_ZuanKong.ZKX, z_ZuanKong.ZKY  FROM z_ZuanKong INNER JOIN t_FangAnZuanKong ON (z_ZuanKong.ZKBH = t_FangAnZuanKong.ZKBH) AND (z_ZuanKong.GCSY = t_FangAnZuanKong.GCSY)",
+    "Fil_Title": "钻孔位置,钻孔编号,里程冠号,里  程,偏移量,坐标X,坐标Y",
+    "Fil_Type": "0,0,0,1,1,1,1",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "核对试验情况",
+    "Fil_SQL": "SELECT z_ZuanKong.ZKBH, z_ZuanKong.ZKLX, t_FangAnZuanKong.LGH, t_FangAnZuanKong.ZKLC, t_FangAnZuanKong.ZKPIL, t_gongdianZK.GongDianMC, z_ZuanKong.ZKKSRQ, z_ZuanKong.ZKZZRQ FROM ((z_ZuanKong LEFT JOIN t_FangAnZuanKong ON (z_ZuanKong.GCSY = t_FangAnZuanKong.GCSY) AND (z_ZuanKong.ZKBH = t_FangAnZuanKong.ZKBH)) LEFT JOIN t_gongdianZK ON (t_FangAnZuanKong.ZKBH = t_gongdianZK.ZKBH) AND (t_FangAnZuanKong.GCSY = t_gongdianZK.GCSY) AND (t_FangAnZuanKong.FANGANID = t_gongdianZK.FANGANID)) INNER JOIN [TABLE] ON (z_ZuanKong.ZKBH = [TABLE].ZKBH) AND (z_ZuanKong.GCSY = [TABLE].GCSY)",
+    "Fil_Title": "编  号,类  型,冠号,里  程,偏移量,工  点,开始日期,终止日期",
+    "Fil_Type": "0,0,0,1,1,0,1,1",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "静力触探分类统计",
+    "Fil_SQL": "SELECT z_ZuanKong.ZKBH, z_ZuanKong.ZKLX, t_FangAnZuanKong.LGH, t_FangAnZuanKong.ZKLC, t_FangAnZuanKong.ZKPIL, t_gongdianZK.GongDianMC, z_ZuanKong.ZKKTDW, z_ZuanKong.FZR, z_ZuanKong.ZKKSRQ\r\nFROM (z_ZuanKong LEFT JOIN t_FangAnZuanKong ON (z_ZuanKong.[GCSY] = t_FangAnZuanKong.[GCSY]) AND (z_ZuanKong.[ZKBH] = t_FangAnZuanKong.[ZKBH])) LEFT JOIN t_gongdianZK ON (t_FangAnZuanKong.[FANGANID] = t_gongdianZK.[FANGANID]) AND (t_FangAnZuanKong.[GCSY] = t_gongdianZK.[GCSY]) AND (t_FangAnZuanKong.[ZKBH] = t_gongdianZK.[ZKBH])",
+    "Fil_Title": "编  号,类  型,冠号,里  程,偏移量,工  点,勘探单位,技术负责人,测试日期",
+    "Fil_Type": "0,0,0,1,1,0,0,0,1",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "静力触探汇总",
+    "Fil_SQL": "SELECT z_ZuanKong.ZKBH, z_ZuanKong.ZKLX, t_FangAnZuanKong.LGH, t_FangAnZuanKong.ZKLC, t_FangAnZuanKong.ZKPIL, t_KcFenDuan.KCFD, z_ZuanKong_Buf.KNCS, z_ZuanKong.ZKKTDW, z_ZuanKong.FZR, z_ZuanKong.ZKKSRQ\r\nFROM ((t_KcFenDuan INNER JOIN z_ZuanKong ON t_KcFenDuan.ID = z_ZuanKong.GCSY) INNER JOIN z_ZuanKong_Buf ON (z_ZuanKong.ZKBH = z_ZuanKong_Buf.ZKBH) AND (z_ZuanKong.GCSY = z_ZuanKong_Buf.GCSY)) LEFT JOIN t_FangAnZuanKong ON (z_ZuanKong_Buf.ZKBH = t_FangAnZuanKong.ZKBH) AND (z_ZuanKong_Buf.GCSY = t_FangAnZuanKong.GCSY)",
+    "Fil_Title": "编  号,类  型,冠号,里  程,偏移量,段  落,孔内测试,勘探单位,技术负责人,测试日期",
+    "Fil_Type": "0,0,0,1,1,0,0,0,0,1",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "勘察点",
+    "Fil_SQL": "SELECT z_ZuanKong.ZKBH, t_KcFenDuan.KCFD, t_FangAnZuanKong.ZKLC, t_KcFenDuan.GH, t_FangAnZuanKong.ZKPIL, z_ZuanKong.ZKX, z_ZuanKong.ZKY, z_ZuanKong.ZKSD, z_ZuanKong.BZ FROM z_ZuanKong INNER JOIN ((t_KcFenDuan INNER JOIN t_FangAn ON t_KcFenDuan.ID = t_FangAn.GCSY) INNER JOIN t_FangAnZuanKong ON (t_FangAn.GCSY = t_FangAnZuanKong.GCSY) AND (t_FangAn.ID = t_FangAnZuanKong.FANGANID)) ON (z_ZuanKong.ZKBH = t_FangAnZuanKong.ZKBH) AND (z_ZuanKong.GCSY = t_FangAnZuanKong.GCSY) AND (z_ZuanKong.GCSY = t_KcFenDuan.ID)",
+    "Fil_Title": "钻孔编号,段落,里程,里程冠号,偏移量,坐标X,坐标Y,勘探深度,备注",
+    "Fil_Type": "0,0,1,1,1,1,1,1,0",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "勘察点_DL",
+    "Fil_SQL": "SELECT z_ZuanKong.ZKBH, t_KcFenDuan.KCFD, z_ZuanKong.ZKLX, z_ZuanKong.ZKWZ, z_ZuanKong.ZKX, z_ZuanKong.ZKY,  z_ZuanKong.BZ\r\nFROM t_KcFenDuan INNER JOIN z_ZuanKong ON t_KcFenDuan.ID = z_ZuanKong.GCSY",
+    "Fil_Title": "现场编号,段落,类型,钻孔位置,坐标E,坐标N,备注",
+    "Fil_Type": "0,0,0,1,1,1,0",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "勘察点_FA",
+    "Fil_SQL": "SELECT z_ZuanKong.ZKBH, t_KcFenDuan.KCFD, z_ZuanKong.ZKLX,t_FangAnZuanKong.LGH, t_FangAnZuanKong.ZKLC,t_FangAnZuanKong.ZKPIL, z_ZuanKong.ZKX, z_ZuanKong.ZKY, z_ZuanKong.BZ FROM t_FangAnZuanKong INNER JOIN (z_ZuanKong INNER JOIN t_KcFenDuan ON z_ZuanKong.GCSY = t_KcFenDuan.ID) ON (t_FangAnZuanKong.ZKBH = z_ZuanKong.ZKBH) AND (t_FangAnZuanKong.GCSY = z_ZuanKong.GCSY)",
+    "Fil_Title": "现场编号,段落,类型,里程冠号,里程,偏移量,坐标E,坐标N,备注",
+    "Fil_Type": "0,0,0,0,1,1,1,1,0",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "勘探点一览表查询",
+    "Fil_SQL": "SELECT GCSY,GCSY,ZKBH,ZKLX,ZKX,ZKY,ZKBG,ZKSD,ZKKSRQ,ZKZZRQ,BZ FROM z_ZuanKong [WHEREREPLACE] order by ZKH,ZKV",
+    "Fil_Title": "工程索引,工程索引,勘探点编号,勘探点类型,勘探点坐标X(m),勘探点坐标Y(m),孔口高程(m),勘探深度(m),勘察开始日期,勘察终止日期,备注",
+    "Fil_Type": "0,0,0,0,1,1,1,1,0,0,0",
+    "Fil_Hide": "SELECT GCSY,GCSY,ZKBH_ZH,ZKLX,ZKX_ZH,ZKY_ZH,ZKBG_ZH,ZKSD_ZH,ZKKSRQ_ZH,ZKZZRQ_ZH,BZ FROM z_ZuanKongZH [WHEREREPLACE] order by ZKH,ZKV",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "剖线查询",
+    "Fil_SQL": "SELECT GCSY,GCSY,PXBH,PXKH,PXKJ,PXFWJ FROM p_PouXian [WHEREREPLACE] order by ZKH,ZKV",
+    "Fil_Title": "工程索引,工程索引,剖线编号,剖线孔号,剖线孔间距(m),剖线方位角度(度)",
+    "Fil_Type": "0,0,0,0,0,0",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "曲线打印筛选",
+    "Fil_SQL": "SELECT  distinct t_KcFenDuan.ID,t_FangAnZuanKong.fanganid,z_ZuanKong.ZKBH, \r\nIif(IsNull(t_FangAnZuanKong.ZKLC),Null,Iif(IsNull(t_FangAnZuanKong.LGH),'',t_FangAnZuanKong.LGH)+CStr(Fix(t_FangAnZuanKong.ZKLC)\\1000)+'+'+CStr(Format(t_FangAnZuanKong.ZKLC-(Fix(t_FangAnZuanKong.ZKLC)\\1000)*1000,\"000.00\"))+Iif(IsNull(t_FangAnZuanKong.ZKPIL),'',Iif(t_FangAnZuanKong.ZKPIL>0,\"右\"+CStr(Format(Abs(t_FangAnZuanKong.ZKPIL),\"0.00\")),Iif(t_FangAnZuanKong.ZKPIL<0,\"左\"+CStr(Format(Abs(t_FangAnZuanKong.ZKPIL),\"0.00\")),'')))) AS zklc, t_FangAnZuanKong.ZKZBH,t_FangAnZuanKong.LGH,t_FangAnZuanKong.ZKLC,t_FangAnZuanKong.ZKPIL,\r\nt_gongdianZK.GongDianMC, z_ZuanKong.ZKKTDW, z_ZuanKong.JZ, z_ZuanKong.FZR, z_ZuanKong.ZKKSRQ, z_ZuanKong.ZKZZRQ,ZKH,ZKV\r\nFROM ((((t_KcFenDuan INNER JOIN z_ZuanKong ON t_KcFenDuan.ID = z_ZuanKong.GCSY) LEFT JOIN t_FangAnZuanKong ON (z_ZuanKong.ZKBH = t_FangAnZuanKong.ZKBH) AND (z_ZuanKong.GCSY = t_FangAnZuanKong.GCSY)) LEFT JOIN t_gongdianZK ON (t_FangAnZuanKong.ZKBH = t_gongdianZK.ZKBH) AND (t_FangAnZuanKong.GCSY = t_gongdianZK.GCSY) AND (t_FangAnZuanKong.FANGANID = t_gongdianZK.FANGANID)) INNER JOIN t_FangAn ON t_KcFenDuan.ID = t_FangAn.GCSY) INNER JOIN [TABLE] ON (z_ZuanKong.ZKBH = [TABLE].ZKBH) AND (z_ZuanKong.GCSY = [TABLE].GCSY)",
+    "Fil_Title": "工程索引,方案ID,钻孔编号,里程,钻孔总编号,冠号,里程(m),偏移量(m),工点,勘探单位,机组,负责人,开始日期,终止日期,ZKH,ZKV",
+    "Fil_Type": "0,0,0,1,0,0,1,1,0,0,0,0,1,1,1,1",
+    "Fil_Hide": "工程索引,方案ID,里程,ZKH,ZKV",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "曲线打印筛选_录入",
+    "Fil_SQL": "SELECT distinct z_ZuanKong.GCSY, z_ZuanKong.ZKBH, ZKWZ, ZKKTDW, JZ, FZR, ZKKSRQ, ZKZZRQ,ZKH,ZKV \nFROM z_ZuanKong INNER JOIN [TABLE] ON (z_ZuanKong.ZKBH = [TABLE].ZKBH) AND (z_ZuanKong.GCSY = [TABLE].GCSY)",
+    "Fil_Title": "工程索引,钻孔编号,里程位置,勘探单位,机组,负责人,开始日期,终止日期,ZKH,ZKV",
+    "Fil_Type": "0,0,1,0,0,0,1,1,1,1",
+    "Fil_Hide": "工程索引,ZKH,ZKV",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "试坑分类统计",
+    "Fil_SQL": "SELECT z_ZuanKong.ZKBH, z_ZuanKong.ZKLX, t_FangAnZuanKong.LGH, t_FangAnZuanKong.ZKLC, t_FangAnZuanKong.ZKPIL, t_gongdianZK.GongDianMC, z_ZuanKong.ZKKTDW, z_ZuanKong.FZR, z_ZuanKong.ZKKSRQ, z_ZuanKong.ZKZZRQ\r\nFROM (z_ZuanKong LEFT JOIN t_FangAnZuanKong ON (z_ZuanKong.[GCSY] = t_FangAnZuanKong.[GCSY]) AND (z_ZuanKong.[ZKBH] = t_FangAnZuanKong.[ZKBH])) LEFT JOIN t_gongdianZK ON (t_FangAnZuanKong.[FANGANID] = t_gongdianZK.[FANGANID]) AND (t_FangAnZuanKong.[GCSY] = t_gongdianZK.[GCSY]) AND (t_FangAnZuanKong.[ZKBH] = t_gongdianZK.[ZKBH])",
+    "Fil_Title": "编  号,类  型,冠号,里  程,偏移量,工  点,勘探单位,技术负责人,开工日期,完工日期",
+    "Fil_Type": "0,0,0,1,1,0,0,0,1,1",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "试坑汇总",
+    "Fil_SQL": "SELECT z_ZuanKong.ZKBH, z_ZuanKong.ZKLX, t_FangAnZuanKong.LGH, t_FangAnZuanKong.ZKLC, t_FangAnZuanKong.ZKPIL, t_KcFenDuan.KCFD, z_ZuanKong_Buf.KNCS, z_ZuanKong_Buf.RDKD, z_ZuanKong_Buf.SXX, z_ZuanKong_Buf.PZX, z_ZuanKong_Buf.QSX, z_ZuanKong_Buf.JY, z_ZuanKong.ZKKTDW, z_ZuanKong.FZR, z_ZuanKong.ZKKSRQ, z_ZuanKong.ZKZZRQ\r\nFROM ((t_KcFenDuan INNER JOIN z_ZuanKong ON t_KcFenDuan.ID = z_ZuanKong.GCSY) INNER JOIN z_ZuanKong_Buf ON (z_ZuanKong.ZKBH = z_ZuanKong_Buf.ZKBH) AND (z_ZuanKong.GCSY = z_ZuanKong_Buf.GCSY)) LEFT JOIN t_FangAnZuanKong ON (z_ZuanKong_Buf.ZKBH = t_FangAnZuanKong.ZKBH) AND (z_ZuanKong_Buf.GCSY = t_FangAnZuanKong.GCSY)",
+    "Fil_Title": "编  号,类  型,冠号,里  程,偏移量,段  落,孔内测试,溶洞空洞,湿陷性,膨胀性,侵蚀性,基岩,勘探单位,技术负责人,开工日期,完工日期",
+    "Fil_Type": "0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "物理力学指标统计",
+    "Fil_SQL": "SELECT z_ZuanKong.ZKBH, z_ZuanKong.ZKLX, t_FangAnZuanKong.LGH, t_FangAnZuanKong.ZKLC, t_FangAnZuanKong.ZKPIL, t_gongdianZK.GongDianMC FROM (z_ZuanKong LEFT JOIN t_FangAnZuanKong ON (z_ZuanKong.GCSY = t_FangAnZuanKong.GCSY) AND (z_ZuanKong.ZKBH = t_FangAnZuanKong.ZKBH)) LEFT JOIN t_gongdianZK ON (t_FangAnZuanKong.ZKBH = t_gongdianZK.ZKBH) AND (t_FangAnZuanKong.GCSY = t_gongdianZK.GCSY) AND (t_FangAnZuanKong.FANGANID = t_gongdianZK.FANGANID)",
+    "Fil_Title": "编  号,类  型,冠号,里  程,偏移量,工  点",
+    "Fil_Type": "0,0,0,1,1,0",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "岩样选择",
+    "Fil_SQL": "select GCSY,GCSY,ZKBH,QYBH,DZKYQD_TR,DZKYQD_HG,DZKYQD_BH from t_yanshi order by string(20-len(trim(ZKBH)),'0')+trim(ZKBH),string(20-len(trim(QYBH)),'0')+trim(QYBH)",
+    "Fil_Title": "工程索引,工程索引,勘探点编号,取样编号,天然单轴抗压强度R(MPa),烘干单轴抗压强度Rc(MPa),饱和单轴抗压强度Rb(Mpa)",
+    "Fil_Type": "0,0,1,1,1",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "原位试验钻孔查询",
+    "Fil_SQL": "SELECT z_ZuanKong.GCSY,z_ZuanKong.GCSY,z_ZuanKong.ZKBH,z_ZuanKong.ZKLX,z_ZuanKong.ZKX,z_ZuanKong.ZKY,z_ZuanKong.ZKBG,z_ZuanKong.ZKSD,z_ZuanKong.ZKKSRQ,z_ZuanKong.ZKZZRQ,z_ZuanKong.BZ FROM z_ZuanKong where ZKBH IN(SELECT DISTINCT ZKBH FROM [WHEREREPLACE]) order by ZKH,ZKV",
+    "Fil_Title": "工程索引,工程索引,勘探点编号,勘探点类型,勘探点坐标X(m),勘探点坐标Y(m),孔口高程(m),勘探深度(m),勘察开始日期,勘察终止日期,备注",
+    "Fil_Type": "0,0,0,0,1,1,1,1,0,0,0",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "钻孔查询",
+    "Fil_SQL": "SELECT GCSY,GCSY,ZKBH,ZKLX,ZKX,ZKY,ZKBG,ZKSD,ZKKSRQ,ZKZZRQ,BZ FROM z_ZuanKong [WHEREREPLACE] order by ZKH,ZKV",
+    "Fil_Title": "工程索引,工程索引,勘探点编号,勘探点类型,勘探点坐标X(m),勘探点坐标Y(m),孔口高程(m),勘探深度(m),勘察开始日期,勘察终止日期,备注",
+    "Fil_Type": "0,0,0,0,1,1,1,1,0,0,0",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "钻孔打印筛选",
+    "Fil_SQL": "SELECT  distinct t_KcFenDuan.ID,t_FangAnZuanKong.fanganid,z_ZuanKong.ZKBH, \r\nIif(IsNull(t_FangAnZuanKong.ZKLC),Null,Iif(IsNull(t_FangAnZuanKong.LGH),'',t_FangAnZuanKong.LGH)+CStr(Fix(t_FangAnZuanKong.ZKLC)\\1000)+'+'+CStr(Format(t_FangAnZuanKong.ZKLC-(Fix(t_FangAnZuanKong.ZKLC)\\1000)*1000,\"000.00\"))+Iif(IsNull(t_FangAnZuanKong.ZKPIL),'',Iif(t_FangAnZuanKong.ZKPIL>0,\"右\"+CStr(Format(Abs(t_FangAnZuanKong.ZKPIL),\"0.00\")),Iif(t_FangAnZuanKong.ZKPIL<0,\"左\"+CStr(Format(Abs(t_FangAnZuanKong.ZKPIL),\"0.00\")),'')))) AS zklc, t_FangAnZuanKong.ZKZBH,t_FangAnZuanKong.LGH,t_FangAnZuanKong.ZKLC,t_FangAnZuanKong.ZKPIL,\r\nt_gongdianZK.GongDianMC, z_ZuanKong.ZKKTDW, z_ZuanKong.JZ, z_ZuanKong.FZR, z_ZuanKong.ZKKSRQ, z_ZuanKong.ZKZZRQ,ZKH,ZKV\r\nFROM (t_FangAn INNER JOIN (((t_KcFenDuan INNER JOIN z_ZuanKong ON t_KcFenDuan.ID = z_ZuanKong.GCSY) LEFT JOIN t_FangAnZuanKong ON (z_ZuanKong.GCSY = t_FangAnZuanKong.GCSY) AND (z_ZuanKong.ZKBH = t_FangAnZuanKong.ZKBH)) LEFT JOIN t_gongdianZK ON (t_FangAnZuanKong.ZKBH = t_gongdianZK.ZKBH) AND (t_FangAnZuanKong.GCSY = t_gongdianZK.GCSY) AND (t_FangAnZuanKong.FANGANID = t_gongdianZK.FANGANID)) ON t_FangAn.GCSY = t_KcFenDuan.ID) INNER JOIN [TABLE] ON (z_ZuanKong.ZKBH = [TABLE].ZKBH) AND (z_ZuanKong.GCSY = [TABLE].GCSY)",
+    "Fil_Title": "工程索引,方案ID,钻孔编号,里程,钻孔总编号,冠号,里程(m),偏移量(m),工点,勘探单位,机组,负责人,开始日期,终止日期,ZKH,ZKV",
+    "Fil_Type": "0,0,0,1,0,0,1,1,0,0,0,0,1,1,1,1",
+    "Fil_Hide": "工程索引,方案ID,里程,ZKH,ZKV",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "钻孔打印筛选_录入",
+    "Fil_SQL": "SELECT distinct z_ZuanKong.GCSY, z_ZuanKong.ZKBH, ZKWZ, ZKKTDW, JZ, FZR, ZKKSRQ, ZKZZRQ, ZKH, ZKV FROM  z_ZuanKong INNER JOIN [TABLE] ON (z_ZuanKong.ZKBH = [TABLE].ZKBH) AND (z_ZuanKong.GCSY = [TABLE].GCSY)",
+    "Fil_Title": "工程索引,钻孔编号,里程位置,勘探单位,机组,负责人,开始日期,终止日期,ZKH,ZKV",
+    "Fil_Type": "0,0,1,0,0,0,1,1,1,1",
+    "Fil_Hide": "工程索引,ZKH,ZKV",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "钻孔分类统计",
+    "Fil_SQL": "SELECT z_ZuanKong.ZKBH, z_ZuanKong.ZKLX, t_FangAnZuanKong.LGH, t_FangAnZuanKong.ZKLC, t_FangAnZuanKong.ZKPIL, t_gongdianZK.GongDianMC, z_ZuanKong.ZKKTDW, z_ZuanKong.FZR, z_ZuanKong.ZKKSRQ, z_ZuanKong.ZKZZRQ\r\nFROM (z_ZuanKong LEFT JOIN t_FangAnZuanKong ON (z_ZuanKong.[GCSY] = t_FangAnZuanKong.[GCSY]) AND (z_ZuanKong.[ZKBH] = t_FangAnZuanKong.[ZKBH])) LEFT JOIN t_gongdianZK ON (t_FangAnZuanKong.[FANGANID] = t_gongdianZK.[FANGANID]) AND (t_FangAnZuanKong.[GCSY] = t_gongdianZK.[GCSY]) AND (t_FangAnZuanKong.[ZKBH] = t_gongdianZK.[ZKBH])",
+    "Fil_Title": "编  号,类  型,冠号,里  程,偏移量,工  点,勘探单位,技术负责人,开工日期,完工日期",
+    "Fil_Type": "0,0,0,1,1,0,0,0,1,1",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "钻孔汇总",
+    "Fil_SQL": "SELECT z_ZuanKong.ZKBH, z_ZuanKong.ZKLX, t_FangAnZuanKong.LGH, t_FangAnZuanKong.ZKLC, t_FangAnZuanKong.ZKPIL, t_KcFenDuan.KCFD, z_ZuanKong_Buf.KNCS, z_ZuanKong_Buf.RDKD, z_ZuanKong_Buf.YH, z_ZuanKong_Buf.SXX, z_ZuanKong_Buf.PZX, z_ZuanKong_Buf.QSX, z_ZuanKong_Buf.JY, z_ZuanKong.ZKKTDW, z_ZuanKong.FZR, z_ZuanKong.ZKKSRQ, z_ZuanKong.ZKZZRQ\r\nFROM ((t_KcFenDuan INNER JOIN z_ZuanKong ON t_KcFenDuan.ID = z_ZuanKong.GCSY) INNER JOIN z_ZuanKong_Buf ON (z_ZuanKong.ZKBH = z_ZuanKong_Buf.ZKBH) AND (z_ZuanKong.GCSY = z_ZuanKong_Buf.GCSY)) LEFT JOIN t_FangAnZuanKong ON (z_ZuanKong_Buf.ZKBH = t_FangAnZuanKong.ZKBH) AND (z_ZuanKong_Buf.GCSY = t_FangAnZuanKong.GCSY)",
+    "Fil_Title": "编  号,类  型,冠号,里  程,偏移量,段  落,孔内测试,溶洞空洞,液化,湿陷性,膨胀性,侵蚀性,基岩,勘探单位,技术负责人,开工日期,完工日期",
+    "Fil_Type": "0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "钻孔取样查询",
+    "Fil_SQL": "SELECT z_ZuanKong.GCSY,z_ZuanKong.GCSY,z_ZuanKong.ZKBH,z_c_QuYang.QYBH,z_c_QuYang.QYLX,z_c_QuYang.QYDC,SXGJYLJB,SPGJYLJB  FROM ((z_ZuanKong LEFT JOIN z_c_QuYang ON(z_ZuanKong.GCSY = z_c_QuYang.GCSY AND z_ZuanKong.ZKBH = z_c_QuYang.ZKBH)) LEFT JOIN z_c_GuJie On(z_c_GuJie.GCSY = z_c_QuYang.GCSY AND z_c_GuJie.ZKBH = z_c_QuYang.ZKBH AND z_c_GuJie.QYBH = z_c_QuYang.QYBH)) LEFT JOIN z_c_GuJieShP On(z_c_GuJieShP.GCSY = z_c_QuYang.GCSY AND z_c_GuJieShP.ZKBH = z_c_QuYang.ZKBH AND z_c_GuJieShP.QYBH = z_c_QuYang.QYBH) order by ZKH,ZKV,z_c_QuYang.QYSD",
+    "Fil_Title": "工程索引,工程索引,勘探点编号,取样编号,取样类型,所在地层,竖向固结压力级别(kPa),水平固结压力级别(kPa)",
+    "Fil_Type": "0,0,0,0,0,0,0,0,0",
+    "Fil_Hide": "",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  },
+  {
+    "Fil_ID": "剖线孔号筛选",
+    "Fil_SQL": "SELECT GCSY,ZKBH,ZKDH,LGH,ZKLC,ZKPIL FROM z_ZuanKong [WHEREREPLACE] ORDER BY ZKDH,ZKLC,ZKPIL,ZKH",
+    "Fil_Title": "工程索引,钻孔编号,段号,冠号,里程(m),偏移量(m)",
+    "Fil_Type": "0,0,1,0,1,1",
+    "Fil_Hide": "工程索引",
+    "LZID": "",
+    "table": "t_Filter_PeiZhi"
+  }
+]

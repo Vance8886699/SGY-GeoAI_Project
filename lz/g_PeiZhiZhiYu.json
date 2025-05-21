@@ -1,0 +1,248 @@
+[
+  {
+    "GCBZ": "0",
+    "ZDMC": "g_sTuCengGC",
+    "SZZYZD": "TCYSQJ,TCPXJD",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "t_BianBanCZSYXS",
+    "SZZYZD": "SDH,BB_A,BB_B,BB_C,BB_ZM,UW,ZZYL",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "t_KongYaXS",
+    "SZZYZD": "SDXS",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "t_KongYaXSSY",
+    "SZZYZD": "SDH,TTBJ,CSKYL,T50SJYS,T50GJLS,SXGJXS",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "t_KongYaXSSYSJ",
+    "SZZYZD": "SDH,SJT,KYCSDS,KXYLZ,GYHCKBY",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "t_y_ChouShuiSY",
+    "SZZYZD": "CSQYXSD,CSHYXSD,CSGSD,SBRSCD,CSYXSJ,CSWDSJ,JSW,JIANGS,YSL,DWYSL,STXS,YXBJ,SHUIWEN",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "t_y_ShuiWeiHF",
+    "SZZYZD": "JIANGS",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "t_y_YingLiChan",
+    "SZZYZD": "ZZZYL",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "t_y_YingLiChanShuJu",
+    "SZZYZD": "SDUH,ZZZYL,XZDS,JZYL",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "t_y_YingLiChanYLSJSJ",
+    "SZZYZD": "SDHM,SJ,SPZYL",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "t_YaShuiSY",
+    "SZZYZD": "SYDGCTOP,SYDGCBOT,SZYL,STXS,TSL",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "t_YaShuiSYJL",
+    "SZZYZD": "TLBYL,YLBSS,ZYL,LIUL",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "t_YaShuiSYSWJL",
+    "SZZYZD": "GCDTOSWSD,GCDGCDM,DMTOSWSD",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_c_QuYang",
+    "SZZYZD": "QYZLMD,QYBZ,QYHSL,QYYX,QYSY,QYSTXS,QYDZKYQD,QYSZBQD,QYSZBCYQD,,QYSZBLMD,QYKYDYZ,QYKYDCS,QYLMD,QYYJZHL",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_c_ShiXian",
+    "SZZYZD": "SXJSYL,SXXS,SXSX02,SXSX03,SXZXS,SXQSYL",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_g_CengJiLu",
+    "SZZYZD": "CJLSD",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_g_ChaoShiDu",
+    "SZZYZD": "CSDSD",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_g_FengHua",
+    "SZZYZD": "FHSD",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_g_KeSuXing",
+    "SZZYZD": "KSXSD",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_g_KongJin",
+    "SZZYZD": "ZJSD,ZJZKZJ",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_g_ShuiWei",
+    "SZZYZD": "SWSD",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_g_TuCeng",
+    "SZZYZD": "TCCDSD,TCYSQX,TCYSQJ",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_g_YXRQD",
+    "SZZYZD": "YRSD,YRCQL,YRRQD",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_y_BiaoGuan",
+    "SZZYZD": "BGDSD,BGGC,BGYZCD,BGDSDTOP",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_y_BoSu",
+    "SZZYZD": "BSSD,BSHBS,BSZBS",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_y_BoSuChao",
+    "SZZYZD": "BSSD,BSVAL,BSWZXS",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_y_ChouShuiGLQ",
+    "SZZYZD": "GLQSDTOP,GLQSDBOT",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_y_DongTan",
+    "SZZYZD": "DTDSD,DTGC,DTCD,DTGRD,DTDSDTOP",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_y_HeZai",
+    "SZZYZD": "SYSD,ZHBG,ZHYBMJ,ZHSBZZ,ZHDXSS,ZHYSJJ",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_y_JingTan",
+    "SZZYZD": "JTDSD,JTCD,JTBGRZL,JTZTZL,JTCMZ,JTMZB,JTKXYL",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_y_LFMiDu",
+    "SZZYZD": "LFQSD,LFDSD,LFDMD,LFDQJ,LFDZJ",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_y_LuoXuanBan",
+    "SZZYZD": "ZHBG,ZHBSB,ZHYBMJ,ZHSBZZ,ZHSYSS,ZHDXSS,ZHYSJJ",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_y_LuoXuanBanSnsy",
+    "SZZYZD": "ZHTRHSL,ZHTRZD,ZHBHD,ZHBHD,ZHTRKXB,ZHYX,ZHSX,ZHYXZS,ZHSXZS,ZHYSXS",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_y_PangYa",
+    "SZZYZD": "SYSD,PYVC,TBSB,PYV0,PYVF,PYTYL,PYLSYL,PYJXYL",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_y_PangYaCSXM",
+    "SZZYZD": "SYSD,PYYL,PYTJ1,PYTJ2,PYTJ3",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_y_ShiZiBan",
+    "SZZYZD": "SZBSD,SZBQD,SZBCYQD,SZBCQD",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_y_STXiShu",
+    "SZZYZD": "CTXSDTOP,CTXSD,CTXK",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_y_ZaiHeSnsy",
+    "SZZYZD": "ZHTRHSL,ZHTRZD,ZHBHD,ZHBHD,ZHTRKXB,ZHYX,ZHSX,ZHYXZS,ZHSXZS,ZHYSXS",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_y_ZaiHeSyCg",
+    "SZZYZD": "ZHZHDX,ZHLJCJL,ZHZLCJL,ZHJZCJL,ZHJZZL",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_y_ZaiHeSyjilu",
+    "SZZYZD": "ZHJHSJ,ZHJHCJL",
+    "table": "g_PeiZhiZhiYu"
+  },
+  {
+    "GCBZ": "0",
+    "ZDMC": "z_ZuanKong",
+    "SZZYZD": "ZKX,ZKY,ZKBG,ZKSD,",
+    "table": "g_PeiZhiZhiYu"
+  }
+]

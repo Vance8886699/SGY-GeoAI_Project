@@ -1,0 +1,18 @@
+[
+  {
+    "top_D": "160",
+    "left_D": "677",
+    "bottom_D": "885",
+    "right_D": "1249",
+    "WndName": "钻探柱状图查看",
+    "table": "g_DestopArea"
+  },
+  {
+    "top_D": "279",
+    "left_D": "471",
+    "bottom_D": "758",
+    "right_D": "1450",
+    "WndName": "勘探点地层一览表",
+    "table": "g_DestopArea"
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "TBORDER": "1",
+    "TBNAME": "x_GongCheng",
+    "TBUNION": "1",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "2",
+    "TBNAME": "t_ZKDiaoYong",
+    "TBUNION": "1",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "3",
+    "TBNAME": "t_GongDian_",
+    "TBUNION": "1",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "4",
+    "TBNAME": "t_FangAn_",
+    "TBUNION": "1",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "7",
+    "TBNAME": "z_ZuanKong",
+    "TBUNION": "1",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "10",
+    "TBNAME": "z_ZuanKong_Buf",
+    "TBUNION": "1",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "15",
+    "TBNAME": "z_ZuanKongZH",
+    "TBUNION": "1",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "20",
+    "TBNAME": "z_ZuanKongLXBZH",
+    "TBUNION": "1",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "50",
+    "TBNAME": "x_FenDuan",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "51",
+    "TBNAME": "x_DuanDian",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "55",
+    "TBNAME": "t_GCD_TuCeng",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "60",
+    "TBNAME": "t_GCD_CZ",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "65",
+    "TBNAME": "z_g_TuCeng",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "70",
+    "TBNAME": "z_g_KongJin",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "75",
+    "TBNAME": "z_g_YXRQD",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "80",
+    "TBNAME": "z_g_ChaoShiDu",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "85",
+    "TBNAME": "z_g_KeSuXing",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "90",
+    "TBNAME": "z_g_ShuiWei",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "95",
+    "TBNAME": "z_g_FengHua",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "100",
+    "TBNAME": "t_DongTuCeng",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "105",
+    "TBNAME": "z_g_User1",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "110",
+    "TBNAME": "z_g_User2",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "115",
+    "TBNAME": "z_c_QuYang",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "120",
+    "TBNAME": "z_c_KeFen",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "125",
+    "TBNAME": "z_c_KeFenCSXM",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "130",
+    "TBNAME": "z_c_ZhiJian",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "135",
+    "TBNAME": "z_c_ZhiJianCSXM",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "140",
+    "TBNAME": "z_c_GuJie",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "145",
+    "TBNAME": "z_c_GuJieCSXM",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "150",
+    "TBNAME": "z_c_guJieShP",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "155",
+    "TBNAME": "z_c_SanZhou",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "160",
+    "TBNAME": "z_c_SanZhouCSXM",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "165",
+    "TBNAME": "z_c_ShiXian",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "170",
+    "TBNAME": "z_c_PengZhangTu",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "175",
+    "TBNAME": "t_DongTu",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "180",
+    "TBNAME": "t_YanShi",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "185",
+    "TBNAME": "t_ShuiZhiJianFX",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "190",
+    "TBNAME": "t_YiRongYan",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "195",
+    "TBNAME": "z_y_BiaoGuan",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "200",
+    "TBNAME": "z_y_DongTan",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "205",
+    "TBNAME": "z_y_JingTan",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "210",
+    "TBNAME": "z_y_JingTanSQ",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "215",
+    "TBNAME": "z_y_BoSu",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "220",
+    "TBNAME": "z_y_BoSuCeng",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "225",
+    "TBNAME": "z_y_BoSuChao",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "230",
+    "TBNAME": "z_y_BoSuChaoCeng",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "235",
+    "TBNAME": "z_y_ShiZiBan",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "240",
+    "TBNAME": "z_y_PangYa",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "245",
+    "TBNAME": "z_y_PangYaCSXM",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "250",
+    "TBNAME": "t_y_YingLiChan",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "255",
+    "TBNAME": "t_y_YingLiChanShuJu",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "260",
+    "TBNAME": "t_y_YingLiChanYLSJSJ",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "265",
+    "TBNAME": "t_BianBanCZSYSJ",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "270",
+    "TBNAME": "z_y_ZhuShui",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "275",
+    "TBNAME": "z_y_ZhuShuiCSXM",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "280",
+    "TBNAME": "z_y_ChouShui_JSTJ",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "285",
+    "TBNAME": "z_y_ChouShui_SJ",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "290",
+    "TBNAME": "z_y_ChouShuiGLQ",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "305",
+    "TBNAME": "z_y_ZaiHe",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "310",
+    "TBNAME": "z_y_ZaiHeSnsy",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "315",
+    "TBNAME": "z_y_ZaiHeSyCg",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "320",
+    "TBNAME": "z_y_LuoXuanBan",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "325",
+    "TBNAME": "z_y_LuoXuanBanSnsy",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "330",
+    "TBNAME": "z_y_LuoXuanBanSyCg",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "335",
+    "TBNAME": "p_PouXian",
+    "TBUNION": "1",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "340",
+    "TBNAME": "p_DiZhiTeZheng",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "345",
+    "TBNAME": "p_DiXiaShui",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "350",
+    "TBNAME": "p_GCDZDY",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "351",
+    "TBNAME": "p_DiMianXian_XL",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "355",
+    "TBNAME": "p_DiMianXian",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "360",
+    "TBNAME": "p_SheJiBiaoGao",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "365",
+    "TBNAME": "p_DunTai",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "370",
+    "TBNAME": "p_YZTable",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "375",
+    "TBNAME": "p_PXJiaoDian",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "380",
+    "TBNAME": "p_Connect",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "385",
+    "TBNAME": "p_JiChuBiaoGao",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "390",
+    "TBNAME": "p_TYPXPt",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "395",
+    "TBNAME": "p_SWTable",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "400",
+    "TBNAME": "p_SheJiBiaoGao",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "405",
+    "TBNAME": "p_DuanCeng",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "410",
+    "TBNAME": "p_ConnectLine",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "415",
+    "TBNAME": "p_ConnectLinePoint",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "420",
+    "TBNAME": "p_pouxian_DiCeng",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "425",
+    "TBNAME": "p_pouxian_dicengqy",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "430",
+    "TBNAME": "p_pouxian_JIHEBIANJIE",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "440",
+    "TBNAME": "p_dongtan",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "445",
+    "TBNAME": "x_DiCeng",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "450",
+    "TBNAME": "z_g_TempTuCeng",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "455",
+    "TBNAME": "z_y_YeHua",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  },
+  {
+    "TBORDER": "460",
+    "TBNAME": "g_sTuCengGC",
+    "TBUNION": "",
+    "table": "g_HBTables"
+  }
+]

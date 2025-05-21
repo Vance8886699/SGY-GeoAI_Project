@@ -1,0 +1,58 @@
+[
+  {
+    "TBNAME": "动态工具条",
+    "TBID": "113",
+    "TBVISIBLE": "True",
+    "ID": "1",
+    "LZID": "",
+    "table": "g_ToolBarPeiZhi"
+  },
+  {
+    "TBNAME": "接口",
+    "TBID": "107",
+    "TBVISIBLE": "True",
+    "ID": "3",
+    "LZID": "",
+    "table": "g_ToolBarPeiZhi"
+  },
+  {
+    "TBNAME": "工具",
+    "TBID": "108",
+    "TBVISIBLE": "True",
+    "ID": "6",
+    "LZID": "",
+    "table": "g_ToolBarPeiZhi"
+  },
+  {
+    "TBNAME": "成果图",
+    "TBID": "111",
+    "TBVISIBLE": "True",
+    "ID": "4",
+    "LZID": "",
+    "table": "g_ToolBarPeiZhi"
+  },
+  {
+    "TBNAME": "工程管理",
+    "TBID": "109",
+    "TBVISIBLE": "True",
+    "ID": "7",
+    "LZID": "",
+    "table": "g_ToolBarPeiZhi"
+  },
+  {
+    "TBNAME": "现场信息",
+    "TBID": "112",
+    "TBVISIBLE": "True",
+    "ID": "5",
+    "LZID": "",
+    "table": "g_ToolBarPeiZhi"
+  },
+  {
+    "TBNAME": "表格编辑",
+    "TBID": "110",
+    "TBVISIBLE": "False",
+    "ID": "2",
+    "LZID": "",
+    "table": "g_ToolBarPeiZhi"
+  }
+]

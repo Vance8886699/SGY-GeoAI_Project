@@ -1,0 +1,162 @@
+[
+  {
+    "GCBZ": "-1",
+    "YTLM": "粉土",
+    "YTMC": "ALLLL",
+    "JSZBYX": "孔隙比",
+    "JSZB": "密实度",
+    "table": "g_CG_JSZBDZ"
+  },
+  {
+    "GCBZ": "-1",
+    "YTLM": "红黏土",
+    "YTMC": "红黏土",
+    "JSZBYX": "含水比",
+    "JSZB": "",
+    "table": "g_CG_JSZBDZ"
+  },
+  {
+    "GCBZ": "-1",
+    "YTLM": "黏土",
+    "YTMC": "ALLLL",
+    "JSZBYX": "液性指数",
+    "JSZB": "塑性状态",
+    "table": "g_CG_JSZBDZ"
+  },
+  {
+    "GCBZ": "-1",
+    "YTLM": "软土",
+    "YTMC": "淤泥",
+    "JSZBYX": "",
+    "JSZB": "",
+    "table": "g_CG_JSZBDZ"
+  },
+  {
+    "GCBZ": "-1",
+    "YTLM": "软土",
+    "YTMC": "淤泥质土",
+    "JSZBYX": "",
+    "JSZB": "",
+    "table": "g_CG_JSZBDZ"
+  },
+  {
+    "GCBZ": "-1",
+    "YTLM": "软质岩石",
+    "YTMC": "强风化",
+    "JSZBYX": "重型动探击数",
+    "JSZB": "",
+    "table": "g_CG_JSZBDZ"
+  },
+  {
+    "GCBZ": "-1",
+    "YTLM": "软质岩石",
+    "YTMC": "全风化",
+    "JSZBYX": "标贯击数",
+    "JSZB": "",
+    "table": "g_CG_JSZBDZ"
+  },
+  {
+    "GCBZ": "-1",
+    "YTLM": "砂土",
+    "YTMC": "粗砂",
+    "JSZBYX": "标贯击数",
+    "JSZB": "密实度",
+    "table": "g_CG_JSZBDZ"
+  },
+  {
+    "GCBZ": "-1",
+    "YTLM": "砂土",
+    "YTMC": "粉砂",
+    "JSZBYX": "标贯击数",
+    "JSZB": "密实度",
+    "table": "g_CG_JSZBDZ"
+  },
+  {
+    "GCBZ": "-1",
+    "YTLM": "砂土",
+    "YTMC": "粉细砂",
+    "JSZBYX": "标贯击数",
+    "JSZB": "密实度",
+    "table": "g_CG_JSZBDZ"
+  },
+  {
+    "GCBZ": "-1",
+    "YTLM": "砂土",
+    "YTMC": "砾砂",
+    "JSZBYX": "重型动探击数",
+    "JSZB": "密实度",
+    "table": "g_CG_JSZBDZ"
+  },
+  {
+    "GCBZ": "-1",
+    "YTLM": "砂土",
+    "YTMC": "细砂",
+    "JSZBYX": "标贯击数",
+    "JSZB": "密实度",
+    "table": "g_CG_JSZBDZ"
+  },
+  {
+    "GCBZ": "-1",
+    "YTLM": "砂土",
+    "YTMC": "中砂",
+    "JSZBYX": "标贯击数",
+    "JSZB": "密实度",
+    "table": "g_CG_JSZBDZ"
+  },
+  {
+    "GCBZ": "-1",
+    "YTLM": "碎石土",
+    "YTMC": "角砾",
+    "JSZBYX": "重型动探击数",
+    "JSZB": "密实度",
+    "table": "g_CG_JSZBDZ"
+  },
+  {
+    "GCBZ": "-1",
+    "YTLM": "碎石土",
+    "YTMC": "卵石",
+    "JSZBYX": "重型动探击数",
+    "JSZB": "密实度",
+    "table": "g_CG_JSZBDZ"
+  },
+  {
+    "GCBZ": "-1",
+    "YTLM": "碎石土",
+    "YTMC": "碎石",
+    "JSZBYX": "重型动探击数",
+    "JSZB": "密实度",
+    "table": "g_CG_JSZBDZ"
+  },
+  {
+    "GCBZ": "-1",
+    "YTLM": "碎石土",
+    "YTMC": "圆砾",
+    "JSZBYX": "重型动探击数",
+    "JSZB": "密实度",
+    "table": "g_CG_JSZBDZ"
+  },
+  {
+    "GCBZ": "-1",
+    "YTLM": "填土",
+    "YTMC": "ALLLL",
+    "JSZBYX": "",
+    "JSZB": "",
+    "table": "g_CG_JSZBDZ"
+  },
+  {
+    "GCBZ": "-1",
+    "YTLM": "硬质岩石",
+    "YTMC": "强风化",
+    "JSZBYX": "重型动探击数",
+    "JSZB": "",
+    "table": "g_CG_JSZBDZ"
+  },
+  {
+    "GCBZ": "-1",
+    "YTLM": "硬质岩石",
+    "YTMC": "全风化",
+    "JSZBYX": "标贯击数",
+    "JSZB": "",
+    "table": "g_CG_JSZBDZ"
+  }
+]

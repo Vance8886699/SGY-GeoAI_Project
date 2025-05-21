@@ -1,0 +1,1202 @@
+[
+  {
+    "GJKEY": "GJKXB005",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比0.05Mpa",
+    "GJXX": "50",
+    "GJSX": "50",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJKXB01",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比0.1Mpa",
+    "GJXX": "100",
+    "GJSX": "100",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJKXB02",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比0.2Mpa",
+    "GJXX": "200",
+    "GJSX": "200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJKXB03",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比0.3Mpa",
+    "GJXX": "300",
+    "GJSX": "300",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJKXB04",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比0.4Mpa",
+    "GJXX": "400",
+    "GJSX": "400",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJKXB05",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比0.5Mpa",
+    "GJXX": "500",
+    "GJSX": "500",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJKXB06",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比0.6Mpa",
+    "GJXX": "600",
+    "GJSX": "600",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJKXB08",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比0.8Mpa",
+    "GJXX": "800",
+    "GJSX": "800",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJKXB10",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比1.0Mpa",
+    "GJXX": "1000",
+    "GJSX": "1000",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJKXB12",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比1.2Mpa",
+    "GJXX": "1200",
+    "GJSX": "1200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJKXB128",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比12.8Mpa",
+    "GJXX": "12800",
+    "GJSX": "12800",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJKXB16",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比1.6Mpa",
+    "GJXX": "1600",
+    "GJSX": "1600",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJKXB256",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比25.6Mpa",
+    "GJXX": "25600",
+    "GJSX": "25600",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJKXB32",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比3.2Mpa",
+    "GJXX": "3200",
+    "GJSX": "3200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJKXB64",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比6.4Mpa",
+    "GJXX": "6400",
+    "GJSX": "6400",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJKXBP0",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后的孔隙比 eP0",
+    "GJXX": "0",
+    "GJSX": "0",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML00501",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.05-.1(MPa)",
+    "GJXX": "50",
+    "GJSX": "100",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML0102",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.1-.2(MPa)",
+    "GJXX": "100",
+    "GJSX": "200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML0203",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.2-.3(MPa)",
+    "GJXX": "200",
+    "GJSX": "300",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML0204",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.2-0.4(MPa)",
+    "GJXX": "200",
+    "GJSX": "400",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML0304",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.3-.4(MPa)",
+    "GJXX": "300",
+    "GJSX": "400",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML0405",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.4-.5(MPa)",
+    "GJXX": "400",
+    "GJSX": "500",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML0406",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.4-.6(MPa)",
+    "GJXX": "400",
+    "GJSX": "600",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML0408",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.4-.8(MPa)",
+    "GJXX": "400",
+    "GJSX": "800",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML0506",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.5-.6(MPa)",
+    "GJXX": "500",
+    "GJSX": "600",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML0508",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.5-0.8(MPa)",
+    "GJXX": "500",
+    "GJSX": "800",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML0608",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.6-0.8(Mpa)",
+    "GJXX": "600",
+    "GJSX": "800",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML0810",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.8-1.0(Mpa)",
+    "GJXX": "800",
+    "GJSX": "1000",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML0812",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.8-1.2(MPa)",
+    "GJXX": "800",
+    "GJSX": "1200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML0816",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.8-1.6(MPa)",
+    "GJXX": "800",
+    "GJSX": "1600",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML1012",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es1.0-1.2(Mpa)",
+    "GJXX": "1000",
+    "GJSX": "1200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML1216",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es1.2-1.6(Mpa)",
+    "GJXX": "1200",
+    "GJSX": "1600",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML128256",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es12.8-25.6(Mpa)",
+    "GJXX": "12800",
+    "GJSX": "25600",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML1632",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es1.6-3.2(Mpa)",
+    "GJXX": "1600",
+    "GJSX": "3200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML3264",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es3.2-6.4(Mpa)",
+    "GJXX": "3200",
+    "GJSX": "6400",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJML64128",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es6.4-12.8(Mpa)",
+    "GJXX": "6400",
+    "GJSX": "12800",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJMLP0_005",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "1",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量EsP0-0.05(Mpa)",
+    "GJXX": "0",
+    "GJSX": "50",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJMLP0_01",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "1",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量EsP0-0.1(Mpa)",
+    "GJXX": "0",
+    "GJSX": "100",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJMLP0_02",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "1",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量EsP0-0.2(Mpa)",
+    "GJXX": "0",
+    "GJSX": "200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJMLP0_03",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "1",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量EsP0-0.3(Mpa)",
+    "GJXX": "0",
+    "GJSX": "300",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJMLP0_04",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "1",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量EsP0-0.4(Mpa)",
+    "GJXX": "0",
+    "GJSX": "400",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJMLP0_05",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "1",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量EsP0-0.5(Mpa)",
+    "GJXX": "0",
+    "GJSX": "500",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJMLP0_08",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "1",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量EsP0-0.8(Mpa)",
+    "GJXX": "0",
+    "GJSX": "800",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJMLP0_16",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "1",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量EsP0-1.6(Mpa)",
+    "GJXX": "0",
+    "GJSX": "1600",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJMLP0_32",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "1",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量EsP0-3.2(Mpa)",
+    "GJXX": "0",
+    "GJSX": "3200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJMLP0005",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es p0- 0.05(MPa)",
+    "GJXX": "0",
+    "GJSX": "50",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS005",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "固结系数",
+    "GJWZ": "固结系数0.05MPa",
+    "GJXX": "50",
+    "GJSX": "50",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS00501",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.05-0.1(1/MPa)",
+    "GJXX": "50",
+    "GJSX": "100",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS01",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "固结系数",
+    "GJWZ": "固结系数0.1MPa",
+    "GJXX": "100",
+    "GJSX": "100",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS0102",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.1-0.2(1/MPa)",
+    "GJXX": "100",
+    "GJSX": "200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS02",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "固结系数",
+    "GJWZ": "固结系数0.2MPa",
+    "GJXX": "200",
+    "GJSX": "200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS0203",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.2-0.3(1/MPa)",
+    "GJXX": "200",
+    "GJSX": "300",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS0204",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.2-0.4(1/MPa)",
+    "GJXX": "200",
+    "GJSX": "400",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS03",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "固结系数",
+    "GJWZ": "固结系数0.3MPa",
+    "GJXX": "300",
+    "GJSX": "300",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS0304",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.3-0.4(1/MPa)",
+    "GJXX": "300",
+    "GJSX": "400",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS04",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "固结系数",
+    "GJWZ": "固结系数0.4MPa",
+    "GJXX": "400",
+    "GJSX": "400",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS0405",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.4-0.5(1/MPa)",
+    "GJXX": "400",
+    "GJSX": "500",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS0406",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.4-0.6(1/MPa)",
+    "GJXX": "400",
+    "GJSX": "600",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS0408",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.4-0.8(1/MPa)",
+    "GJXX": "400",
+    "GJSX": "800",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS05",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "固结系数",
+    "GJWZ": "固结系数0.5MPa",
+    "GJXX": "500",
+    "GJSX": "500",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS0506",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.5-0.6(1/MPa)",
+    "GJXX": "500",
+    "GJSX": "600",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS0508",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.5-0.8(1/MPa)",
+    "GJXX": "500",
+    "GJSX": "800",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS0608",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.6-0.8(1/Mpa)",
+    "GJXX": "600",
+    "GJSX": "800",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS08",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "固结系数",
+    "GJWZ": "固结系数0.8MPa",
+    "GJXX": "800",
+    "GJSX": "800",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS0810",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.8-1.0(1/Mpa)",
+    "GJXX": "800",
+    "GJSX": "1000",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS0812",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.8-1.2(1/MPa)",
+    "GJXX": "800",
+    "GJSX": "1200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS0816",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.8-1.6(1/MPa)",
+    "GJXX": "800",
+    "GJSX": "1600",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS1012",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α1.0-1.2(1/Mpa)",
+    "GJXX": "1000",
+    "GJSX": "1200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS1216",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α1.2-1.6(1/Mpa)",
+    "GJXX": "1200",
+    "GJSX": "1600",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS128256",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α12.8-25.6(1/Mpa)",
+    "GJXX": "12800",
+    "GJSX": "25600",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS1632",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α1.6-3.2(1/Mpa)",
+    "GJXX": "1600",
+    "GJSX": "3200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS3264",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α3.2-6.4(1/Mpa)",
+    "GJXX": "3200",
+    "GJSX": "6400",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXS64128",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α6.4-12.8(1/Mpa)",
+    "GJXX": "6400",
+    "GJSX": "12800",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXSP0_005",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "1",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数αP0-0.05(1/Mpa)",
+    "GJXX": "0",
+    "GJSX": "50",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXSP0_01",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "1",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数αP0-0.1(1/Mpa)",
+    "GJXX": "0",
+    "GJSX": "100",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXSP0_02",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "1",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数αP0-0.2(1/Mpa)",
+    "GJXX": "0",
+    "GJSX": "200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXSP0_03",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "1",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数αP0-0.3(1/Mpa)",
+    "GJXX": "0",
+    "GJSX": "300",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXSP0_04",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "1",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数αP0-0.4(1/Mpa)",
+    "GJXX": "0",
+    "GJSX": "400",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXSP0_05",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "1",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数αP0-0.5(1/Mpa)",
+    "GJXX": "0",
+    "GJSX": "500",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXSP0_08",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "1",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数αP0-0.8(1/Mpa)",
+    "GJXX": "0",
+    "GJSX": "800",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXSP0_16",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "1",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数αP0-1.6(1/Mpa)",
+    "GJXX": "0",
+    "GJSX": "1600",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXSP0_32",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "1",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数αP0-3.2(1/Mpa)",
+    "GJXX": "0",
+    "GJSX": "3200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GJXSP0005",
+    "GJBLX": "竖向固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数αp0-0.05(1/MPa)",
+    "GJXX": "0",
+    "GJSX": "50",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GKXB005",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比0.05Mpa",
+    "GJXX": "50",
+    "GJSX": "50",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GKXB01",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比0.1Mpa",
+    "GJXX": "100",
+    "GJSX": "100",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GKXB02",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比0.2Mpa",
+    "GJXX": "200",
+    "GJSX": "200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GKXB03",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比0.3Mpa",
+    "GJXX": "300",
+    "GJSX": "300",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GKXB04",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比0.4Mpa",
+    "GJXX": "400",
+    "GJSX": "400",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GKXB05",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比0.5Mpa",
+    "GJXX": "500",
+    "GJSX": "500",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GKXB08",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比0.8Mpa",
+    "GJXX": "800",
+    "GJSX": "800",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GKXB16",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比1.6Mpa",
+    "GJXX": "1600",
+    "GJSX": "1600",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GKXB32",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后孔隙比3.2Mpa",
+    "GJXX": "3200",
+    "GJSX": "3200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GKXBP0",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "孔隙比",
+    "GJWZ": "压缩后的孔隙比 eP0",
+    "GJXX": "0",
+    "GJSX": "0",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GML00050",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es 0- 0.05(MPa)",
+    "GJXX": "0",
+    "GJSX": "50",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GML00501",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.05-.1(MPa)",
+    "GJXX": "50",
+    "GJSX": "100",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GML0102",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.1-.2(MPa)",
+    "GJXX": "100",
+    "GJSX": "200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GML0203",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.2-.3(MPa)",
+    "GJXX": "200",
+    "GJSX": "300",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GML0304",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.3-.4(MPa)",
+    "GJXX": "300",
+    "GJSX": "400",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GML0405",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.4-.5(MPa)",
+    "GJXX": "400",
+    "GJSX": "500",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GML0408",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.4-.8(MPa)",
+    "GJXX": "400",
+    "GJSX": "800",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GML0508",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.5-.8(MPa)",
+    "GJXX": "500",
+    "GJSX": "800",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GML0816",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es0.8-1.6(Mpa)",
+    "GJXX": "800",
+    "GJSX": "1600",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GML1632",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩模量",
+    "GJWZ": "压缩模量Es1.6-3.2(Mpa)",
+    "GJXX": "1600",
+    "GJSX": "3200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GXS00050",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0-0.05(1/MPa)",
+    "GJXX": "0",
+    "GJSX": "50",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GXS005",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "固结系数",
+    "GJWZ": "固结系数0.05MPa",
+    "GJXX": "50",
+    "GJSX": "50",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GXS00501",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.05-0.1(1/MPa)",
+    "GJXX": "50",
+    "GJSX": "100",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GXS01",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "固结系数",
+    "GJWZ": "固结系数0.1MPa",
+    "GJXX": "100",
+    "GJSX": "100",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GXS0102",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.1-0.2(1/MPa)",
+    "GJXX": "100",
+    "GJSX": "200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GXS02",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "固结系数",
+    "GJWZ": "固结系数0.2MPa",
+    "GJXX": "200",
+    "GJSX": "200",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GXS0203",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.2-0.3(1/MPa)",
+    "GJXX": "200",
+    "GJSX": "300",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GXS03",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "固结系数",
+    "GJWZ": "固结系数0.3MPa",
+    "GJXX": "300",
+    "GJSX": "300",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GXS0304",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.3-0.4(1/MPa)",
+    "GJXX": "300",
+    "GJSX": "400",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GXS04",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "固结系数",
+    "GJWZ": "固结系数0.4MPa",
+    "GJXX": "400",
+    "GJSX": "400",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GXS0405",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.4-0.5(1/MPa)",
+    "GJXX": "400",
+    "GJSX": "500",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GXS0408",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.4-0.8(1/MPa)",
+    "GJXX": "400",
+    "GJSX": "800",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GXS05",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "固结系数",
+    "GJWZ": "固结系数0.5MPa",
+    "GJXX": "500",
+    "GJSX": "500",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GXS0508",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.5-0.8(1/MPa)",
+    "GJXX": "500",
+    "GJSX": "800",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GXS08",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "固结系数",
+    "GJWZ": "固结系数0.8MPa",
+    "GJXX": "800",
+    "GJSX": "800",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GXS0816",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α0.8-1.6(1/Mpa)",
+    "GJXX": "800",
+    "GJSX": "1600",
+    "table": "g_GJSY"
+  },
+  {
+    "GJKEY": "GXS1632",
+    "GJBLX": "水平固结",
+    "GJSFP0": "0",
+    "GJSYLX": "压缩系数",
+    "GJWZ": "压缩系数α1.6-3.2(1/Mpa)",
+    "GJXX": "1600",
+    "GJSX": "3200",
+    "table": "g_GJSY"
+  }
+]

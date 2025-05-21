@@ -1,0 +1,41 @@
+[
+  {
+    "XH": "1",
+    "KEYTYPE": "表格",
+    "NODE": "勘探孔间距和深度检查",
+    "MODEL": "c_BIM_ZuanKongJJSD_GF",
+    "MODEL2": "c_BIM_ZuanKongJJSD_SJ",
+    "MODELZD": "",
+    "PZFA": "-1",
+    "HAVEMODEL": "1",
+    "ROWHIGHT": "",
+    "SQLWHERE": "",
+    "table": "g_BIMCheckGF"
+  },
+  {
+    "XH": "2",
+    "KEYTYPE": "表格",
+    "NODE": "勘探孔数量检查",
+    "MODEL": "c_BIM_KongSL_GF",
+    "MODEL2": "c_BIM_KongSL_SJ",
+    "MODELZD": "",
+    "PZFA": "-1",
+    "HAVEMODEL": "1",
+    "ROWHIGHT": "",
+    "SQLWHERE": "",
+    "table": "g_BIMCheckGF"
+  },
+  {
+    "XH": "3",
+    "KEYTYPE": "表格",
+    "NODE": "土层原状样,原位测试统计",
+    "MODEL": "c_BIM_YZTOrYWCSTJ_GF",
+    "MODEL2": "c_BIM_YZTOrYWCSTJ_SJ",
+    "MODELZD": "",
+    "PZFA": "-1",
+    "HAVEMODEL": "1",
+    "ROWHIGHT": "",
+    "SQLWHERE": "",
+    "table": "g_BIMCheckGF"
+  }
+]

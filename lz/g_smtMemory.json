@@ -1,0 +1,34 @@
+[
+  {
+    "GCBZ": "-1",
+    "SMTGRIDTABLE": "z_c_ShiNeiZH_Part1,z_c_ShiNeiZH_Part2",
+    "SMTMEMNAME": "16号线筛分12.4",
+    "SMTTITLEROW": "5",
+    "SMTSTARTCOL": "1",
+    "SMTENDCOL": "18",
+    "SMTBODYSTARTROW": "8",
+    "SMTALONEZKBH": "0",
+    "SMTZKBHROW": "5",
+    "SMTZKBHCOL": "27",
+    "SMTTIME": "2020年 1月 4日16时38分28秒",
+    "SMTUSING": "0",
+    "LZID": "",
+    "table": "g_smtMemory"
+  },
+  {
+    "GCBZ": "-1",
+    "SMTGRIDTABLE": "z_c_ShiNeiZH_Part1,z_c_ShiNeiZH_Part2",
+    "SMTMEMNAME": "西安地铁16号线12.3",
+    "SMTTITLEROW": "8",
+    "SMTSTARTCOL": "1",
+    "SMTENDCOL": "57",
+    "SMTBODYSTARTROW": "12",
+    "SMTALONEZKBH": "1",
+    "SMTZKBHROW": "5",
+    "SMTZKBHCOL": "28",
+    "SMTTIME": "2020年 1月 4日16时40分22秒",
+    "SMTUSING": "1",
+    "LZID": "",
+    "table": "g_smtMemory"
+  }
+]

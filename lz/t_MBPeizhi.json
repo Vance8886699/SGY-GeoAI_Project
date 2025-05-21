@@ -1,0 +1,122 @@
+[
+  {
+    "MBTable": "冻土试验",
+    "MBName": "冻土试验报告模板",
+    "SHEET": "1",
+    "ROWS": "6",
+    "ROWE": "9",
+    "COLS": "1",
+    "COLE": "24",
+    "SHEETNAME": "土工试验汇总报告",
+    "LIID": "",
+    "table": "t_MBPeizhi"
+  },
+  {
+    "MBTable": "膨胀性分析",
+    "MBName": "化学分析报告模板",
+    "SHEET": "4",
+    "ROWS": "7",
+    "ROWE": "8",
+    "COLS": "1",
+    "COLE": "7",
+    "SHEETNAME": "膨胀性",
+    "LIID": "",
+    "table": "t_MBPeizhi"
+  },
+  {
+    "MBTable": "水质简分析",
+    "MBName": "化学分析报告模板",
+    "SHEET": "1",
+    "ROWS": "9",
+    "ROWE": "22",
+    "COLS": "1",
+    "COLE": "9",
+    "SHEETNAME": "水质简分析",
+    "LIID": "",
+    "table": "t_MBPeizhi"
+  },
+  {
+    "MBTable": "水质全分析",
+    "MBName": "化学分析报告模板",
+    "SHEET": "2",
+    "ROWS": "9",
+    "ROWE": "27",
+    "COLS": "1",
+    "COLE": "7",
+    "SHEETNAME": "水质全分析",
+    "LIID": "",
+    "table": "t_MBPeizhi"
+  },
+  {
+    "MBTable": "土工试验",
+    "MBName": "土工试验报告表格模板",
+    "SHEET": "1",
+    "ROWS": "8",
+    "ROWE": "11",
+    "COLS": "1",
+    "COLE": "57",
+    "SHEETNAME": "土工试验汇总报告",
+    "LIID": "",
+    "table": "t_MBPeizhi"
+  },
+  {
+    "MBTable": "土化综合",
+    "MBName": "化学分析报告模板",
+    "SHEET": "5",
+    "ROWS": "7",
+    "ROWE": "8",
+    "COLS": "1",
+    "COLE": "7",
+    "SHEETNAME": "土化一",
+    "LIID": "",
+    "table": "t_MBPeizhi"
+  },
+  {
+    "MBTable": "岩石薄片鉴定",
+    "MBName": "岩石试验报告模板",
+    "SHEET": "4",
+    "ROWS": "7",
+    "ROWE": "10",
+    "COLS": "1",
+    "COLE": "16",
+    "SHEETNAME": "岩石薄片鉴定",
+    "LIID": "",
+    "table": "t_MBPeizhi"
+  },
+  {
+    "MBTable": "岩石试验",
+    "MBName": "岩石试验报告模板",
+    "SHEET": "1",
+    "ROWS": "5",
+    "ROWE": "6",
+    "COLS": "1",
+    "COLE": "26",
+    "SHEETNAME": "岩石试验汇总报告",
+    "LIID": "",
+    "table": "t_MBPeizhi"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "MBName": "化学分析报告模板",
+    "SHEET": "6",
+    "ROWS": "6",
+    "ROWE": "7",
+    "COLS": "1",
+    "COLE": "22",
+    "SHEETNAME": "土化二",
+    "LIID": "",
+    "table": "t_MBPeizhi"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "MBName": "化学分析报告模板",
+    "SHEET": "3",
+    "ROWS": "7",
+    "ROWE": "36",
+    "COLS": "1",
+    "COLE": "10",
+    "SHEETNAME": "易溶盐",
+    "LIID": "",
+    "table": "t_MBPeizhi"
+  }
+]

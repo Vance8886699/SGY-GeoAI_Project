@@ -1,0 +1,618 @@
+[
+  {
+    "MODULE_NAME": "标贯试验",
+    "KEYWORD": "[GCBH]",
+    "KROW": "2",
+    "KCOL": "10",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "标贯试验",
+    "KEYWORD": "[GCMC]",
+    "KROW": "2",
+    "KCOL": "3",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "地层汇总表",
+    "KEYWORD": "[FZR]",
+    "KROW": "132",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "地层汇总表",
+    "KEYWORD": "[GCBH]",
+    "KROW": "2",
+    "KCOL": "10",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "地层汇总表",
+    "KEYWORD": "[GCMC]",
+    "KROW": "2",
+    "KCOL": "3",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "地层汇总表",
+    "KEYWORD": "[JD]",
+    "KROW": "132",
+    "KCOL": "5",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "地层汇总表",
+    "KEYWORD": "[RQ]",
+    "KROW": "132",
+    "KCOL": "9",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "地层汇总表",
+    "KEYWORD": "[SH]",
+    "KROW": "132",
+    "KCOL": "7",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "地层汇总表",
+    "KEYWORD": "[TH]",
+    "KROW": "132",
+    "KCOL": "11",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "地层统计",
+    "KEYWORD": "[FZR]",
+    "KROW": "19",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "地层统计",
+    "KEYWORD": "[GCBH]",
+    "KROW": "2",
+    "KCOL": "21",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "地层统计",
+    "KEYWORD": "[GCMC]",
+    "KROW": "2",
+    "KCOL": "3",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "地层统计",
+    "KEYWORD": "[JD]",
+    "KROW": "19",
+    "KCOL": "7",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "地层统计",
+    "KEYWORD": "[RQ]",
+    "KROW": "19",
+    "KCOL": "17",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "地层统计",
+    "KEYWORD": "[SH]",
+    "KROW": "19",
+    "KCOL": "12",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "地层统计",
+    "KEYWORD": "[TH]",
+    "KROW": "19",
+    "KCOL": "22",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "勘探点一览表",
+    "KEYWORD": "[FZR]",
+    "KROW": "20",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "勘探点一览表",
+    "KEYWORD": "[GCBH]",
+    "KROW": "2",
+    "KCOL": "10",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "勘探点一览表",
+    "KEYWORD": "[GCMC]",
+    "KROW": "2",
+    "KCOL": "3",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "勘探点一览表",
+    "KEYWORD": "[JD]",
+    "KROW": "20",
+    "KCOL": "5",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "勘探点一览表",
+    "KEYWORD": "[RQ]",
+    "KROW": "20",
+    "KCOL": "9",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "勘探点一览表",
+    "KEYWORD": "[SH]",
+    "KROW": "20",
+    "KCOL": "7",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "勘探点一览表",
+    "KEYWORD": "[TH]",
+    "KROW": "20",
+    "KCOL": "11",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "膨胀土变形量表",
+    "KEYWORD": "[GCBH]",
+    "KROW": "2",
+    "KCOL": "8",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "膨胀土变形量表",
+    "KEYWORD": "[GCKCDW]",
+    "KROW": "25",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "膨胀土变形量表",
+    "KEYWORD": "[GCMC]",
+    "KROW": "2",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "膨胀土变形量表",
+    "KEYWORD": "[JCMS]",
+    "KROW": "3",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "膨胀土变形量表",
+    "KEYWORD": "[JSSD]",
+    "KROW": "3",
+    "KCOL": "8",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "膨胀土变形量表",
+    "KEYWORD": "[PZSJ]",
+    "KROW": "25",
+    "KCOL": "11",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "膨胀土变形量表",
+    "KEYWORD": "[YMXX]",
+    "KROW": "3",
+    "KCOL": "10",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "湿陷性判别",
+    "KEYWORD": "[GCBH]",
+    "KROW": "3",
+    "KCOL": "8",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "湿陷性判别",
+    "KEYWORD": "[GCKCDW]",
+    "KROW": "25",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "湿陷性判别",
+    "KEYWORD": "[JCMS]",
+    "KROW": "3",
+    "KCOL": "14",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "湿陷性判别",
+    "KEYWORD": "[SXRQ]",
+    "KROW": "25",
+    "KCOL": "14",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "湿陷性判别",
+    "KEYWORD": "[XMMC]",
+    "KROW": "3",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "湿陷性判别",
+    "KEYWORD": "[YMXX]",
+    "KROW": "3",
+    "KCOL": "15",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "土膨胀性判定表",
+    "KEYWORD": "[GCBH]",
+    "KROW": "2",
+    "KCOL": "6",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "土膨胀性判定表",
+    "KEYWORD": "[GCKCDW]",
+    "KROW": "39",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "土膨胀性判定表",
+    "KEYWORD": "[GCMC]",
+    "KROW": "2",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "土膨胀性判定表",
+    "KEYWORD": "[PZSJ]",
+    "KROW": "39",
+    "KCOL": "8",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "土膨胀性判定表",
+    "KEYWORD": "[YMXX]",
+    "KROW": "2",
+    "KCOL": "8",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "物理力学指标统计表",
+    "KEYWORD": "[GCBH]",
+    "KROW": "2",
+    "KCOL": "22",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "物理力学指标统计表",
+    "KEYWORD": "[GCMC]",
+    "KROW": "2",
+    "KCOL": "4",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "岩土膨胀性评价钻孔表",
+    "KEYWORD": "[GCBH]",
+    "KROW": "2",
+    "KCOL": "8",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "岩土膨胀性评价钻孔表",
+    "KEYWORD": "[GCKCDW]",
+    "KROW": "3",
+    "KCOL": "10",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "岩土膨胀性评价钻孔表",
+    "KEYWORD": "[GCMC]",
+    "KROW": "2",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "岩土膨胀性评价钻孔表",
+    "KEYWORD": "[JCMS]",
+    "KROW": "3",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "岩土膨胀性评价钻孔表",
+    "KEYWORD": "[JSSD]",
+    "KROW": "3",
+    "KCOL": "7",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "岩土膨胀性评价钻孔表",
+    "KEYWORD": "[PZFH]",
+    "KROW": "25",
+    "KCOL": "5",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "岩土膨胀性评价钻孔表",
+    "KEYWORD": "[PZSJ]",
+    "KROW": "25",
+    "KCOL": "10",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "岩土膨胀性评价钻孔表",
+    "KEYWORD": "[PZTB]",
+    "KROW": "25",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别",
+    "KEYWORD": "[DZJSD]",
+    "KROW": "3",
+    "KCOL": "5",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别",
+    "KEYWORD": "[DZLD]",
+    "KROW": "3",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别",
+    "KEYWORD": "[GCBH]",
+    "KROW": "2",
+    "KCOL": "14",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别",
+    "KEYWORD": "[GCKCDW]",
+    "KROW": "24",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别",
+    "KEYWORD": "[GCMC]",
+    "KROW": "2",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别",
+    "KEYWORD": "[JCMS]",
+    "KROW": "3",
+    "KCOL": "12",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别",
+    "KEYWORD": "[PDSD]",
+    "KROW": "3",
+    "KCOL": "16",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别",
+    "KEYWORD": "[SJDZFZ]",
+    "KROW": "3",
+    "KCOL": "8",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别",
+    "KEYWORD": "[YHSJ]",
+    "KROW": "24",
+    "KCOL": "18",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别",
+    "KEYWORD": "[YMXX]",
+    "KROW": "3",
+    "KCOL": "17",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(标贯法)",
+    "KEYWORD": "[DZJSD]",
+    "KROW": "3",
+    "KCOL": "5",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(标贯法)",
+    "KEYWORD": "[DZLD]",
+    "KROW": "3",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(标贯法)",
+    "KEYWORD": "[GCBH]",
+    "KROW": "2",
+    "KCOL": "14",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(标贯法)",
+    "KEYWORD": "[GCKCDW]",
+    "KROW": "24",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(标贯法)",
+    "KEYWORD": "[GCMC]",
+    "KROW": "2",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(标贯法)",
+    "KEYWORD": "[JCMS]",
+    "KROW": "3",
+    "KCOL": "12",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(标贯法)",
+    "KEYWORD": "[PDSD]",
+    "KROW": "3",
+    "KCOL": "16",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(标贯法)",
+    "KEYWORD": "[SJDZFZ]",
+    "KROW": "3",
+    "KCOL": "8",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(标贯法)",
+    "KEYWORD": "[YHSJ]",
+    "KROW": "24",
+    "KCOL": "18",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(标贯法)",
+    "KEYWORD": "[YMXX]",
+    "KROW": "3",
+    "KCOL": "17",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(静探法)",
+    "KEYWORD": "[DZJSD]",
+    "KROW": "3",
+    "KCOL": "5",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(静探法)",
+    "KEYWORD": "[DZLD]",
+    "KROW": "3",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(静探法)",
+    "KEYWORD": "[GCBH]",
+    "KROW": "2",
+    "KCOL": "12",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(静探法)",
+    "KEYWORD": "[GCKCDW]",
+    "KROW": "24",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(静探法)",
+    "KEYWORD": "[GCMC]",
+    "KROW": "2",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(静探法)",
+    "KEYWORD": "[JCMS]",
+    "KROW": "3",
+    "KCOL": "11",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(静探法)",
+    "KEYWORD": "[PDSD]",
+    "KROW": "3",
+    "KCOL": "14",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(静探法)",
+    "KEYWORD": "[SJDZFZ]",
+    "KROW": "3",
+    "KCOL": "8",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(静探法)",
+    "KEYWORD": "[YHSJ]",
+    "KROW": "24",
+    "KCOL": "15",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(静探法)",
+    "KEYWORD": "[YMXX]",
+    "KROW": "3",
+    "KCOL": "15",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(水利标贯法)",
+    "KEYWORD": "[GCMC]",
+    "KROW": "2",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(水利标贯法)",
+    "KEYWORD": "[GCBH]",
+    "KROW": "2",
+    "KCOL": "10",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(水利标贯法)",
+    "KEYWORD": "[YMXX]",
+    "KROW": "2",
+    "KCOL": "16",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(水利标贯法)",
+    "KEYWORD": "[GCKCDW]",
+    "KROW": "23",
+    "KCOL": "2",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(水利标贯法)",
+    "KEYWORD": "[BIANZHI]",
+    "KROW": "23",
+    "KCOL": "8",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(水利标贯法)",
+    "KEYWORD": "[SHENHE]",
+    "KROW": "23",
+    "KCOL": "12",
+    "table": "t_Excel_TempletKey"
+  },
+  {
+    "MODULE_NAME": "液化判别(水利标贯法)",
+    "KEYWORD": "[YHSJ]",
+    "KROW": "23",
+    "KCOL": "16",
+    "table": "t_Excel_TempletKey"
+  }
+]

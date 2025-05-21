@@ -1,0 +1,44 @@
+[
+  {
+    "GCBZ": "0",
+    "KTDField": "ZKBG",
+    "ZHSYDFiled": "ZKBG_ZH",
+    "table": "g_KTDToZHSYD"
+  },
+  {
+    "GCBZ": "0",
+    "KTDField": "ZKKSRQ",
+    "ZHSYDFiled": "ZKKSRQ_ZH",
+    "table": "g_KTDToZHSYD"
+  },
+  {
+    "GCBZ": "0",
+    "KTDField": "ZKLX",
+    "ZHSYDFiled": "ZKLX",
+    "table": "g_KTDToZHSYD"
+  },
+  {
+    "GCBZ": "0",
+    "KTDField": "ZKSD",
+    "ZHSYDFiled": "ZKSD_ZH",
+    "table": "g_KTDToZHSYD"
+  },
+  {
+    "GCBZ": "0",
+    "KTDField": "ZKX",
+    "ZHSYDFiled": "ZKX_ZH",
+    "table": "g_KTDToZHSYD"
+  },
+  {
+    "GCBZ": "0",
+    "KTDField": "ZKY",
+    "ZHSYDFiled": "ZKY_ZH",
+    "table": "g_KTDToZHSYD"
+  },
+  {
+    "GCBZ": "0",
+    "KTDField": "ZKZZRQ",
+    "ZHSYDFiled": "ZKZZRQ_ZH",
+    "table": "g_KTDToZHSYD"
+  }
+]

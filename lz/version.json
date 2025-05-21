@@ -1,0 +1,50 @@
+[
+  {
+    "version": "Gicad9.0PB3(HB)",
+    "beizhu": "20161212",
+    "LZID": "",
+    "table": "version"
+  },
+  {
+    "version": "Gicad9.0PB3(GK)",
+    "beizhu": "20170321",
+    "LZID": "",
+    "table": "version"
+  },
+  {
+    "version": "Gicad9.0GL",
+    "beizhu": "20180104",
+    "LZID": "",
+    "table": "version"
+  },
+  {
+    "version": "Gicad9.0TL",
+    "beizhu": "20181119",
+    "LZID": "",
+    "table": "version"
+  },
+  {
+    "version": "Gicad9.0GK",
+    "beizhu": "20201215",
+    "LZID": "",
+    "table": "version"
+  },
+  {
+    "version": "Gicad9.0DT",
+    "beizhu": "20200624",
+    "LZID": "",
+    "table": "version"
+  },
+  {
+    "version": "Gicad9.0DL",
+    "beizhu": "20210722",
+    "LZID": "",
+    "table": "version"
+  },
+  {
+    "version": "PLgeo2.0",
+    "beizhu": "20210825",
+    "LZID": "",
+    "table": "version"
+  }
+]

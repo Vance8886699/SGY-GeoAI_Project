@@ -1,0 +1,35 @@
+[
+  {
+    "GCBZ": "-1",
+    "MKBH": "POU",
+    "ZDMC": "BGJS",
+    "ZDMS": "标贯击数",
+    "XUHAO": "0",
+    "POINT": "0",
+    "STYLE": "0",
+    "LZID": "",
+    "table": "g_XiaoShuDian"
+  },
+  {
+    "GCBZ": "-1",
+    "MKBH": "POU",
+    "ZDMC": "DTJS",
+    "ZDMS": "动探击数",
+    "XUHAO": "1",
+    "POINT": "0",
+    "STYLE": "0",
+    "LZID": "",
+    "table": "g_XiaoShuDian"
+  },
+  {
+    "GCBZ": "-1",
+    "MKBH": "POU",
+    "ZDMC": "KKGC",
+    "ZDMS": "孔口高程",
+    "XUHAO": "2",
+    "POINT": "2",
+    "STYLE": "0",
+    "LZID": "",
+    "table": "g_XiaoShuDian"
+  }
+]

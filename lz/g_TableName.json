@@ -1,0 +1,499 @@
+[
+  {
+    "GCBZ": "-1",
+    "TNMC": "d_DZBuLiang",
+    "TNMS": "地质不良符号表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "d_DZGouZao",
+    "TNMS": "地质构造符号表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "d_DZSDCY",
+    "TNMS": "地质时代成因符号表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "d_DZTaKan",
+    "TNMS": "地质踏勘符号表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "d_DZZhenZhong",
+    "TNMS": "地震震中符号表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "d_XZZT",
+    "TNMS": "小柱状图基本数据表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "d_XZZTTuceng",
+    "TNMS": "小柱状图土层表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "g_BiaoLie",
+    "TNMS": "成果表列设置表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "g_BiaoTou",
+    "TNMS": "成果表头设置表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "g_DiZhi",
+    "TNMS": "地质符号表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "g_DuiZhao",
+    "TNMS": "一般对照表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "g_DuiZhaoDZSD",
+    "TNMS": "地质时代对照表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "g_PeiZhi",
+    "TNMS": "数据表配置表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "g_STuCeng",
+    "TNMS": "系统标准地层表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "g_STuCengGC",
+    "TNMS": "工程标准地层表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "g_YanXing",
+    "TNMS": "岩性表(岩性描述)",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "g_ZiDuan",
+    "TNMS": "字段表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "g_ZPTou",
+    "TNMS": "柱状图剖面图表头设置表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "p_DiMianXian",
+    "TNMS": "地面线表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "p_DuanCeng",
+    "TNMS": "断层表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "p_JiChuBiaoGao",
+    "TNMS": "建筑物基础高程表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "p_PouXian",
+    "TNMS": "剖线数据表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "p_SheJiBiaoGao",
+    "TNMS": "设计高程表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "t_DCOther",
+    "TNMS": "地层综合其它指标",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "t_DCWLZhiBiao",
+    "TNMS": "地层综合物理力学指标数据表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "t_DCYanXing",
+    "TNMS": "地层综岩性描述合数据表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "t_ZHDZZZT",
+    "TNMS": "综合地质柱状图数据表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "t_ZHGCDZZZT",
+    "TNMS": "综合工程地质柱状图数据表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "t_ZHZZT",
+    "TNMS": "综合柱状图数据表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "x_FenDuan",
+    "TNMS": "分段数据表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "x_GongCheng",
+    "TNMS": "工点信息数据",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_c_GaoGuJie",
+    "TNMS": "高压固结试验表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_c_GaoGuJieCSXM",
+    "TNMS": "高压固结试验项目表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_c_GuJie",
+    "TNMS": "固结试验表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_c_GuJieCSXM",
+    "TNMS": "固结试验项目表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_c_KeFen",
+    "TNMS": "颗分试验表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_c_KeFenCSXM",
+    "TNMS": "颗分试验项目表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_c_QuYang",
+    "TNMS": "常规试验表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_c_SanZhou",
+    "TNMS": "三轴试验表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_c_SanZhouCSXM",
+    "TNMS": "三轴试验项目表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_c_ShiXian",
+    "TNMS": "湿陷性(黄土)表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_c_ShuiZhi",
+    "TNMS": "水质分析试样表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_c_ShuiZhiCSXM",
+    "TNMS": "水质分析测试项目表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_c_ZhiJian",
+    "TNMS": "直剪试验表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_c_ZhiJianCSXM",
+    "TNMS": "直剪试验项目表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_g_ChaoShiDu",
+    "TNMS": "潮湿度表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_g_FengHua",
+    "TNMS": "风化线表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_g_KeSuXing",
+    "TNMS": "可塑性表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_g_KongJin",
+    "TNMS": "钻孔孔径表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_g_ShuiWei",
+    "TNMS": "水位表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_g_TuCeng",
+    "TNMS": "地层表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_g_User1",
+    "TNMS": "自定义表一",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_g_User2",
+    "TNMS": "自定义表二",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_g_YXRQD",
+    "TNMS": "岩心采取率、RQD表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_y_BiaoGuan",
+    "TNMS": "标贯表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_y_BoSu",
+    "TNMS": "波速表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_y_ChouShui",
+    "TNMS": "抽水试验试样表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_y_ChouShuiCSXM",
+    "TNMS": "抽水试验测试项目表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_y_DongTan",
+    "TNMS": "动探表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_y_JingTan",
+    "TNMS": "静探表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_y_LFMiDu",
+    "TNMS": "裂缝密度表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_y_ShiZiBan",
+    "TNMS": "十字板剪切表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_y_STXiShu",
+    "TNMS": "渗透系数表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_y_TouShuiLv",
+    "TNMS": "透水率表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_y_ZaiHe",
+    "TNMS": "平板载荷试验点表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_y_ZaiHeSnsy",
+    "TNMS": "平板载荷室内试验表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_y_ZaiHeSyCg",
+    "TNMS": "平板载荷成果表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_y_ZaiHeSyjilu",
+    "TNMS": "平板载荷试验记录表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "-1",
+    "TNMC": "z_ZuanKong",
+    "TNMS": "勘探点数据表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "3",
+    "TNMC": "p_PXJiaoDian",
+    "TNMS": "剖线交点表",
+    "LZID": "",
+    "table": "g_TableName"
+  },
+  {
+    "GCBZ": "3",
+    "TNMC": "p_SWTable",
+    "TNMS": "蓄水位和河水位",
+    "LZID": "",
+    "table": "g_TableName"
+  }
+]

@@ -1,0 +1,1586 @@
+[
+  {
+    "85FIELD": "KL_005",
+    "90FIELD": "KL_005",
+    "BEIZHU": "~>\n0.005mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KL_01",
+    "90FIELD": "KL_01",
+    "BEIZHU": "~>\n0.01mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KL_05",
+    "90FIELD": "KL_05",
+    "BEIZHU": "~>\n0.05mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KL_074",
+    "90FIELD": "KL_074",
+    "BEIZHU": "~>\n0.074mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KL_075",
+    "90FIELD": "KL_075",
+    "BEIZHU": "~>\n0.075mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KL_1",
+    "90FIELD": "KL_1",
+    "BEIZHU": "~>\n0.1mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KL_25",
+    "90FIELD": "KL_25",
+    "BEIZHU": "~>\n0.25mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KL_5",
+    "90FIELD": "KL_5",
+    "BEIZHU": "~>\n0.5mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KL0",
+    "90FIELD": "KL0",
+    "BEIZHU": "~>\n0mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KL1",
+    "90FIELD": "KL1",
+    "BEIZHU": "~>\n1mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KL10",
+    "90FIELD": "KL10",
+    "BEIZHU": "~>\n10mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KL2",
+    "90FIELD": "KL2",
+    "BEIZHU": "~>\n2mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KL20",
+    "90FIELD": "KL20",
+    "BEIZHU": "~>\n20mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KL200",
+    "90FIELD": "KL200",
+    "BEIZHU": "~>\n200mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KL40",
+    "90FIELD": "KL40",
+    "BEIZHU": "~>\n40mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KL400",
+    "90FIELD": "KL400",
+    "BEIZHU": "~>\n400mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KL5",
+    "90FIELD": "KL5",
+    "BEIZHU": "~>\n5mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KL60",
+    "90FIELD": "KL60",
+    "BEIZHU": "~>\n60mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KL800",
+    "90FIELD": "KL800",
+    "BEIZHU": ">\n800mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KLBJXS",
+    "90FIELD": "KLBJXS",
+    "BEIZHU": "不\n均\n匀\n系数\nCu",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KLD10",
+    "90FIELD": "KLD10",
+    "BEIZHU": "有效\n粒径\nd10\n(mm)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KLD30",
+    "90FIELD": "KLD30",
+    "BEIZHU": "中间\n粒径\nd30\n(mm)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KLD50",
+    "90FIELD": "KLD50",
+    "BEIZHU": "平均\n粒径\nd50\n(mm)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KLD60",
+    "90FIELD": "KLD60",
+    "BEIZHU": "界限\n粒径\nd60\n(mm)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KLD95",
+    "90FIELD": "KLD95",
+    "BEIZHU": "d95\n(mm)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KLHL",
+    "90FIELD": "KLHL",
+    "BEIZHU": "黏\n粒\n含\n量\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KLQLXS",
+    "90FIELD": "KLQLXS",
+    "BEIZHU": "曲\n率\n系\n数\nCc",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "PZHZPZL",
+    "90FIELD": "PZHZPZL",
+    "BEIZHU": "荷载\n下的\n膨胀\n率\nδep",
+    "TABLENAME": "z_c_PengZhangTu",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "PZPZYL",
+    "90FIELD": "PZPZYL",
+    "BEIZHU": "膨胀\n压\n力\nPp\n\nkPa",
+    "TABLENAME": "z_c_PengZhangTu",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "PZSSXS",
+    "90FIELD": "PZSSXS",
+    "BEIZHU": "收\n缩\n系\n数\nλs",
+    "TABLENAME": "z_c_PengZhangTu",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "PZTSL",
+    "90FIELD": "PZTSL",
+    "BEIZHU": "体\n缩\n率\nδv\n\n%",
+    "TABLENAME": "z_c_PengZhangTu",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "PZXZL",
+    "90FIELD": "PZXZL",
+    "BEIZHU": "线\n胀\n率\neSL\n\n%",
+    "TABLENAME": "z_c_PengZhangTu",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "PZZYPZL",
+    "90FIELD": "PZZYPZL",
+    "BEIZHU": "自由\n膨胀\n率\nδef",
+    "TABLENAME": "z_c_PengZhangTu",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "BHD",
+    "90FIELD": "QYBHD",
+    "BEIZHU": "饱\n和\n度\nSr\n(%)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "BHMD",
+    "90FIELD": "QYBHMD",
+    "BEIZHU": "饱和\n密度\nρsat\n\n(g/cm3)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "BHZD",
+    "90FIELD": "QYBHZD",
+    "BEIZHU": "饱和\n重度\nγsat\n\n(kN/m3)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "BZ",
+    "90FIELD": "QYBZ",
+    "BEIZHU": "土\n粒\n比\n重\nGs",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "CZSTXS",
+    "90FIELD": "QYCZSTXS",
+    "BEIZHU": "竖向\n渗透\n系数\n(室内)\nkv\n(*10-6cm/s)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "GMD",
+    "90FIELD": "QYTRMDG",
+    "BEIZHU": "干\n密\n度\nρd\n(g/cm3)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "GZD",
+    "90FIELD": "QYTRGZD",
+    "BEIZHU": "干重度\n\nγd\n(kN/m3)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "HSB",
+    "90FIELD": "QYHSB",
+    "BEIZHU": "含\n水\n比\n\nαw",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "HSL",
+    "90FIELD": "QYHSL",
+    "BEIZHU": "天然\n含水\n量\nω\n(%)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KXB",
+    "90FIELD": "QYKXB",
+    "BEIZHU": "天然\n孔隙\n比\n\ne",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KXD",
+    "90FIELD": "QYKXD",
+    "BEIZHU": "孔\n隙\n度\nn\n(%)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "BHKYQD",
+    "90FIELD": "DZKYQD_BH",
+    "BEIZHU": "饱和\n单轴\n抗压\n强度\nfrc\n(MPa)",
+    "TABLENAME": "t_YanShi",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "DZKYQD",
+    "90FIELD": "DZKYQD_HG",
+    "BEIZHU": "干燥\n单轴\n抗压\n强度\nfr\n(MPa)",
+    "TABLENAME": "t_YanShi",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "GMD",
+    "90FIELD": "GMD",
+    "BEIZHU": "干密度岩",
+    "TABLENAME": "t_YanShi",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "HSL",
+    "90FIELD": "HSL",
+    "BEIZHU": "含水率岩",
+    "TABLENAME": "t_YanShi",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "MD",
+    "90FIELD": "TRMD",
+    "BEIZHU": "天然密度岩",
+    "TABLENAME": "t_YanShi",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYBH",
+    "90FIELD": "ZKQYBH",
+    "BEIZHU": "取样编号岩",
+    "TABLENAME": "t_YanShi",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYBHKYQD",
+    "90FIELD": "DZKYQD_BH",
+    "BEIZHU": "饱和\n单轴\n抗压\n强度\nfrc\n(MPa)",
+    "TABLENAME": "t_YanShi",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYBHXSL",
+    "90FIELD": "BHXSL",
+    "BEIZHU": "饱和\n吸水\n率\nW2\n\n%",
+    "TABLENAME": "t_YanShi",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYBSB",
+    "90FIELD": "YSDBSB",
+    "BEIZHU": "动泊松比μd岩",
+    "TABLENAME": "t_YanShi",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYDBSB",
+    "90FIELD": "YSDBSB",
+    "BEIZHU": "泊松比",
+    "TABLENAME": "t_YanShi",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYDJML",
+    "90FIELD": "YSDJML",
+    "BEIZHU": "动剪切模量",
+    "TABLENAME": "t_YanShi",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYDTML",
+    "90FIELD": "YSDTML",
+    "BEIZHU": "动弹性模量Ed(MPa)",
+    "TABLENAME": "t_YanShi",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYSD",
+    "90FIELD": "SYSD",
+    "BEIZHU": "试验深度岩",
+    "TABLENAME": "t_YanShi",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYXSL",
+    "90FIELD": "XSL",
+    "BEIZHU": "吸\n水\n率\nW1\n\n%",
+    "TABLENAME": "t_YanShi",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYZLMD",
+    "90FIELD": "TRMD",
+    "BEIZHU": "质量密度",
+    "TABLENAME": "t_YanShi",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYZRKYQD",
+    "90FIELD": "DZKYQD_TR",
+    "BEIZHU": "天然\n单轴\n抗压\n强度\nf∝\n(MPa)（QY-YS）",
+    "TABLENAME": "t_YanShi",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "RHQD",
+    "90FIELD": "RHXS",
+    "BEIZHU": "软\n化\n系\n数\nKd",
+    "TABLENAME": "t_YanShi",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "YYGS",
+    "90FIELD": "YYGS",
+    "BEIZHU": "岩样",
+    "TABLENAME": "t_YanShi",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "ZRKYQD",
+    "90FIELD": "DZKYQD_TR",
+    "BEIZHU": "天然\n单轴\n抗压\n强度\nf∝\n(MPa)",
+    "TABLENAME": "t_YanShi",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "DCCZ",
+    "90FIELD": "GLZKZDZ",
+    "BEIZHU": "桩侧\n阻标\n准值\nqsk\n(kPa)",
+    "TABLENAME": "x_DiCeng",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "DCCZL",
+    "90FIELD": "DCCZL",
+    "BEIZHU": "承载\n力标\n准值\nfk\n(kPa)",
+    "TABLENAME": "x_DiCeng",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "DCDZ",
+    "90FIELD": "GLZKZCZ",
+    "BEIZHU": "桩端\n阻标\n准值\nqpk\n(kPa)",
+    "TABLENAME": "x_DiCeng",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "DCML",
+    "90FIELD": "DCDCML",
+    "BEIZHU": "倒算\n模量\n\nEs’\n(MPa)",
+    "TABLENAME": "x_DiCeng",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "GJBSB",
+    "90FIELD": "GJBSB",
+    "BEIZHU": "泊\n松\n比\nμ",
+    "TABLENAME": "z_c_GuJie",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "GJBXML",
+    "90FIELD": "GJBXML",
+    "BEIZHU": "变形\n模量\nEo\n(MPa)",
+    "TABLENAME": "z_c_GuJie",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "GJHTZS",
+    "90FIELD": "GJHTZS",
+    "BEIZHU": "回\n弹\n指\n数\nCc",
+    "TABLENAME": "z_c_GuJie",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "GJKXSYLXSA",
+    "90FIELD": "GJKXSYLXSA",
+    "BEIZHU": "孔隙\n水压\n力系\n数A\npc",
+    "TABLENAME": "z_c_GuJie",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "GJKXSYLXSB",
+    "90FIELD": "GJKXSYLXSB",
+    "BEIZHU": "孔隙\n水压\n力系\n数B\npc",
+    "TABLENAME": "z_c_GuJie",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "GJQQGJYL",
+    "90FIELD": "GJQQGJYL",
+    "BEIZHU": "前期\n固结\n压力\n\nPc\n(kPa)",
+    "TABLENAME": "z_c_GuJie",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "GJTXML",
+    "90FIELD": "GJTXML",
+    "BEIZHU": "弹性\n模量\nEe\n(MPa)",
+    "TABLENAME": "z_c_GuJie",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "GJYSZS",
+    "90FIELD": "GJYSZS",
+    "BEIZHU": "压\n缩\n指\n数\nCc",
+    "TABLENAME": "z_c_GuJie",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "GBSB",
+    "90FIELD": "GBSB",
+    "BEIZHU": "泊\n松\n比\n(水平)",
+    "TABLENAME": "z_c_GuJieShP",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "GBXML",
+    "90FIELD": "GBXML",
+    "BEIZHU": "变形\n模量\nE\n(水平)\n(MPa)",
+    "TABLENAME": "z_c_GuJieShP",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "GHTZS",
+    "90FIELD": "GHTZS",
+    "BEIZHU": "回弹\n指数\nCs\n(水平)",
+    "TABLENAME": "z_c_GuJieShP",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "GKXSYLXSA",
+    "90FIELD": "GKXSYLXSA",
+    "BEIZHU": "孔隙水\n压力系\n数A\n(水平)",
+    "TABLENAME": "z_c_GuJieShP",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "GKXSYLXSB",
+    "90FIELD": "GKXSYLXSB",
+    "BEIZHU": "孔隙水\n压力系\n数B\n(水平)",
+    "TABLENAME": "z_c_GuJieShP",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "GQQGJYL",
+    "90FIELD": "GQQGJYL",
+    "BEIZHU": "前期固\n结压力\npc\n(水平)",
+    "TABLENAME": "z_c_GuJieShP",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "GTXML",
+    "90FIELD": "GTXML",
+    "BEIZHU": "弹性\n模量\nEe(MPa)\n(水平)",
+    "TABLENAME": "z_c_GuJieShP",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "GYSZS",
+    "90FIELD": "GYSZS",
+    "BEIZHU": "压缩\n指数\nCc\n(水平)",
+    "TABLENAME": "z_c_GuJieShP",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KL_002",
+    "90FIELD": "KL_002",
+    "BEIZHU": "~>\n0.002mm\n(%)",
+    "TABLENAME": "z_c_KeFen",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "MD",
+    "90FIELD": "QYZLMD",
+    "BEIZHU": "质量\n密度\nρ\n(g/cm3)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYBH",
+    "90FIELD": "ZKQYBH",
+    "BEIZHU": "取样编号",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYBSB",
+    "90FIELD": "QYDBSB",
+    "BEIZHU": "动\n泊\n松\n比\nμd",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYCZBCBR25",
+    "90FIELD": "QYCZBCBR25",
+    "BEIZHU": "承\n载\n力\n比\nCBR2.5",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYCZBCBR5",
+    "90FIELD": "QYCZBCBR5",
+    "BEIZHU": "承\n载\n力\n比\nCBR5",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYDJML",
+    "90FIELD": "QYDJML",
+    "BEIZHU": "动剪\n切\n模量\nGd\n(MPa)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYDTML",
+    "90FIELD": "QYDTML",
+    "BEIZHU": "动弹\n性\n模量\nEd\n(MPa)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYHTML",
+    "90FIELD": "QYHTML",
+    "BEIZHU": "回弹\n模量\n\nEsr\n(MPa)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYHYL",
+    "90FIELD": "QYHYL",
+    "BEIZHU": "含\n盐\n量\n\n%",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYJQBS",
+    "90FIELD": "QYJQBS",
+    "BEIZHU": "常规\n剪切\n波速\nVs\n(m/s)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYKYDCS",
+    "90FIELD": "QYKYDCS",
+    "BEIZHU": "重塑\nqu'\n(kPa)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYKYDYZ",
+    "90FIELD": "QYKYDYZ",
+    "BEIZHU": "原状\nqu\n(kPa)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYLMD",
+    "90FIELD": "QYLMD",
+    "BEIZHU": "灵敏\n度\nSt",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYSD",
+    "90FIELD": "SYSD",
+    "BEIZHU": "试\n样\n深\n度\n(m)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYSZBCYQD",
+    "90FIELD": "QYSZBCYQD",
+    "BEIZHU": "十字\n板剪\n切残\n余强\n度\n(室内)\nCu'\n(kPa)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYSZBLMD",
+    "90FIELD": "QYSZBLMD",
+    "BEIZHU": "十字\n板剪\n切灵\n敏度\n(室内)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYSZBQD",
+    "90FIELD": "QYSZBQD",
+    "BEIZHU": "十字\n板剪\n切强\n度\n(室内)\nCu\n(kPa)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYTSL",
+    "90FIELD": "QYTSL",
+    "BEIZHU": "透\n水\n率\nq\n(Lu)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYTXKLXS",
+    "90FIELD": "QYTXKLXS",
+    "BEIZHU": "弹性\n抗力\n系数\nK0\n\nMN/m3",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYYJZHL",
+    "90FIELD": "QYYJZHL",
+    "BEIZHU": "有\n机\n质\n含\n量\n\n%",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYZBBS",
+    "90FIELD": "QYZBBS",
+    "BEIZHU": "常规\n纵波\n波速\nVp\n(m/s)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "QYZYHSL",
+    "90FIELD": "QYZYHSL",
+    "BEIZHU": "最\n优\n含\n水\n量\n Wy\n%",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "RDGS",
+    "90FIELD": "RDTY",
+    "BEIZHU": "扰动样",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "RZ",
+    "90FIELD": "QYTRZLMD",
+    "BEIZHU": "重力\n密度\nγ\n(kN/m3)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SNDM",
+    "90FIELD": "SNDM",
+    "BEIZHU": "室\n内\n定\n名",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SPSTXS",
+    "90FIELD": "QYSPSTXS",
+    "BEIZHU": "水平\n渗透\n系数\n(室内)\nkh\n(*10-6cm/s)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "STXS",
+    "90FIELD": "QYSTXS",
+    "BEIZHU": "渗透\n系数\n(室内)\nk\n(*10-6cm/s)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SX",
+    "90FIELD": "QYSY",
+    "BEIZHU": "塑\n限\nωp\n\n(%)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SXZS",
+    "90FIELD": "QYSXZS",
+    "BEIZHU": "塑性\n指数\n\nIP",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "XDMD",
+    "90FIELD": "QYXDMD",
+    "BEIZHU": "相\n对\n密实\n度\nDr",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "XZJ1",
+    "90FIELD": "QYXZJ1",
+    "BEIZHU": "休止\n角\nφ。\n(度)\n水上",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "XZJ2",
+    "90FIELD": "QYXZJ2",
+    "BEIZHU": "休止\n角\nφ。\n(度)水下",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "YX",
+    "90FIELD": "QYYX",
+    "BEIZHU": "液限\n\nωL\n(%)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "YXB",
+    "90FIELD": "QYYSB",
+    "BEIZHU": "液\n塑\n比\n\nIr",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "YXKXB",
+    "90FIELD": "QYYXKXB",
+    "BEIZHU": "液限/孔隙比(%)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "YXZS",
+    "90FIELD": "QYYXZS",
+    "BEIZHU": "液\n性\n指\n数\nIL",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "YZGS",
+    "90FIELD": "YZTY",
+    "BEIZHU": "原状样",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "Z001",
+    "90FIELD": "BZ",
+    "BEIZHU": "备 注",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "ZCL",
+    "90FIELD": "ZCL",
+    "BEIZHU": "锥\n沉\n量\nh\n(mm)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "ZDKXB",
+    "90FIELD": "QYZDKXB",
+    "BEIZHU": "最大\n孔\n隙\n比\nemax",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "ZDMD",
+    "90FIELD": "QYZDMD",
+    "BEIZHU": "最大干\n密度\nρdmax\n\n(g/cm3)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "ZXKXB",
+    "90FIELD": "QYZXKXB",
+    "BEIZHU": "最小\n孔\n隙\n比\nemin",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "ZXMD",
+    "90FIELD": "QYZXMD",
+    "BEIZHU": "最小干\n密度\nρdmin\n\n(g/cm3)",
+    "TABLENAME": "z_c_QuYang",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SHZC00",
+    "90FIELD": "SHZC00",
+    "BEIZHU": "粘聚\n力\nCuu\n(kPa)\n(不固结不排水剪)",
+    "TABLENAME": "z_c_SanZhou",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SHZC10",
+    "90FIELD": "SHZC10",
+    "BEIZHU": "粘聚\n力\nCcu\n(kPa)\n(固结不排水剪)",
+    "TABLENAME": "z_c_SanZhou",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SHZC20",
+    "90FIELD": "SHZC20",
+    "BEIZHU": "有效\n粘聚力\nc'\n(kPa)\n(固结不排水剪)",
+    "TABLENAME": "z_c_SanZhou",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SHZC30",
+    "90FIELD": "SHZC30",
+    "BEIZHU": "粘聚\n力\nCcd\n(kPa)\n(固结排水剪)",
+    "TABLENAME": "z_c_SanZhou",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SHZF01",
+    "90FIELD": "SHZF01",
+    "BEIZHU": "内摩\n擦角\nφuu\n(度)\n(不固结不排水剪)",
+    "TABLENAME": "z_c_SanZhou",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SHZF11",
+    "90FIELD": "SHZF11",
+    "BEIZHU": "内摩\n擦角\nφcu\n(度)\n(固结不排水剪)",
+    "TABLENAME": "z_c_SanZhou",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SHZF21",
+    "90FIELD": "SHZF21",
+    "BEIZHU": "有效内\n摩擦角\nφ'\n(度)\n(固结不排水剪)",
+    "TABLENAME": "z_c_SanZhou",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SHZF31",
+    "90FIELD": "SHZF31",
+    "BEIZHU": "内摩\n擦角\nφcd\n(度)\n(固结排水剪)",
+    "TABLENAME": "z_c_SanZhou",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SXJSYL",
+    "90FIELD": "SXJSYL",
+    "BEIZHU": "浸\n水\n压\n力\n(kPa)",
+    "TABLENAME": "z_c_ShiXian",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SXQSYL",
+    "90FIELD": "SXQSYL",
+    "BEIZHU": "湿陷\n起始\n压力\nPsh\n(kPa)",
+    "TABLENAME": "z_c_ShiXian",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SXSX02",
+    "90FIELD": "SXSX02",
+    "BEIZHU": "0.2MPa\n压力\n湿陷\n系数\nδs",
+    "TABLENAME": "z_c_ShiXian",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SXSX03",
+    "90FIELD": "SXSX03",
+    "BEIZHU": "0.3MPa\n压力\n湿陷\n系数\nδs",
+    "TABLENAME": "z_c_ShiXian",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SXXS",
+    "90FIELD": "SXXS",
+    "BEIZHU": "湿\n陷\n系\n数\nδs",
+    "TABLENAME": "z_c_ShiXian",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SXZXS",
+    "90FIELD": "SXZXS",
+    "BEIZHU": "自重\n湿陷\n系数\n\nδzs",
+    "TABLENAME": "z_c_ShiXian",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "ZJNJL00",
+    "90FIELD": "ZJNJL00",
+    "BEIZHU": "粘聚\n力\nCq\n(kPa)\n(快剪)",
+    "TABLENAME": "z_c_ZhiJian",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "ZJNJL10",
+    "90FIELD": "ZJNJL10",
+    "BEIZHU": "粘聚\n力\nCc\n(kPa)\n(固快)",
+    "TABLENAME": "z_c_ZhiJian",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "ZJNJL11",
+    "90FIELD": "ZJNJL11",
+    "BEIZHU": "粘聚\n力\nCs\n(kPa)\n(慢剪)",
+    "TABLENAME": "z_c_ZhiJian",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "ZJNMJ00",
+    "90FIELD": "ZJNMJ00",
+    "BEIZHU": "内摩\n擦角\nφq\n(度)\n(快剪)",
+    "TABLENAME": "z_c_ZhiJian",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "ZJNMJ10",
+    "90FIELD": "ZJNMJ10",
+    "BEIZHU": "内摩\n擦角\nφc\n(度)\n(固快)",
+    "TABLENAME": "z_c_ZhiJian",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "ZJNMJ11",
+    "90FIELD": "ZJNMJ11",
+    "BEIZHU": "内摩\n擦角\nφs\n(度)\n(慢剪)",
+    "TABLENAME": "z_c_ZhiJian",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "CEBBG",
+    "90FIELD": "CDGC",
+    "BEIZHU": "层底高程(m)",
+    "TABLENAME": "z_g_TuCeng",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "CEBSD",
+    "90FIELD": "CDSD",
+    "BEIZHU": "层底深度(m)",
+    "TABLENAME": "z_g_TuCeng",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "CECYND",
+    "90FIELD": "DCSD",
+    "BEIZHU": "时代成因",
+    "TABLENAME": "z_g_TuCeng",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "CEDC",
+    "90FIELD": "ZKSY",
+    "BEIZHU": "项次",
+    "TABLENAME": "z_g_TuCeng",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "CEHD",
+    "90FIELD": "CHD",
+    "BEIZHU": "层厚(m)",
+    "TABLENAME": "z_g_TuCeng",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "CETBG",
+    "90FIELD": "CDINGGC",
+    "BEIZHU": "层顶高程(m)",
+    "TABLENAME": "z_g_TuCeng",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "CETCBH",
+    "90FIELD": "DCBH",
+    "BEIZHU": "地层编号",
+    "TABLENAME": "z_g_TuCeng",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "CETCMC",
+    "90FIELD": "TCMC",
+    "BEIZHU": "岩土名称",
+    "TABLENAME": "z_g_TuCeng",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "CETSD",
+    "90FIELD": "CDINGSD",
+    "BEIZHU": "层顶深度(m)",
+    "TABLENAME": "z_g_TuCeng",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "CEZKBH",
+    "90FIELD": "ZKBH",
+    "BEIZHU": "孔号",
+    "TABLENAME": "z_g_TuCeng",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "DCND",
+    "90FIELD": "DCSD",
+    "BEIZHU": "成\n因\n年\n代",
+    "TABLENAME": "z_g_TuCeng",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "TCBH",
+    "90FIELD": "DCBH",
+    "BEIZHU": "岩\n土\n编\n号",
+    "TABLENAME": "z_g_TuCeng",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "TCMC",
+    "90FIELD": "TCMC",
+    "BEIZHU": "岩\n土\n名\n称",
+    "TABLENAME": "z_g_TuCeng",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "BGGS",
+    "90FIELD": "BGSYCS",
+    "BEIZHU": "标贯(次)",
+    "TABLENAME": "z_y_BiaoGuan",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "BGJS",
+    "90FIELD": "BGJS",
+    "BEIZHU": "标\n贯\n击数\nN\n(击/30cm)",
+    "TABLENAME": "z_y_BiaoGuan",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "BGXJS",
+    "90FIELD": "BGXZJS",
+    "BEIZHU": "标贯\n修正\n击数\nN\n(击/30cm)",
+    "TABLENAME": "z_y_BiaoGuan",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "BSHB",
+    "90FIELD": "HBCDS",
+    "BEIZHU": "横波测点数",
+    "TABLENAME": "z_y_BoSu",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "BSYWHB",
+    "90FIELD": "BSHBS",
+    "BEIZHU": "原位\n横波\n波速\n Vs\n(m/s)",
+    "TABLENAME": "z_y_BoSu",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "BSYWZB",
+    "90FIELD": "BSZBS",
+    "BEIZHU": "原位\n纵波\n波速\n Vp\n(m/s)",
+    "TABLENAME": "z_y_BoSu",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "BSZB",
+    "90FIELD": "ZBCDS",
+    "BEIZHU": "纵波测点数",
+    "TABLENAME": "z_y_BoSu",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "DTSD10",
+    "90FIELD": "QXDTCD",
+    "BEIZHU": "轻型动探深度(m)",
+    "TABLENAME": "z_y_DongTan",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "DTSD120",
+    "90FIELD": "CZXDTCD",
+    "BEIZHU": "超重型动探深度(m)",
+    "TABLENAME": "z_y_DongTan",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "DTSD63_5",
+    "90FIELD": "ZXDTCD",
+    "BEIZHU": "重型动探深度(m)",
+    "TABLENAME": "z_y_DongTan",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "N10",
+    "90FIELD": "N10",
+    "BEIZHU": "轻型\n动探\n\nN10\n(击/30cm)",
+    "TABLENAME": "z_y_DongTan",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "N120",
+    "90FIELD": "N120",
+    "BEIZHU": "超重\n型\n动探\nN120\n(击/10cm)",
+    "TABLENAME": "z_y_DongTan",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "N63_5",
+    "90FIELD": "N63_5",
+    "BEIZHU": "重型\n动探\n\nN63.5\n(击/10cm)",
+    "TABLENAME": "z_y_DongTan",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "NX120",
+    "90FIELD": "NX120",
+    "BEIZHU": "超重型\n动探\n修正\nN120\n(击/10cm)",
+    "TABLENAME": "z_y_DongTan",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "NX63_5",
+    "90FIELD": "NX63_5",
+    "BEIZHU": "重型\n动探\n修正\nN63.5\n(击/10cm)",
+    "TABLENAME": "z_y_DongTan",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "DQSD",
+    "90FIELD": "DQJTCD",
+    "BEIZHU": "单桥静探深度(m)",
+    "TABLENAME": "z_y_JingTan",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "JTBGRZL",
+    "90FIELD": "JTBGRZL",
+    "BEIZHU": "单桥\n静探\n\nPs\n(MPa)",
+    "TABLENAME": "z_y_JingTan",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SQSD",
+    "90FIELD": "SQJTCD",
+    "BEIZHU": "双桥静探深度(m)",
+    "TABLENAME": "z_y_JingTan",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "WQSD",
+    "90FIELD": "DUQJTCD",
+    "BEIZHU": "多桥静探深度(m)",
+    "TABLENAME": "z_y_JingTan",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "JTCMZ",
+    "90FIELD": "JTCMZ",
+    "BEIZHU": "侧\n阻\n力\nfs\n(kPa)",
+    "TABLENAME": "z_y_JingTanSQ",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "JTMZB",
+    "90FIELD": "JTMZB",
+    "BEIZHU": "摩\n阻\n比\n\n(%)",
+    "TABLENAME": "z_y_JingTanSQ",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "JTZTZL",
+    "90FIELD": "JTZTZL",
+    "BEIZHU": "锥头\n阻力\n\nqc\n(MPa)",
+    "TABLENAME": "z_y_JingTanSQ",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "PYGS",
+    "90FIELD": "PYSYDS",
+    "BEIZHU": "旁压(次)",
+    "TABLENAME": "z_y_PangYa",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SZBCQD",
+    "90FIELD": "SZBCQD",
+    "BEIZHU": "十字\n板残\n余剪\n切强\n度\n(原位)\n(CU')\nkPa",
+    "TABLENAME": "z_y_ShiZiBan",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SZBGS",
+    "90FIELD": "SZBSYDS",
+    "BEIZHU": "十字板(次)",
+    "TABLENAME": "z_y_ShiZiBan",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "SZBQD",
+    "90FIELD": "SZBQD",
+    "BEIZHU": "十字\n板剪\n切强\n度\n(原位)\n(Cu)\nkPa",
+    "TABLENAME": "z_y_ShiZiBan",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KTKSRQ",
+    "90FIELD": "ZKKSRQ",
+    "BEIZHU": "勘探开始日期",
+    "TABLENAME": "z_ZuanKong",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KTLX",
+    "90FIELD": "ZKLX",
+    "BEIZHU": "勘探点类型",
+    "TABLENAME": "z_ZuanKong",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "KTZZRQ",
+    "90FIELD": "ZKZZRQ",
+    "BEIZHU": "勘探终止日期",
+    "TABLENAME": "z_ZuanKong",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "WZ_X",
+    "90FIELD": "ZKX",
+    "BEIZHU": "X(m)",
+    "TABLENAME": "z_ZuanKong",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "WZ_Y",
+    "90FIELD": "ZKY",
+    "BEIZHU": "Y(m)",
+    "TABLENAME": "z_ZuanKong",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "Z001",
+    "90FIELD": "BZ",
+    "BEIZHU": "备注",
+    "TABLENAME": "z_ZuanKong",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "ZJSD",
+    "90FIELD": "ZKTJSD",
+    "BEIZHU": "探井深度(m)",
+    "TABLENAME": "z_ZuanKong",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "ZKBG",
+    "90FIELD": "ZKBG",
+    "BEIZHU": "地面高程(m)",
+    "TABLENAME": "z_ZuanKong",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "ZKBH",
+    "90FIELD": "ZKBH",
+    "BEIZHU": "勘探点编号",
+    "TABLENAME": "z_ZuanKong",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "ZKGDMC",
+    "90FIELD": "GCMC",
+    "BEIZHU": "工点名称",
+    "TABLENAME": "z_ZuanKong",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "ZKSD",
+    "90FIELD": "ZKSD",
+    "BEIZHU": "钻探深度(m)",
+    "TABLENAME": "z_ZuanKong",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  },
+  {
+    "85FIELD": "ZKLC",
+    "90FIELD": "ZKLC",
+    "BEIZHU": "里程",
+    "TABLENAME": "ZKLC",
+    "QYTOYS": "",
+    "table": "g_TJ_FIELD85TO90"
+  }
+]

@@ -1,0 +1,827 @@
+[
+  {
+    "TABLE": "z_ZuanKong",
+    "COUNT": "31",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_fanganzuankong",
+    "COUNT": "11",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_GongDianFiles_GD",
+    "COUNT": "6",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_g_TuCeng",
+    "COUNT": "4",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_PouXian",
+    "COUNT": "4",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_DiCengTJ",
+    "COUNT": "3",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_JingTan",
+    "COUNT": "3",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_ChanZhuang",
+    "COUNT": "3",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_DiMianXian",
+    "COUNT": "2",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_FenDuanShow_FA",
+    "COUNT": "2",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_ShuiZhiQuanFX",
+    "COUNT": "2",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_ShuiZhiJianFX",
+    "COUNT": "2",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_ZuanKong_Buf",
+    "COUNT": "2",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_TuCeng_Temp",
+    "COUNT": "2",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_TuGong",
+    "COUNT": "2",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_YanShi",
+    "COUNT": "2",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_SheJiFile",
+    "COUNT": "2",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_ZaiHeSyCg",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_DMGouZao",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_DMFWJ_GD",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_DMFWJ",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_DMDiCengTJ",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_DMDCLouTou_GD",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_DMDCLouTou",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "p_PouXian",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_ZaiHeSnsy",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_DongTuCeng",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_DiCeng_temp",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_DiCeng",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_ZaiHeSyjilu",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_BoPian",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_BianBanCZSYSJ",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_BianBanCZSY",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_KcReport_DL",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_DMChanZhuang",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_YeHua",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_ShiKengZDSS_Temp",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_KcFenDuan",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_JLGCD_CZ_Temp",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_JingTanWDSS_Temp",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_gongdianzk",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_TouShuiLv",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_GongDian",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_DMGouZao_GD",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_GCD_CZ",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_DongTu",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_ZaiHe",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_FangAn_Temp",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_FangAn",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_DuanLianInfo_GD",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_DuanLianInfo",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_duanlian",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "p_JiChuBiaoGao",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_GCD_TuCeng",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "d_XZZTTuceng",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_JTTjzTcmDuizhao",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_JiChu",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_DuiZhaoDZSD",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_DuiZhao",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_DiZhi",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_CeLiangDian",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "p_SheJiBiaoGao",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_BiaoLie",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_SJDuiZhao",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "d_XZZT",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "d_DZZhenZhong",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "d_DZTaKan",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "d_DZSDCY",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "d_DZGouZao",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "d_DZDuanCeng",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "d_DZBuLiang",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_BiaoTou",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_ZiDuan",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "p_DunTai",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "p_DiMianXian",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "p_ConnectLinePoint",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "p_ConnectLine",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "p_Connect",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_ZZTTK",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_ZztBiaoTou",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_OrgTree",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_ZPTou",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_PeiZhi",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_YanXing",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_XiaoShuDian",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_TableName",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_SubTree",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_STuCengGC",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_STuCeng",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_KongDong",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "g_ZztBiaoLie",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_c_KeFenCSXM",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_c_ZhiJian",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_c_ShuiZhiCSXM",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_c_ShuiZhi",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_c_ShiXian",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_c_SanZhouCSXM",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_c_SanZhou",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "x_SheJi",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_c_PengZhangTu",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_g_ChaoShiDu",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_c_KeFen",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_c_GuJieShP",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_c_GuJieCSXM",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_c_GuJie",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_c_GaoGuJieCSXM",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_c_GaoGuJie",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_KcFenDuan_Temp",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_c_QuYang",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_g_User1",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_DongTan",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_ChouShuiSWHF",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_ChouShuiSJ",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_ChouShuiGLQ",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_ChouShui",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_BoSu",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_BiaoGuan",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_c_ZhiJianCSXM",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_g_User2",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_g_CengJiLu",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_LuoXuanBan",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_g_ShuiWei",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_g_KongJin",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_g_KeSuXing",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_g_FengHua",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_g_DuanCeng",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "x_MuLu",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_g_YXRQD",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_PangYaCSXM",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_xzztdcTemp",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_xianlu",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_TuHuaZhongHe",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_TuGongWDSS_Temp",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_LuoXuanBanSyCg",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_LuoXuanBanSyjilu",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "x_zongzhu",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_PangYa",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_LuoXuanBanSnsy",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "buf_SBDTuCeng",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_ShiZiBan",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_STXiShu",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_PengZhangXing",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_KongYaXSSYSJ",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_KongYaXSSY",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_KongYaXS",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_ShuiZhiWDSS_Temp",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_YiRongYan",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "x_GongCheng",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "x_FenDuan",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "x_DiCeng",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "x_BiaoZhun",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_ZuanTanZDSS_Temp",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_ZuanKong_Temp",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_zhongxian",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_y_YingLiChanShuJu",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_ZDuanMian",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_y_YingLiChanYLSJSJ",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_YaShuiSYSWJL",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_YaShuiSYJL",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_YaShuiSY",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_YanTuHuaXueFenxi",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_YanTu_Temp",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_YanShiWDSS_Temp",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "z_y_LFMiDu",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  },
+  {
+    "TABLE": "t_ZDuanMian_GD",
+    "COUNT": "1",
+    "table": "TABLECOUNT"
+  }
+]

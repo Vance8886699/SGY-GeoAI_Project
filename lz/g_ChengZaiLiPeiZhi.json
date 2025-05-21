@@ -1,0 +1,834 @@
+[
+  {
+    "YTLB": "花岗岩残积土粘性土1",
+    "YTMC": "花岗岩残积土粘性土1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\花岗岩残积土粘性土1.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "老粘性土1",
+    "YTMC": "老粘性土1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\老粘性土1.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "老粘性土压缩模量1",
+    "YTMC": "老粘性土压缩模量1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\老粘性土压缩模量1.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "砂土粉、细砂1",
+    "YTMC": "砂土粉、细砂1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\砂土粉、细砂1.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "砂土中、粗砂1",
+    "YTMC": "砂土中、粗砂1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\砂土中、粗砂1.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "一般粘性土1",
+    "YTMC": "一般粘性土1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\一般粘性土1.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "一般粘性土压缩模量1",
+    "YTMC": "一般粘性土压缩模量1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\一般粘性土压缩模量1.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "残积粘性土2",
+    "YTMC": "残积粘性土2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\残积粘性土2.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "残积粘性土压缩模量2",
+    "YTMC": "残积粘性土压缩模量2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\残积粘性土压缩模量2.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "花岗岩残积土砾质粘性土2",
+    "YTMC": "花岗岩残积土砾质粘性土2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\花岗岩残积土砾质粘性土2.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "花岗岩残积土砂质粘性土2",
+    "YTMC": "花岗岩残积土砂质粘性土2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\花岗岩残积土砂质粘性土2.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "花岗岩残积土粘性土2",
+    "YTMC": "花岗岩残积土粘性土2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\花岗岩残积土粘性土2.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "老粘性土2",
+    "YTMC": "老粘性土2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\老粘性土2.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "砂土粉、细砂2",
+    "YTMC": "砂土粉、细砂2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\砂土粉、细砂2.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "砂土中、粗砂2",
+    "YTMC": "砂土中、粗砂2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\砂土中、粗砂2.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "一般粘性土2",
+    "YTMC": "一般粘性土2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\一般粘性土2.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "素填土1",
+    "YTMC": "素填土1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\动探N10\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\素填土1.txt",
+    "JSFS": "湖北动探N10",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "粘性土1",
+    "YTMC": "粘性土1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\动探N10\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\粘性土1.txt",
+    "JSFS": "湖北动探N10",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "碎石土1",
+    "YTMC": "碎石土1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\动探N635\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\碎石土1.txt",
+    "JSFS": "湖北动探N635",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "杂填土1",
+    "YTMC": "杂填土1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\动探N635\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\杂填土1.txt",
+    "JSFS": "湖北动探N635",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "中、粗、砾砂1",
+    "YTMC": "中、粗、砾砂1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\动探N635\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\中、粗、砾砂1.txt",
+    "JSFS": "湖北动探N635",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "杂填土2",
+    "YTMC": "杂填土2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\动探N635\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\杂填土2.txt",
+    "JSFS": "湖北动探N635",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "杂填土压缩模量2",
+    "YTMC": "杂填土压缩模量2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\动探N635\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\杂填土压缩模量2.txt",
+    "JSFS": "湖北动探N635",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "中、粗、砾砂2",
+    "YTMC": "中、粗、砾砂2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\动探N635\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\中、粗、砾砂2.txt",
+    "JSFS": "湖北动探N635",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "粉土1",
+    "YTMC": "粉土1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\粉土1.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "粉土压缩模量1",
+    "YTMC": "粉土压缩模量1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\粉土压缩模量1.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "老粘性土1",
+    "YTMC": "老粘性土1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\老粘性土1.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "老粘性土压缩模量1",
+    "YTMC": "老粘性土压缩模量1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\老粘性土压缩模量1.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "砂土细、粉砂1",
+    "YTMC": "砂土细、粉砂1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\砂土细、粉砂1.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "砂土压缩模量细粉砂1",
+    "YTMC": "砂土压缩模量细粉砂1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\砂土压缩模量细粉砂1.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "砂土压缩模量中粗砂1",
+    "YTMC": "砂土压缩模量中粗砂1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\砂土压缩模量中粗砂1.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "砂土中、粗砂1",
+    "YTMC": "砂土中、粗砂1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\砂土中、粗砂1.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "素填土1",
+    "YTMC": "素填土1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\素填土1.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "素填土压缩模量1",
+    "YTMC": "素填土压缩模量1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\素填土压缩模量1.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "淤泥质土、一般粘性土1",
+    "YTMC": "淤泥质土、一般粘性土1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\淤泥质土、一般粘性土1.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "淤泥质土、一般粘性土压缩模量1",
+    "YTMC": "淤泥质土、一般粘性土压缩模量1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\淤泥质土、一般粘性土压缩模量1.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "粉土2",
+    "YTMC": "粉土2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\粉土2.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "老粘性土2",
+    "YTMC": "老粘性土2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\老粘性土2.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "砂土细、粉砂2",
+    "YTMC": "砂土细、粉砂2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\砂土细、粉砂2.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "砂土中、粗砂2",
+    "YTMC": "砂土中、粗砂2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\砂土中、粗砂2.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "素填土2",
+    "YTMC": "素填土2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\素填土2.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "淤泥质土、一般粘性土2",
+    "YTMC": "淤泥质土、一般粘性土2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\淤泥质土、一般粘性土2.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "岩石(新规范)",
+    "YTMC": "岩石(新规范)",
+    "PATHMC": "\\Config\\承载力\\查表\\野外鉴别\\铁路\\岩石(新规范).txt",
+    "JSFS": "铁路野外鉴别",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "碎石(2007)",
+    "YTMC": "碎石(2007)",
+    "PATHMC": "\\Config\\承载力\\查表\\野外鉴别\\铁路\\碎石(2007).txt",
+    "JSFS": "铁路野外鉴别",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "砂土(新规范)",
+    "YTMC": "砂土(新规范)",
+    "PATHMC": "\\Config\\承载力\\查表\\野外鉴别\\铁路\\砂土(新规范).txt",
+    "JSFS": "铁路野外鉴别",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "粘土1",
+    "YTMC": "粘土1",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\铁路\\粘土1.txt",
+    "JSFS": "铁路室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "粘土2",
+    "YTMC": "粘土2",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\铁路\\粘土2.txt",
+    "JSFS": "铁路室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "粘土3",
+    "YTMC": "粘土3",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\铁路\\粘土3.txt",
+    "JSFS": "铁路室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "粉土(新规范)",
+    "YTMC": "粉土(新规范)",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\铁路\\粉土(新规范).txt",
+    "JSFS": "铁路室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "软土(新规范)",
+    "YTMC": "软土(新规范)",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\铁路\\软土(新规范).txt",
+    "JSFS": "铁路室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "新黄土24(新规范)",
+    "YTMC": "新黄土24(新规范)",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\铁路\\新黄土24(新规范).txt",
+    "JSFS": "铁路室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "新黄土28(新规范)",
+    "YTMC": "新黄土28(新规范)",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\铁路\\新黄土28(新规范).txt",
+    "JSFS": "铁路室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "新黄土32(新规范)",
+    "YTMC": "新黄土32(新规范)",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\铁路\\新黄土32(新规范).txt",
+    "JSFS": "铁路室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "老黄土(新规范)",
+    "YTMC": "老黄土(新规范)",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\铁路\\老黄土(新规范).txt",
+    "JSFS": "铁路室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "碎石土1",
+    "YTMC": "碎石土1",
+    "PATHMC": "\\Config\\承载力\\查表\\野外鉴别\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\碎石土1.txt",
+    "JSFS": "湖北野外鉴别",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "岩石2",
+    "YTMC": "岩石2",
+    "PATHMC": "\\Config\\承载力\\查表\\野外鉴别\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\岩石2.txt",
+    "JSFS": "湖北野外鉴别",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "强风化岩石变形模量2",
+    "YTMC": "强风化岩石变形模量2",
+    "PATHMC": "\\Config\\承载力\\查表\\野外鉴别\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\强风化岩石变形模量2.txt",
+    "JSFS": "湖北野外鉴别",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "碎石土2",
+    "YTMC": "碎石土2",
+    "PATHMC": "\\Config\\承载力\\查表\\野外鉴别\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\碎石土2.txt",
+    "JSFS": "湖北野外鉴别",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "碎石土变形模量2",
+    "YTMC": "碎石土变形模量2",
+    "PATHMC": "\\Config\\承载力\\查表\\野外鉴别\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\碎石土变形模量2.txt",
+    "JSFS": "湖北野外鉴别",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "残积土1",
+    "YTMC": "残积土1",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\残积土1.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "粉土1",
+    "YTMC": "粉土1",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\粉土1.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "红黏土1",
+    "YTMC": "红黏土1",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\红黏土1.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "花岗岩残积土砾质粘性土1",
+    "YTMC": "花岗岩残积土砾质粘性土1",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\花岗岩残积土砾质粘性土1.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "花岗岩残积土砂质粘性土1",
+    "YTMC": "花岗岩残积土砂质粘性土1",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\花岗岩残积土砂质粘性土1.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "花岗岩残积土粘性土1",
+    "YTMC": "花岗岩残积土粘性土1",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\花岗岩残积土粘性土1.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "老黏性土1",
+    "YTMC": "老黏性土1",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\老黏性土1.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "膨胀土1",
+    "YTMC": "膨胀土1",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\膨胀土1.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "素填土1",
+    "YTMC": "素填土1",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\素填土1.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "新近沉积黏性土1",
+    "YTMC": "新近沉积黏性土1",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\新近沉积黏性土1.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "一般粘性土1",
+    "YTMC": "一般粘性土1",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\一般粘性土1.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "淤泥和淤泥质土1",
+    "YTMC": "淤泥和淤泥质土1",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\淤泥和淤泥质土1.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "粉土2",
+    "YTMC": "粉土2",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\粉土2.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "红黏土2",
+    "YTMC": "红黏土2",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\红黏土2.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "花岗岩残积土砾质粘性土2",
+    "YTMC": "花岗岩残积土砾质粘性土2",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\花岗岩残积土砾质粘性土2.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "花岗岩残积土砂质粘性土2",
+    "YTMC": "花岗岩残积土砂质粘性土2",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\花岗岩残积土砂质粘性土2.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "花岗岩残积土粘性土2",
+    "YTMC": "花岗岩残积土粘性土2",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\花岗岩残积土粘性土2.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "老黏性土2",
+    "YTMC": "老黏性土2",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\老黏性土2.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "膨胀土2",
+    "YTMC": "膨胀土2",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\膨胀土2.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "新近沉积黏性土2",
+    "YTMC": "新近沉积黏性土2",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\新近沉积黏性土2.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "一般粘性土2",
+    "YTMC": "一般粘性土2",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\一般粘性土2.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "淤泥和淤泥质土2",
+    "YTMC": "淤泥和淤泥质土2",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\淤泥和淤泥质土2.txt",
+    "JSFS": "湖北室内试验",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "残积粘性土1",
+    "YTMC": "残积粘性土1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\残积粘性土1.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "花岗岩残积土砾质粘性土1",
+    "YTMC": "花岗岩残积土砾质粘性土1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\花岗岩残积土砾质粘性土1.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "花岗岩残积土砂质粘性土1",
+    "YTMC": "花岗岩残积土砂质粘性土1",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\花岗岩残积土砂质粘性土1.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "岩石",
+    "YTMC": "岩石",
+    "PATHMC": "\\Config\\承载力\\查表\\野外鉴别\\公路\\岩石JTGD63_2007.txt",
+    "JSFS": "公路野外鉴别",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "碎石土",
+    "YTMC": "碎石土",
+    "PATHMC": "\\Config\\承载力\\查表\\野外鉴别\\公路\\碎石JTGD63_2007.txt",
+    "JSFS": "公路野外鉴别",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "砂土",
+    "YTMC": "砂土",
+    "PATHMC": "\\Config\\承载力\\查表\\野外鉴别\\公路\\砂土JTGD63_2007.txt",
+    "JSFS": "公路野外鉴别",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "粉土",
+    "YTMC": "粉土",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\公路\\粉土JTGD63_2007.txt",
+    "JSFS": "公路室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "一般粘性土",
+    "YTMC": "粘土",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\公路\\粘土2.txt",
+    "JSFS": "公路室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "粘性土",
+    "YTMC": "粘土",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\公路\\粘土4.txt",
+    "JSFS": "公路室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "新近沉积粘性土",
+    "YTMC": "粘土",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\公路\\粘土3.txt",
+    "JSFS": "公路室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "老粘性土",
+    "YTMC": "压缩模量大于10",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\公路\\粘土1.txt",
+    "JSFS": "公路室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "老粘性土",
+    "YTMC": "压缩模量小于10",
+    "PATHMC": "\\Config\\承载力\\查表\\室内试验\\公路\\粘土2.txt",
+    "JSFS": "公路室内试验",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "岩石1",
+    "YTMC": "岩石1",
+    "PATHMC": "\\Config\\承载力\\查表\\野外鉴别\\湖北\\《岩土工程勘察工作规程》（湖北省）DB42169-2003\\岩石1.txt",
+    "JSFS": "湖北野外鉴别",
+    "GFBH": "0",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "砂土类压缩模量2",
+    "YTMC": "砂土类压缩模量2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\砂土类压缩模量2.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "粉土压缩模量2",
+    "YTMC": "粉土压缩模量2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\粉土压缩模量2.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "一般粘性土压缩模量2",
+    "YTMC": "一般粘性土压缩模量2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\一般粘性土压缩模量2.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "淤泥质土压缩模量2",
+    "YTMC": "淤泥质土压缩模量2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\淤泥质土压缩模量2.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "老粘性土压缩模量2",
+    "YTMC": "老粘性土压缩模量2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\老粘性土压缩模量2.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "残积粘性土2",
+    "YTMC": "残积粘性土2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\残积粘性土2.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "残积粘性土压缩模量2",
+    "YTMC": "残积粘性土压缩模量2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\残积粘性土压缩模量2.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "素填土压缩模量2",
+    "YTMC": "素填土压缩模量2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\静探单桥\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\素填土压缩模量2.txt",
+    "JSFS": "湖北静探单桥",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "老粘性土压缩模量2",
+    "YTMC": "老粘性土压缩模量2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\老粘性土压缩模量2.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  },
+  {
+    "YTLB": "一般粘性土压缩模量2",
+    "YTMC": "一般粘性土压缩模量2",
+    "PATHMC": "\\Config\\承载力\\查表\\原位试验\\标贯\\湖北\\《建筑地基基础技术规范》（湖北省）DB42242-2014\\一般粘性土压缩模量2.txt",
+    "JSFS": "湖北标贯",
+    "GFBH": "1",
+    "table": "g_ChengZaiLiPeiZhi"
+  }
+]

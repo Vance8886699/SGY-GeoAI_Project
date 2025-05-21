@@ -1,0 +1,137 @@
+[
+  {
+    "GCBZ": "0",
+    "ID": "11",
+    "TJModelName": "扁铲侧胀试验",
+    "TJTableName": "t_BianBanCZSYSJ",
+    "TJGDLField": "DCBH,DCSD,DCCY,TCMC,TCLM,ZKSY,SYSD",
+    "TJCalcField": "ES,K0",
+    "table": "g_Stat_WLLXTJModel"
+  },
+  {
+    "GCBZ": "0",
+    "ID": "16",
+    "TJModelName": "土工试验",
+    "TJTableName": "t_tugong",
+    "TJGDLField": "DCBH,DCSD,DCCY,TCMC,TCLM,ZKSY,SYDSD",
+    "TJCalcField": "",
+    "table": "g_Stat_WLLXTJModel"
+  },
+  {
+    "GCBZ": "0",
+    "ID": "10",
+    "TJModelName": "应力铲试验",
+    "TJTableName": "t_y_YingLiChanShuJu",
+    "TJGDLField": "DCBH,DCSD,DCCY,TCMC,TCLM,ZKSY,SYSD",
+    "TJCalcField": "JZTYLXS",
+    "table": "g_Stat_WLLXTJModel"
+  },
+  {
+    "GCBZ": "0",
+    "ID": "1",
+    "TJModelName": "岩石试验",
+    "TJTableName": "t_YanShi",
+    "TJGDLField": "DCBH,DCSD,DCCY,TCMC,TCLM,ZKSY,SYDSD",
+    "TJCalcField": "HSL,TRMD,GMD,KLMD,XSL,BHXSL,DZKYQD_TR,DZKYQD_HG,DZKYQD_BH,RHXS,KJDQD_NMCJ,KJDQD_NJL,KJQJZJ_NMCJ,KJQJZJ_NJL,KLSY,SBBS_ZBBS,SBBS_HBBS,YSDTML,YSDJML,YSDBSB,YSTXML,YSJQML,YSBSB,PZXSY_PZLV,PZXSY_PZLI,PZXSY_NBJZS,TSXM1,TSXM2,TSXM3",
+    "table": "g_Stat_WLLXTJModel"
+  },
+  {
+    "GCBZ": "0",
+    "ID": "2",
+    "TJModelName": "标贯试验",
+    "TJTableName": "z_y_BiaoGuan",
+    "TJGDLField": "DCBH,DCSD,DCCY,TCMC,TCLM,ZKSY,SYDSD",
+    "TJCalcField": "BGJS,BGXZJS",
+    "table": "g_Stat_WLLXTJModel"
+  },
+  {
+    "GCBZ": "0",
+    "ID": "6",
+    "TJModelName": "波速试验",
+    "TJTableName": "z_y_BoSu",
+    "TJGDLField": "DCBH,DCSD,DCCY,TCMC,TCLM,ZKSY,SYSD",
+    "TJCalcField": "BSHBS,BSZBS",
+    "table": "g_Stat_WLLXTJModel"
+  },
+  {
+    "GCBZ": "0",
+    "ID": "7",
+    "TJModelName": "超声波试验",
+    "TJTableName": "z_y_BoSuChao",
+    "TJGDLField": "DCBH,DCSD,DCCY,TCMC,TCLM,ZKSY,SYSD",
+    "TJCalcField": "BSVAL",
+    "table": "g_Stat_WLLXTJModel"
+  },
+  {
+    "GCBZ": "0",
+    "ID": "3",
+    "TJModelName": "动探试验",
+    "TJTableName": "z_y_DongTan",
+    "TJGDLField": "DCBH,DCSD,DCCY,TCMC,TCLM,ZKSY,SYDSD",
+    "TJCalcField": "N10,N63_5,NX63_5,N120,NX120",
+    "table": "g_Stat_WLLXTJModel"
+  },
+  {
+    "GCBZ": "0",
+    "ID": "4",
+    "TJModelName": "单桥静探试验",
+    "TJTableName": "z_y_JingTan",
+    "TJGDLField": "DCBH,DCSD,DCCY,TCMC,TCLM,ZKSY,SYBSD",
+    "TJCalcField": "JTBGRZL",
+    "table": "g_Stat_WLLXTJModel"
+  },
+  {
+    "GCBZ": "0",
+    "ID": "5",
+    "TJModelName": "双桥静探试验",
+    "TJTableName": "z_y_JingTanSQ",
+    "TJGDLField": "DCBH,DCSD,DCCY,TCMC,TCLM,ZKSY,SYBSD",
+    "TJCalcField": "JTZTZL,JTCMZ,JTMZB",
+    "table": "g_Stat_WLLXTJModel"
+  },
+  {
+    "GCBZ": "0",
+    "ID": "9",
+    "TJModelName": "旁压试验",
+    "TJTableName": "z_y_PangYa",
+    "TJGDLField": "DCBH,DCSD,DCCY,TCMC,TCLM,ZKSY,SYSD",
+    "TJCalcField": "PYLSYL,PYJXYL,PYML,PYJQML",
+    "table": "g_Stat_WLLXTJModel"
+  },
+  {
+    "GCBZ": "0",
+    "ID": "8",
+    "TJModelName": "十字板剪切试验",
+    "TJTableName": "z_y_ShiZiBan",
+    "TJGDLField": "DCBH,DCSD,DCCY,TCMC,TCLM,ZKSY,SYSD",
+    "TJCalcField": "SZBQD,SZBCYQD,SZBCQD,SZBLMD",
+    "table": "g_Stat_WLLXTJModel"
+  },
+  {
+    "GCBZ": "0",
+    "ID": "13",
+    "TJModelName": "透水率试验",
+    "TJTableName": "z_y_TouShuiLv",
+    "TJGDLField": "DCBH,DCSD,DCCY,TCMC,TCLM,ZKSY,SYDSD",
+    "TJCalcField": "TSLV",
+    "table": "g_Stat_WLLXTJModel"
+  },
+  {
+    "GCBZ": "0",
+    "ID": "14",
+    "TJModelName": "渗透系数试验",
+    "TJTableName": "z_y_STXiShu",
+    "TJGDLField": "DCBH,DCSD,DCCY,TCMC,TCLM,ZKSY,SYDSD",
+    "TJCalcField": "CTXK",
+    "table": "g_Stat_WLLXTJModel"
+  },
+  {
+    "GCBZ": "0",
+    "ID": "16",
+    "TJModelName": "岩芯采取率RQD",
+    "TJTableName": "z_g_YXRQD",
+    "TJGDLField": "DCBH,DCSD,DCCY,TCMC,TCLM,ZKSY,SYDSD",
+    "TJCalcField": "YRCQL,YRRQD",
+    "table": "g_Stat_WLLXTJModel"
+  }
+]

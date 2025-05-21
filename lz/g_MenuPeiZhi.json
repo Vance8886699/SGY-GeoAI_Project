@@ -1,0 +1,1098 @@
+[
+  {
+    "LZID": "",
+    "MNID": "-1",
+    "MNNAME": "Office 200&7",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "-1",
+    "MNNAME": "Office 2010",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "-1",
+    "MNNAME": "成果表(&C)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "-1",
+    "MNNAME": "成果图(&G)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "-1",
+    "MNNAME": "分析评估(&A)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "-1",
+    "MNNAME": "工具(&T)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "-1",
+    "MNNAME": "工具栏(&T)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "-1",
+    "MNNAME": "接口(&I)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "-1",
+    "MNNAME": "勘察报告(&P)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "-1",
+    "MNNAME": "三维",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "-1",
+    "MNNAME": "三维(&S)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "-1",
+    "MNNAME": "数检(&J)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "-1",
+    "MNNAME": "数据录入(&J)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "-1",
+    "MNNAME": "水文地质计算(&W)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "-1",
+    "MNNAME": "水文计算(&W)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "-1",
+    "MNNAME": "外观样式(A)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "-1",
+    "MNNAME": "液化判别",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "32833",
+    "MNNAME": "Office &2000",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "32834",
+    "MNNAME": "Office &XP",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "32835",
+    "MNNAME": "Office 200&3",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "32836",
+    "MNNAME": "&Windows XP",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "32837",
+    "MNNAME": "Visual Studio 200&5",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "32838",
+    "MNNAME": "Office 2007 (蓝)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "32839",
+    "MNNAME": "Office 2007 (黑)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "32840",
+    "MNNAME": "Office 2007 (银) ",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "32841",
+    "MNNAME": "Office 2007 (灰) ",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "32921",
+    "MNNAME": "Visual Studio 200&8",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "32922",
+    "MNNAME": "Visual Studio 20&10",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "32923",
+    "MNNAME": "Office 2010 (蓝)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "32924",
+    "MNNAME": "Office 2010 (黑)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "32925",
+    "MNNAME": "Office 2010 (银)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33019",
+    "MNNAME": "数检和关联计算(&C)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33019",
+    "MNNAME": "数检和关联计算(&C)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33019",
+    "MNNAME": "数检和关联计算(&C)...\tF4",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33048",
+    "MNNAME": "AutoCAD版本选择(&S)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33048",
+    "MNNAME": "AutoCAD版本选择(&S)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33078",
+    "MNNAME": "进入CAD(&J)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33089",
+    "MNNAME": "读入理正标准静探数据(R)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33089",
+    "MNNAME": "读入理正标准静探数据(R)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33090",
+    "MNNAME": "读入理正标准接口数据(L)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33090",
+    "MNNAME": "读入理正标准接口数据(L)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33098",
+    "MNNAME": "生成静探成果图(Excel方式)(&C)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33099",
+    "MNNAME": "编辑静探成果图(Excel方式)(&E)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33101",
+    "MNNAME": "复制勘探点数据(&F)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33101",
+    "MNNAME": "复制勘探点数据(&F)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33102",
+    "MNNAME": "勘探点X、Y坐标互换(&E)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33110",
+    "MNNAME": "渗透系数计算(&S)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33110",
+    "MNNAME": "渗透系数计算(&S)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33118",
+    "MNNAME": "导出BIM接口(&B)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33118",
+    "MNNAME": "导出BIM接口(&B)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33118",
+    "MNNAME": "导出PBIM接口(&B)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33122",
+    "MNNAME": "管井、大口径井出水量计算(&C)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33122",
+    "MNNAME": "管井、大口径井出水量计算(&C)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33124",
+    "MNNAME": "岩土类名(名称)修改(&X)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33124",
+    "MNNAME": "岩土类名(名称)修改(&X)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33125",
+    "MNNAME": "更新标准地层到工程地层(&U)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33126",
+    "MNNAME": "复制系统标准土层到工程标准土层(&B)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33127",
+    "MNNAME": "用现场试验数据修改勘探点深度(&S)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33127",
+    "MNNAME": "用现场试验数据修改勘探点深度(&S)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33128",
+    "MNNAME": "度分转换工具(&D)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33128",
+    "MNNAME": "度分转换工具(&D)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33129",
+    "MNNAME": "特殊符号编辑工具(&T)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33129",
+    "MNNAME": "特殊符号编辑工具(&T)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33130",
+    "MNNAME": "填充图例制作工具(&L)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33130",
+    "MNNAME": "填充图例制作工具(&L)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33131",
+    "MNNAME": "计算辅助工具(&G)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33131",
+    "MNNAME": "计算辅助工具(&G)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33133",
+    "MNNAME": "生成勘察报告(&C)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33133",
+    "MNNAME": "生成勘察报告(&C)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33134",
+    "MNNAME": "编辑勘察报告模板(&E)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33135",
+    "MNNAME": "查看勘察报告(&L)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33136",
+    "MNNAME": "生成分层记录表(&S)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33137",
+    "MNNAME": "勘探点一览表(&K)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33138",
+    "MNNAME": "地层汇总表(&H)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33139",
+    "MNNAME": "原位测试指标按孔统计表(&Y)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33139",
+    "MNNAME": "原位测试指标统计表(&Y)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33139",
+    "MNNAME": "原位指标统计表(&Y)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33142",
+    "MNNAME": "室内岩土试验成果汇总表(&S)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33143",
+    "MNNAME": "地层统计表(&D)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33143",
+    "MNNAME": "地层统计表(横向显示)(&D)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33144",
+    "MNNAME": "物理力学指标统计表(&W)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33144",
+    "MNNAME": "岩土指标统计表(&W)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33145",
+    "MNNAME": "物理力学指标设计参数表(&C)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33149",
+    "MNNAME": "标贯判别(&B)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33149",
+    "MNNAME": "液化判别(&T)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33149",
+    "MNNAME": "液化判别(&T)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33150",
+    "MNNAME": "地基基础沉降计算(&J)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33151",
+    "MNNAME": "桩沉降计算(&L)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33152",
+    "MNNAME": "单桩承载力计算(&K)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33153",
+    "MNNAME": "确定桩端阻侧阻值(&Z)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33155",
+    "MNNAME": "膨胀性(土)评价(&P)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33155",
+    "MNNAME": "膨胀性(土)评价(&P)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33156",
+    "MNNAME": "湿陷性评价(&S)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33156",
+    "MNNAME": "湿陷性评价(&S)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33157",
+    "MNNAME": "场地类别判定(&C)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33157",
+    "MNNAME": "场地类别判定(&C)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33159",
+    "MNNAME": "水土腐蚀性评价(&F)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33159",
+    "MNNAME": "水土腐蚀性评价(&F)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33161",
+    "MNNAME": "确定地基承载力值(&D)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33165",
+    "MNNAME": "赤平极射投影图(&Y)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33168",
+    "MNNAME": "读入室内试验接口(&I)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33168",
+    "MNNAME": "读入室内试验接口(&S)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33168",
+    "MNNAME": "读入室内试验接口(&S)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33169",
+    "MNNAME": "试验结果比对(&S)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33169",
+    "MNNAME": "试验结果比对(&S)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33171",
+    "MNNAME": "快速录入工具(&K)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33171",
+    "MNNAME": "快速录入工具(&K)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33173",
+    "MNNAME": "勘察报告辅助工具(&T)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33173",
+    "MNNAME": "勘察报告辅助工具(&T)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33177",
+    "MNNAME": "勘探点编号成批修改(&M)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33177",
+    "MNNAME": "勘探点编号成批修改(&M)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33178",
+    "MNNAME": "计算岩石完整性(&Y)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33179",
+    "MNNAME": "关闭所有表格(&L)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33180",
+    "MNNAME": "设置菜单字体大小(&C)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33181",
+    "MNNAME": "设置工程管理节点字体大小(&G)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33182",
+    "MNNAME": "设置页签表头字体大小(&Y)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33183",
+    "MNNAME": "设置表格字体大小(&B)...",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33186",
+    "MNNAME": "静探分层",
+    "MNVISIBLE": "False",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33187",
+    "MNNAME": "超声波分层",
+    "MNVISIBLE": "False",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33225",
+    "MNNAME": "理正勘察三维地质软件(&W)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33226",
+    "MNNAME": "静探数据转为理正标准静探格式(&J)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33251",
+    "MNNAME": "BIM规范强条检查原型(&B)",
+    "MNVISIBLE": "False",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33255",
+    "MNNAME": "录入模式切换",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33256",
+    "MNNAME": "制定固结试验压力级别",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33256",
+    "MNNAME": "制定固结试验压力序列",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33258",
+    "MNNAME": "生成静探曲线简图",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33258",
+    "MNNAME": "生成静探曲线简图(&Q)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33261",
+    "MNNAME": "静探判别(&J)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33263",
+    "MNNAME": "连接AutoCAD",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33263",
+    "MNNAME": "连接AutoCAD(&L)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33267",
+    "MNNAME": "土层固结曲线调整",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33268",
+    "MNNAME": "地基承载力和桩参数人工交互(&M)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33272",
+    "MNNAME": "统计工作量(&Z)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33274",
+    "MNNAME": "地层统计表(纵向显示)(&T)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33277",
+    "MNNAME": "抗剪强度计算(&B)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "33277",
+    "MNNAME": "抗剪强度计算(&K)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  },
+  {
+    "LZID": "",
+    "MNID": "59393",
+    "MNNAME": "状态栏(&S)",
+    "MNVISIBLE": "True",
+    "MNGRAY": "False",
+    "table": "g_MenuPeiZhi"
+  }
+]
