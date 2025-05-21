@@ -1,0 +1,335 @@
+岩土工程勘察软件数据库详细结构分析报告
+1. 引言
+本报告旨在详细分析您提供的岩土工程勘察软件的数据库结构。通过解析系统配置文件数据库 (system_config.mdb) 和实际工程案例数据库 (LZGICAD1.mdb)，本报告将阐述软件的整体结构、主要数据表、关键字段、表间关系、主要用途以及其工作流程。此分析的目的是为您后续利用现有数据库结构，逆向生成一款新的、能够兼容原始数据的岩土工程勘察软件GUI提供数据层面上的支持和理解。
+分析基于以下核心文件：
+system_config数据库详细分析.docx (本文中引用为 )
+LZGICAD1实际工程案例数据库详细分析.docx (本文中引用为 )
+软件界面截图 1.jpg (本文中引用为)
+岩土工程勘察数据库GUI界面.docx (描述了新软件的需求) (本文中引用为 )
+2. 原始软件与数据库系统概述
+根据提供的软件界面截图 和新GUI界面的需求文档 ，该岩土工程勘察软件是一款功能较为全面的专业工具，支持工程管理、钻孔数据录入（基本信息、分层、取样）、各类原位测试（标贯、动探、静探、旁压等）和室内试验（物理性质、力学性质、化学分析等）数据的管理、成果图表生成以及勘察报告编制等功能。
+其数据库系统主要围绕两个核心MDB文件：
+system_config.mdb (系统配置库)：此数据库存储了软件运行所需的全局配置信息、预设参数、标准库、界面定义、图例符号、报告模板关键字等。它为软件的标准化操作和用户定制提供了基础。
+LZGICAD1.mdb (工程案例库)：此类数据库（每个工程项目一个MDB文件）用于存储特定工程项目的所有实际勘察数据，包括工程信息、钻孔数据、土层描述、取样记录、各类试验的详细数据和成果等。
+3. system_config.mdb (系统配置数据库) 分析
+system_config.mdb 是软件的“大脑中枢”，主要负责存储和管理软件运行的基础配置和标准数据。它的主要用途和关键表包括：
+定义数据结构和界面显示 (g_ZiDuan, g_PeiZhi, g_BiaoLie, g_SubTree, x_tree_project*): 
+og_ZiDuan：定义了系统中所有数据字段的元数据，如字段名 (ZDMC)、中文描述 (ZDMS)、默认值 (ZDMR)、数据类型推测 (ZDTYPE) 等。这是构建数据表和界面的基础。 
+og_PeiZhi：针对不同数据模块或表单（如“分层”、“取样”界面）进行详细配置，包括显示哪些字段 (PZYM)、字段宽度 (PZCD)、主键 (GJZ) 等。 
+og_BiaoLie：定义各种表格（如图表、报表）列的显示属性，如列标题 (BLMC)、数据来源 (BLCX)、小数位数 (BLJS) 等。 
+og_SubTree, x_tree_project, x_tree_project_Single, x_tree_project_DT, x_tree_project_GL, x_Tree_PZPT, g_Region, g_ZKTree：这些表共同定义了软件界面中的各种导航树结构，如工程管理树、模块配置树、地区工程选择树等，引导用户访问不同功能和数据。 
+标准化数据字典与选项 (g_DuiZhao, g_DuiZhaoDZSD, g_DZSDPXB): 
+og_DuiZhao：存储各类下拉列表或固定选项的键值对（枚举表），如密实度、湿度、勘探点类型等。通过项目代号 (XMDH) 与具体字段关联。 
+og_DuiZhaoDZSD 和 g_DZSDPXB：定义地质年代的标准代码、层级关系和显示顺序，确保地质年代描述的规范性和正确排序。 
+岩土与地质符号库 (g_YanXing_*, g_DiZhi, g_KSXOption, t_DZSDPeiZhi): 
+og_YanXing_all, g_YanXing, g_YanXing_dl, g_YanXing_Tsy, g_YanXing_bj, g_YanXing_tyy, g_YanXing_cq：定义了不同规范或地区下的岩土类型及其属性，如图例符号 (YTTL)、颜色 (YTQYS, YTBYS)、分类等，是生成柱状图和剖面图的基础。 
+og_DiZhi：定义各种地质构造、不良地质现象等的图例符号和名称。 
+og_KSXOption：将土的状态（如可塑性、密实度）与具体的填充图样文件关联。 
+ot_DZSDPeiZhi：配置地质时代与成因组合在图上显示的符号及图例说明。 
+报告、图表及Excel模板配置 (g_ZPTou, g_ZztBiaoLie, g_ZztBiaoTou, g_ZZTTK, g_peizhi_People, t_TableMBMap, t_Excel_Lie, t_ExcelLie, t_Excel_TempletKey, t_HZ_PEIZHI, t_TJ_PEIZHI, t_MBPeizhi, g_KanChaBaoGao): 
+og_ZPTou, g_ZztBiaoLie, g_ZztBiaoTou：定义钻孔柱状图中各个图列项（表头项目）的显示名称、宽度、内容等。 
+og_ZZTTK：定义柱状图图框模板中占位符与实际数据来源的映射。 
+og_peizhi_People：配置图纸或报告图签中的人员角色及其占位符。 
+o一系列 t_Excel_* 和 t_MB* 表：用于配置数据导出到Excel模板时的字段映射、单元格位置、模板关键字替换等。 
+og_KanChaBaoGao：定义勘察报告的章节结构、内容类型及其数据来源。 
+统计与计算规则 (g_Stat_*, g_SJDuiZhao, g_SJDZBH, g_GJSY, g_ChengZaiLiPeiZhi, g_ZhuangDuanCeZu, g_HCJC, g_CG_DuiZhao, g_CG_ZhParaCalc, g_CG_JSZBDZ): 
+og_Stat_FieldInfo, g_Stat_TableHead, g_Stat_FieldCalc, g_Stat_YSGridHead, g_Stat_ModelPeiZhi, g_Stat_Model, g_Stat_WLLXTJModel：这一系列表定义了各类统计报表的字段来源、计算方法、表头结构、显示格式及包含的字段集。 
+og_SJDuiZhao：核心的数据对照表，将抽象的参数代码 (DZBH) 映射到实际存储数据的业务表 (TJTABLE) 和字段 (TJFIELD)，实现动态数据提取。 
+og_SJDZBH 和 g_GJSY：专门针对固结试验，细化参数定义和与统一参数代码的关联。 
+og_ChengZaiLiPeiZhi, g_ZhuangDuanCeZu：存储承载力、桩基参数计算所需的外部参数文件路径，按规范、岩土类型等进行组织。 
+og_HCJC, g_CG_DuiZhao, g_CG_ZhParaCalc, g_CG_JSZBDZ：构成一个多层级的参数推断和状态评价体系，根据输入的岩土属性和试验指标查询对应的参数值或评价。 
+系统运行与版本控制 (CFGCurZXBZ, CFGDbversion, g_UpdateDBVer, versionDB, version): 
+oCFGCurZXBZ：指定当前软件运行时所依据的全局行业标准/规范代码 (ZXBZ)。 
+oCFGDbversion, g_UpdateDBVer, versionDB, version：记录数据库和软件的版本信息，用于兼容性检查和升级管理。 
+数据导入导出与转换规则 (g_PeiZhiDR*, g_PeiZhiDC, t_table_PeiZhi, g_smtMemory): 
+og_PeiZhiDR, g_PeiZhiDR20160804, g_PeiZhiDC：定义不同数据表之间（如临时表与正式表，或分散表与汇总表）的数据导入、转换和同步规则。 
+ot_table_PeiZhi：配置从外部文件批量导入数据到特定表格的规则。 
+og_smtMemory：允许用户保存和复用从Excel导入数据的配置方案。 
+这些配置表通过 GCBZ (工程/全局标志或规范代码) 字段进行区分和应用。通常 GCBZ 为 -1 或 0 表示系统级通用配置，而正整数则可能对应特定的行业标准（通过 x_BiaoZhun 表定义 ）或用户自定义的配置集。软件启动时会根据 CFGCurZXBZ.ZXBZ 加载相应的规范配置。
+4. LZGICAD1.mdb (实际工程案例数据库) 分析
+LZGICAD1.mdb (或类似名称的工程MDB文件) 用于存储一个具体岩土工程勘察项目的完整数据。其核心是围绕工程 (x_GongCheng)、勘探点 (主要是钻孔 z_ZuanKong)、地层 (z_g_TuCeng)、取样 (z_c_QuYang) 以及在此基础上进行的各类原位测试和室内试验数据。
+工程信息 (x_GongCheng): 
+o用途：存储工程项目的基本元数据。这是所有项目数据的“根”记录。 
+o关键字段：GCSY (工程索引/编号，主键，全局唯一，用于关联此工程下的所有其他数据表)、GCBZ (工程遵循的标准/规范代码)、GCBH (工程编号)、GCMC (工程名称)、GCKCJD (勘察阶段)、GCKCDW (勘察单位)、GCDD (工程地点)、GCZBX (坐标系统)、GCGCX (高程系统)、负责人信息等。 
+钻孔信息 (z_ZuanKong): 
+o用途：存储工程中每个钻孔的基本信息、位置、深度、日期、水位以及一些综合评价指标。是所有与钻孔相关的“父表”。 
+o关键字段：GCSY (外键，关联到 x_GongCheng)、ZKBH (钻孔编号，在同一工程内唯一)、ZKLX (钻孔类型)、ZKX, ZKY (坐标)、ZKBG (孔口标高)、ZKSD (钻孔深度)、水位信息 (CJSWMS, WDSWMS 等)、ZKGUID (钻孔全局唯一ID)。 
+土层信息 (z_g_TuCeng): 
+o用途：存储每个钻孔的地层分层信息，包括每层的深度、厚度、岩土名称、地质时代、成因、物理状态描述等。这是生成柱状图和进行地层统计的基础。 
+o关键字段：GCSY, ZKBH (外键，关联到 z_ZuanKong)、TCCDSD (层底深度)、TCXH (土层序号)、TCMC (岩土名称，关联到 g_YanXing_* 系列表)、TCDZSD (地质时代代码，关联到 g_DuiZhaoDZSD)、TCDZCY (地质成因代码，关联到 g_DuiZhao)、TCHD (层厚)、各类描述性状态字段 (颜色、密实度等，其选项来自 g_DuiZhao)。 
+取样信息 (z_c_QuYang): 
+o用途：存储在钻孔中获取的各类试样的信息，如取样编号、深度、类型，以及该试样上进行的物理力学性质试验结果的简要汇总或原始值。是连接地层信息与具体室内试验数据的桥梁。 
+o关键字段：GCSY, ZKBH (外键，关联到 z_ZuanKong)、QYBH (取样编号，在同一钻孔内唯一)、QYSD (取样深度)、QYDC (取样所属地层编号)、QYLX (取样类型)、大量直接存储的物理性质指标 (如天然密度 QYZLMD、含水率 QYHSL、液限 QYYX、塑限 QYSY 等) 以及部分试验成果汇总 (如固结试验 GJXSXM*, GJMLXM*；剪切试验 SHZF*, SHZC*)。 
+原位测试数据表 (以 z_y_* 或 t_y_* 开头): 
+oz_y_BiaoGuan (标准贯入试验)：存储SPT的详细数据，如试验段顶底深、杆长、预击数、实测击数 (N值)、修正后击数等。 
+oz_y_DongTan (动力触探试验)：存储DPT的详细数据，如动探类型、试验段顶底深、杆长、实测击数、修正后击数等。 
+oz_y_JingTan / z_y_JingTanSQ (静力触探试验)：存储CPT的详细逐深度数据，如锥尖阻力 (qc)、侧壁摩阻力 (fs)、摩阻比 (Rf)、孔隙水压力 (u2) 等。 
+oz_y_YeHuaJT (液化判别-静探法)：存储基于CPT数据进行液化判别的参数和结果，数据可能源自 z_y_JingTan。 
+ot_YaShuiSYJL (压水试验记录)：存储压水试验过程中的流量和压力读数。 
+ot_YaShuiSYSWJL (压水试验水位记录)：补充压水试验中的水位观测记录。 
+ot_YaShuiSY (压水试验成果)：存储计算得到的渗透系数或透水率。 
+oz_y_ChouShui (抽水试验基本信息)：存储抽水试验的设备信息。 
+oz_y_ChouShuiSJ (抽水试验数据记录)：存储抽水过程中的水位降深、流量等数据。 
+oz_y_ChouShuiSWHF (抽水试验水位恢复记录)：存储水位恢复阶段的数据。 
+oz_y_ZhuShui (注水试验)：存储注水试验的数据和成果。 
+ot_y_YingLiChan (应力铲试验)：存储应力铲试验的基本信息和成果。 
+o其他如旁压试验 (z_y_PangYa)、波速测试 (z_y_BoSu)、扁铲侧胀试验等数据表也在分析文档中被引用或提及。
+室内试验数据表 (以 z_c_* 或 t_c_*, t_YanShi, t_ShuiZhiJianFX, t_YiRongYan 等开头): 
+oz_c_GuJie (固结试验)：存储固结试验的详细数据，包括不同压力级别下的孔隙比、压缩系数、压缩模量、固结系数等。 
+ot_YanShi (岩石试验)：存储岩石试样的物理力学性质试验结果，如密度、含水率、抗压强度、弹性模量等。 
+oz_c_ZhiJian (直剪试验)：存储土的直接剪切试验数据，用于确定抗剪强度参数c和φ。 
+oz_c_PengZhangTu (膨胀土试验)：存储膨胀土的自由膨胀率、有荷膨胀率、膨胀力等数据。 
+oz_c_KeFen (颗粒分析试验)：存储土的颗粒大小分布试验（筛分法和密度计法）的结果。 
+oz_c_SanZhou (三轴剪切试验)：存储土的三轴剪切试验（UU、CU、CD）的详细数据。 
+ot_YiRongYan (易溶盐试验)：存储土中易溶盐含量的分析结果。 
+ot_ShuiZhiJianFX (水质简分析)：存储水样的简易化学分析结果。 
+oz_c_GaoGuJieCSXM (高压固结试验参数项目标记)：可能是一个索引表，标记哪些试样进行了高压固结试验。 
+ot_BengJie (崩解试验)：存储岩石或特殊土的崩解试验结果。 
+o其他如土工试验综合表 (t_TuGong 或 z_c_ShiNeiZH_Part*，在配置中多次引用但具体数据未完全展示 )，用于存储比重、含水率、液塑限等基础物理性质指标的详细试验记录或汇总。
+工程地质与绘图数据表 (以 d_*, p_* 开头): 
+od_DengGaoXianLine (等高线数据)：存储工程场地的等高线坐标点数据。 
+op_PouXian (剖面线定义)：定义地质剖面线包含的勘探点序列及剖面图显示比例尺。 
+oDCBHSJCon (地层编号数据连接/剖面对比)：存储不同钻孔间地层连接对比关系或地质实体空间分布。 
+og_JiChu (基础/场地边界定义)：存储工程场地的边界坐标串或建筑物基础范围。 
+项目级汇总与成果表 (以 x_* 开头): 
+og_STuCengGC (标准土层库-工程配置)：存储特定工程中定义的“标准地层”或“代表性土层”的信息及其代表性参数。 
+ox_DiCeng (地层参数汇总与设计取值)：存储项目中每个标准地层各类物理力学性质指标的统计结果（样本数、最值、平均值、标准差、变异系数）以及最终的设计取值。 
+ox_SheJi (设计参数统计/分层统计结果)：存储针对特定试验表中的特定字段进行分层统计的结果。 
+ox_TuGong (土工试验成果汇总)：按标准地层汇总存储各类土工试验的代表性成果值，可能是 x_DiCeng 的数据来源之一。 
+辅助与临时表: 
+oz_ZuanKong_Buf (钻孔缓冲/临时信息)：一个钻孔相关的“大杂烩”缓冲表，可能用于存储从其他表汇总、计算或临时传递的参数，供特定报表、图形输出或复杂计算模块使用。 
+oTableBuffer (通用表格数据缓冲)：一个非常通用的临时数据存储表。 
+工作量统计表 (以 k_GZL_* 开头): 
+o如 k_GZL_ZuanKong, k_GZL_QuYang, k_GZL_ShiNeiTYSY 等，存储项目中各类勘察工作的数量统计，用于生成“勘察工作量汇总表”。 
+BIM 相关表 (以 c_BIM_* 开头): 
+oc_BIM_YZTOrYWCSTJ_SJ (BIM原状样/原位测试统计-实际数据)：存储原状样获取或原位测试实施情况的实际统计数据。 
+oc_BIM_ZuanKongJJSD_SJ (BIM钻孔间距深度-实际数据)：存储钻孔间距和深度的实际测量或统计数据。 
+o对应的 _GF 表 (如 c_BIM_YZTOrYWCSTJ_GF, c_BIM_ZuanKongJJSD_GF, c_BIM_KongSL_GF) 存储规范要求值，用于与实际数据 (_SJ 表) 进行比对。 
+这些表通过核心关联字段 GCSY (工程索引) 与 x_GongCheng 表关联，确保所有数据都归属于特定工程。在工程内部，ZKBH (钻孔编号) 和 QYBH (取样编号) 是进一步关联钻孔数据、土层数据、取样数据及各类试验数据的关键。
+5. 数据库工作流程与交互
+该岩土工程勘察软件的数据库工作流程可以概括为：系统配置加载 -> 工程创建与数据录入 -> 数据处理与成果生成。
+1.
+系统初始化与配置加载：
+2.
+o软件启动时，首先会读取 system_config.mdb 中的核心配置表，如 CFGCurZXBZ 来确定当前执行的行业标准/规范代码 (例如，"0" 代表工民建标准)。 
+o根据此标准代码，软件会筛选加载相应的全局配置，例如： 
+岩性库 (g_YanXing_* 表中 GCBZ 匹配的记录) 
+地质时代定义 (g_DuiZhaoDZSD) 
+各类参数计算的默认规则和配置文件路径 (g_ChengZaiLiPeiZhi, g_ZhuangDuanCeZu) 
+界面显示配置 (g_PeiZhi, g_SubTree) 
+字段定义 (g_ZiDuan) 和对照选项 (g_DuiZhao) 
+柱状图、报表模板等 (g_ZPTou, g_ZZTTK, g_KanChaBaoGao) 
+o这些配置为后续的工程项目操作提供了基础框架和默认设置。
+3.
+工程创建/打开与数据录入：
+4.
+o用户创建新工程时，会在工程案例库 (如 LZGICAD1.mdb) 的核心工程表 x_GongCheng 中创建一条新记录，包含工程名称、编号、勘察单位、坐标系、高程系以及选择的工程标准代码 (GCBZ) 等信息。 此 GCBZ 值将用于在该工程上下文中筛选和应用 system_config.mdb 中的特定配置。生成的 GCSY (工程索引) 作为该工程所有数据的唯一标识。
+o用户打开现有工程时，软件会读取对应MDB文件中的 x_GongCheng 表，并基于其 GCBZ 和 GCSY 加载工程数据和适用配置。
+o用户开始录入勘察数据： 
+钻孔数据 (z_ZuanKong)：输入钻孔编号 (ZKBH)、坐标、高程、深度等。 
+地层数据 (z_g_TuCeng)：在特定钻孔下，输入各地层的深度、厚度、岩土名称（从配置的岩性库选择）、地质时代、成因（从 g_DuiZhao 选择代码）等。 
+取样数据 (z_c_QuYang)：在特定钻孔的特定地层中，记录取样编号 (QYBH)、取样深度、类型，并可直接录入部分物理性质指标的试验结果。 
+各类试验数据：基于钻孔或取样记录，录入详细的原位测试数据（如标贯 z_y_BiaoGuan ，静探 z_y_JingTan ）和室内试验数据（如固结 z_c_GuJie ，剪切 z_c_ZhiJian ，颗粒分析 z_c_KeFen ）。这些数据表都通过 GCSY 和 ZKBH (部分还通过 QYBH) 与上级数据关联。
+o数据录入界面由 g_PeiZhi 和 g_ZiDuan 控制字段的显示、顺序和名称。选项则来自 g_DuiZhao 或专门的岩性库/地质时代库。
+5.
+数据处理、汇总与成果生成：
+6.
+o数据汇总与统计： 
+软件可以将录入的原始试验数据按地层进行汇总统计，存储在如 x_SheJi (分项参数统计) 和 x_DiCeng (地层参数汇总与设计取值) 表中。这些表与工程定义的标准地层 (g_STuCengGC) 关联。
+z_ZuanKong_Buf 可能作为临时汇总表，用于特定分析或报告输出。
+o参数推断与评价：利用 g_HCJC, g_CG_DuiZhao, g_CG_ZhParaCalc, g_CG_JSZBDZ 等配置表，根据输入的岩土属性和试验指标，进行参数推断（如承载力）或状态评价（如液化、湿陷性）。
+o成果图表生成： 
+柱状图：基于 z_ZuanKong 和 z_g_TuCeng 数据，结合 g_YanXing_* (图例)、t_DZSDPeiZhi (时代符号)、g_ZPTou /g_ZztBiaoLie (表头列) 等配置生成。图框信息通过 g_ZZTTK 填充。
+剖面图：基于 p_PouXian (剖面线定义) 和钻孔地层数据，结合 DCBHSJCon (地层连接) 生成。
+其他曲线图和Excel成果表：根据具体试验类型和 t_Excel_*, t_MB* 系列表的配置导出。
+o勘察报告生成：g_KanChaBaoGao 定义报告结构，软件从各业务表和汇总表中提取数据填充到报告模板中。
+o工作量统计：k_GZL_* 系列表 的数据来源于对各业务数据表的自动统计，用于生成工作量汇总。
+整个流程中，GCSY 作为工程的唯一标识，贯穿于几乎所有的工程案例数据表，确保了数据的工程归属性。GCBZ 则用于在工程层面应用 system_config.mdb 中定义的、与特定规范或标准相对应的配置。
+6. 详细数据库结构分析
+6.1 核心实体与主要数据表
+工程案例库 (LZGICAD1.mdb 类型)
+工程信息: x_GongCheng - 存储工程的基本属性。
+勘探点 (钻孔为主): z_ZuanKong - 存储勘探点的基本信息、位置、深度等。
+地层: z_g_TuCeng - 存储每个勘探点的地层分层详细信息。
+取样: z_c_QuYang - 存储取样信息及部分物理力学性质汇总。
+原位测试: 
+o标准贯入: z_y_BiaoGuan 
+o动力触探: z_y_DongTan 
+o静力触探: z_y_JingTan, z_y_JingTanSQ 
+o液化判别 (静探法): z_y_YeHuaJT 
+o压水试验: t_YaShuiSYJL, t_YaShuiSYSWJL, t_YaShuiSY 
+o抽水试验: z_y_ChouShui, z_y_ChouShuiSJ, z_y_ChouShuiSWHF 
+o注水试验: z_y_ZhuShui 
+o(其他原位测试表如旁压、应力铲、扁铲侧胀、波速等)
+室内试验: 
+o固结试验: z_c_GuJie 
+o岩石试验: t_YanShi 
+o直剪试验: z_c_ZhiJian 
+o膨胀土试验: z_c_PengZhangTu 
+o颗粒分析: z_c_KeFen 
+o三轴剪切: z_c_SanZhou 
+o易溶盐分析: t_YiRongYan 
+o水质简分析: t_ShuiZhiJianFX 
+o(其他室内试验表如基础物理性质、高压固结、崩解等)
+工程地质与绘图: 
+o等高线: d_DengGaoXianLine 
+o剖面线定义: p_PouXian 
+o地层连接: DCBHSJCon 
+o场地边界: g_JiChu 
+汇总与成果: 
+o工程标准地层: g_STuCengGC 
+o地层参数汇总与设计取值: x_DiCeng 
+o分项参数统计: x_SheJi 
+o土工试验成果汇总: x_TuGong 
+工作量统计: k_GZL_* 系列表 
+BIM检查相关: c_BIM_*_SJ 系列表 
+系统配置库 (system_config.mdb)
+字段定义: g_ZiDuan 
+界面与模块配置: g_PeiZhi, g_SubTree, x_tree_*, g_MenuPeiZhi, g_ToolBarPeiZhi 
+岩土、地质时代、符号库: g_YanXing_*, g_DiZhi, g_DuiZhaoDZSD, t_DZSDPeiZhi, g_KSXOption 
+数据字典与对照: g_DuiZhao, g_SJDuiZhao, g_SJDZBH 
+报告、图表、Excel模板配置: g_ZPTou, g_ZZTTK, t_Excel_*, g_KanChaBaoGao 等 
+计算与统计规则: g_Stat_*, g_ChengZaiLiPeiZhi, g_HCJC, g_CG_* 系列表 
+系统标准与版本: x_BiaoZhun, CFGCurZXBZ, CFGDbversion, version 
+数据导入/转换: g_PeiZhiDR*, g_smtMemory 
+6.2 关键字段分析
+GCSY (工程索引/编号): 
+o存在于几乎所有工程案例数据表 (LZGICAD1.mdb 类型库中) 和部分工程级配置表 (如 g_STuCengGC)。
+o作为工程的全局唯一标识，是连接工程主信息 (x_GongCheng) 和该工程下所有其他数据的核心外键。 
+o在 x_GongCheng 表中通常是主键。
+ZKBH (钻孔编号): 
+o在 z_ZuanKong 表中，对于同一个 GCSY (工程) 是唯一的，标识一个具体的钻孔。 
+o作为外键出现在与钻孔相关的表中，如 z_g_TuCeng (土层), z_c_QuYang (取样), 以及大部分原位测试表 (z_y_*)，用于将这些数据关联到特定的钻孔。 
+QYBH (取样编号): 
+o在 z_c_QuYang 表中，对于同一个 GCSY 和 ZKBH (钻孔) 是唯一的，标识一个具体的试样。 
+o作为外键出现在与该试样相关的室内试验详细数据表中，如 z_c_GuJie (固结), z_c_KeFen (颗分), t_YanShi (岩石试验) 等。 
+GCBZ (工程标准/规范代码): 
+o主要存在于 x_GongCheng (工程信息表) 和 system_config.mdb 中的大量配置表 (g_* 系列) 中。
+o在 x_GongCheng 中记录了当前工程所采用的标准规范。
+o在 system_config.mdb 的配置表中，此字段用于区分不同规范下的配置项。软件运行时会根据当前工程的 GCBZ 值来筛选和应用相应的配置。例如，不同的 GCBZ 可能对应不同的岩性库 (g_YanXing_*)、承载力计算参数 (g_ChengZaiLiPeiZhi) 或报告模板。
+oCFGCurZXBZ.ZXBZ 存储了系统当前默认执行的标准代码，会影响全局配置的加载。
+ZDMC (字段名称/代码): 
+o在 g_ZiDuan 表中作为主键，定义了系统中所有数据字段的内部代码。 
+o被其他配置表 (如 g_PeiZhi.PZYM, g_SJDuiZhao.TJFIELD ) 引用，用于指定界面显示哪些字段或从哪个字段取值。
+XMDH (项目代号/字段代号): 
+o在 g_DuiZhao, g_SJDuiZhao, g_DiZhi, g_ZPTou 等表中常见，用于对某一类配置项或枚举值进行分组和关联。例如，g_DuiZhao 中 XMDH="TCYS" 的所有记录定义了“土层颜色”的选项。
+PZGN (配置功能/模块名): 
+o在 g_PeiZhi 表中，用于标识一个特定的数据模块或界面（如 "z_g_TuCeng" 对应土层录入模块），并配置其行为。 
+TJTABLE / STATTABLE / SZB (源数据表名) 和 TJFIELD / STATKEY / SZBZD (源数据字段名): 
+o在各类统计配置表 (如 g_SJDuiZhao, g_Stat_FieldInfo, g_CGBModelDuiZhao, g_ZZTTK ) 中常见，用于动态地将报表、图表或计算中的某个数据项映射到其在数据库中的实际存储位置。
+6.3 表间关系
+数据库中的表通过主键和外键（主要是 GCSY, ZKBH, QYBH 等）以及逻辑关联（通过代码或名称匹配）紧密地联系在一起。
+
+核心层级关系 (工程案例库):
+
+ox_GongCheng (工程) --(1:N, GCSY)--> z_ZuanKong (钻孔)
+oz_ZuanKong (钻孔) --(1:N, GCSY, ZKBH)--> z_g_TuCeng (土层)
+oz_ZuanKong (钻孔) --(1:N, GCSY, ZKBH)--> z_c_QuYang (取样)
+oz_ZuanKong (钻孔) --(1:N, GCSY, ZKBH)--> 各类原位测试表 (如 z_y_BiaoGuan, z_y_JingTan)
+oz_c_QuYang (取样) --(1:N, GCSY, ZKBH, QYBH)--> 各类室内试验详细数据表 (如 z_c_GuJie, z_c_KeFen)
+ox_GongCheng (工程) --(1:N, GCSY)--> p_PouXian (剖面线定义)
+ox_GongCheng (工程) --(1:N, GCSY)--> g_STuCengGC (工程标准地层)
+og_STuCengGC (工程标准地层) --(1:1 或 1:N, GCSY, 地层编号组合)--> x_DiCeng (地层参数汇总), x_SheJi (分项参数统计)
+
+配置表与业务表的关联 (主要通过 system_config.mdb 实现):
+
+og_ZiDuan.ZDMC 被 g_PeiZhi.PZYM 等引用，定义界面字段。 
+og_DuiZhao.XMDH 关联到业务表中需要枚举选项的字段。 
+og_YanXing_*.YTMC (岩土名称) 被 z_g_TuCeng.TCMC 引用，用于选择岩土类型和图例。 
+og_DuiZhaoDZSD.DZMC (地质时代代码) 被 z_g_TuCeng.TCDZSD 引用。 
+og_SJDuiZhao.TJTABLE/TJFIELD 直接指向业务数据表及其字段，用于动态数据提取。 
+oCFGCurZXBZ.ZXBZ (当前执行标准代码) 与 x_GongCheng.GCBZ 和各配置表中的 GCBZ 字段关联，用于筛选和应用特定规范的配置。
+
+其他逻辑关联:
+
+o许多业务数据表 (如试验数据表) 中的描述性字段 (如颜色、密实度、可塑性) 的值，其选项来源于 g_DuiZhao 表中具有特定 XMDH 的记录。 
+o工作量统计表 (k_GZL_*) 的数据是对各业务数据表中记录数量和相关指标的统计汇总。 
+6.4 配置与元数据表 (system_config.mdb 核心)
+这些表是软件灵活配置和运行的基础：
+g_ZiDuan: 字段“身份证”，定义了系统中所有字段的名称、中文描述、默认值、推测数据类型等。 
+g_PeiZhi: 界面“设计师”，配置了各个数据录入模块或表单显示哪些字段、顺序、宽度以及主键等。 
+g_YanXing_* 系列: 岩土“图鉴”，定义了各种岩土的名称、类别、柱状图和剖面图的图例符号、颜色。 
+g_DuiZhao: “字典”表，为系统中需要从固定选项中选择的字段提供键值对（如土的密实度：松散、稍密、中密、密实）。 
+g_SJDuiZhao: 数据“导航员”，将一个抽象的、统一的参数ID（如“1031 天然重度”）映射到该数据实际存储在哪个表的哪个字段，使得报表或计算模块可以通过统一ID获取数据，而无需硬编码。 
+g_Stat_* 系列: 统计报表“工程师”，详细定义了各种统计报表的表头、包含的字段、数据来源、计算方法、显示格式等。 
+g_ZZTTK 和 g_ZPTou 等: 柱状图/剖面图“定制器”，配置图形的表头、图例、数据列、图框中的动态信息替换规则。 
+CFGCurZXBZ 和 x_BiaoZhun: 系统“标准选择器”，定义了软件支持的各种工程规范（如工民建、公路、铁路），并允许用户为当前工程选择一个执行标准，从而影响全局的配置应用。 
+7. 软件如何工作 (总结)
+原始岩土工程勘察软件的工作模式可以概括如下 ：
+1.
+初始化与环境设置：
+2.
+o软件启动时，加载 system_config.mdb 中的全局配置，特别是 CFGCurZXBZ 确定的当前默认执行标准。
+o这会影响后续所有操作中默认的岩性库、参数表、计算方法和报告模板的选择。
+3.
+工程管理：
+4.
+o用户可以创建新工程或打开现有工程。
+o创建新工程时，在工程案例库 (LZGICAD1.mdb 类型) 中生成一条 x_GongCheng 记录，并赋予唯一的 GCSY。用户会指定该工程遵循的 GCBZ (规范代码)。
+o打开工程时，软件通过导航树 (g_Region, x_tree_project ) 定位到工程文件。
+5.
+数据录入：
+6.
+o用户通过导航树进入具体的数据录入模块（如钻孔、分层、取样、各类试验）。
+o界面布局、字段显示、下拉选项等均由 system_config.mdb 中的 g_PeiZhi, g_ZiDuan, g_DuiZhao, g_YanXing_* 等表配置。
+o录入的数据（如钻孔坐标、土层厚度、岩土名称、试验结果）被保存到工程案例库中对应的业务数据表 (z_ZuanKong, z_g_TuCeng, z_c_QuYang, z_y_BiaoGuan 等）。所有数据都通过 GCSY 与当前工程关联。
+7.
+数据处理与分析：
+8.
+o软件可以根据录入的原始数据进行各种计算和统计，如地层参数统计 (x_DiCeng ), 承载力计算 (依据 g_ChengZaiLiPeiZhi ), 液化判别等。
+o这些计算和分析的结果可能存储在专门的汇总表或直接用于成果输出。
+9.
+成果输出：
+10.
+o柱状图/剖面图：根据工程数据和 system_config.mdb 中的图例、表头配置生成。
+o统计报表：根据 g_Stat_* 系列表 的配置，从业务数据表中提取、计算并格式化数据。
+oExcel导出：通过 t_Excel_* 和 t_MB* 系列表 将数据导出到预设的Excel模板或自定义表格。
+o勘察报告：依据 g_KanChaBaoGao 的配置，自动或半自动生成Word或类似格式的勘察报告。
+11.
+数据兼容与转换：
+12.
+o系统设计了版本间的字段映射 (g_TJ_FIELD85TO90 ) 和表间数据转换规则 (g_PeiZhiDR* )，以支持数据迁移和不同模块间的数据整合。
+核心机制在于通过 system_config.mdb 提供高度可配置的框架和标准，然后用户在此框架下输入具体的工程数据到 LZGICAD1.mdb 这样的项目数据库中，最后软件利用这两套数据库的信息进行数据处理和成果输出。
+8. 对新GUI开发与数据库兼容性的建议
+在您着手开发新的岩土工程勘察软件GUI并希望兼容现有 LZGICAD1.mdb 数据库时，以下几点至关重要：
+1.
+深入理解 LZGICAD1.mdb 的核心表结构：
+2.
+o重点关注 x_GongCheng, z_ZuanKong, z_g_TuCeng, z_c_QuYang 以及各类主要的试验数据表（如标贯、动探、静探、固结、剪切、颗分、物理性质等）。这些是存储实际勘察数据的关键。
+o必须准确解析这些表中的字段含义、数据类型（尽管MDB分析文档中未直接提供，但可从JSON示例推断或直接查看MDB确认）、单位以及它们之间的关联关系（特别是 GCSY, ZKBH, QYBH 的使用）。
+3.
+理解并选择性利用 system_config.mdb：
+4.
+o虽然您的新GUI可能不直接依赖于旧软件的 system_config.mdb 来运行，但理解其内容对于以下方面非常有益： 
+获取默认值和选项列表：g_DuiZhao (如土层状态、试验类型), g_DuiZhaoDZSD (地质时代), g_YanXing_* (岩土名称和分类) 等表可以为新GUI中的下拉框提供数据源或默认选项。
+实现配置功能：如果新GUI也需要支持用户自定义界面、图例、报表格式等，system_config.mdb 中的配置表（如 g_PeiZhi, g_ZPTou, g_Stat_* ）提供了成熟的设计思路和字段结构参考。
+参数计算逻辑参考：承载力、桩基参数、液化判别等计算所需的参数配置（如 g_ChengZaiLiPeiZhi, g_ZhuangDuanCeZu ）可以帮助您理解原始软件是如何处理这些计算的，即使您在新软件中采用不同的实现方式。
+o您的新GUI可以设计成读取这些 system_config.mdb 配置项，或者在首次导入旧数据时，将必要的配置信息迁移到新软件自身的配置体系中。
+5.
+数据导入与映射策略：
+6.
+o您的新GUI需要能够直接读取 LZGICAD1.mdb 文件。这意味着需要能够解析MDB格式并理解其表结构。
+o由于您提到“中英文字段映射” ，建议在新软件的数据库设计中，为每个表和字段维护一个明确的英文名（用于程序内部）和中文名（用于GUI显示）。在导入 LZGICAD1.mdb 数据时，需要将旧表的字段（其名称在分析文档中多为拼音缩写或特定代码）映射到新数据库的对应字段。g_ZiDuan 表（来自 system_config.mdb）中定义的 ZDMC (字段代码) 和 ZDMS (中文描述) 可以作为这种映射的重要参考。
+7.
+处理编码值和特殊标记：
+8.
+o许多字段存储的是代码值（如钻孔类型、土层颜色、密实度状态），其具体含义需要参照 g_DuiZhao 或类似对照表。新GUI在显示这些数据时需要进行转换。
+o在图例名称 (YTTL )、地质时代显示格式 (DZFJ1 in g_DuiZhaoDZSD, SCFH in t_DZSDPeiZhi)、表头名称 (BLMC in g_BiaoLie, ZZTMC in g_ZPTou) 中可能包含特殊的格式化标记 (如 !, $, @, \r\n)，需要理解其含义才能正确显示。
+9.
+关注核心关联字段 GCSY, ZKBH, QYBH:
+10.
+o在导入和处理数据时，必须正确维护这些字段的关联性，以保持数据的完整性和层级结构。
+11.
+逐步实现兼容性：
+12.
+o可以先从核心数据模块（如工程信息、钻孔、地层、主要原位和室内试验）的导入和显示开始，逐步扩展到更复杂的统计、报表和图形功能。
+13.
+考虑数据单位：
+14.
+o虽然分析文档中对单位有所提及，但在实际开发中务必确认各物理量字段的单位，确保数据转换和计算的准确性。
+通过细致地研究这份报告中提及的表结构和它们之间的关系，特别是 LZGICAD1.mdb 中的业务数据表和 system_config.mdb 中的关键配置表，您将能更好地设计新GUI的数据模型，并成功实现对现有MDB数据库的兼容。
+9. 结论
+本报告基于您提供的文档，对该岩土工程勘察软件的数据库结构进行了详细的分析。我们解析了系统配置库 (system_config.mdb) 如何为软件提供基础框架和标准化定义，以及工程案例库 (LZGICAD1.mdb) 如何存储具体的项目勘察数据。报告阐述了关键数据表（如工程信息、钻孔、土层、取样、各类试验数据表、以及各种配置表）的用途、主要字段及其在软件整体工作流程中的作用和相互关系。
+核心的关联机制围绕 GCSY (工程索引)、ZKBH (钻孔编号) 和 QYBH (取样编号) 等关键字段展开，而 GCBZ (规范代码) 则实现了配置的规范化应用。软件通过模块化的配置表 (g_* 系列) 实现了高度的灵活性和可定制性，支持从数据录入、分析计算到成果图表输出的全过程。
+这份详尽的数据库结构分析，特别是对各数据表、关键字段和表间联系的梳理，将为您的团队逆向开发类似的岩土工程勘察软件，并确保新GUI能够与现有 LZGICAD1.mdb 数据文件兼容提供坚实的基础。理解原始软件的数据模型和业务逻辑是成功实现这一目标的关键。
+希望这份报告对您有所帮助。如果您在后续开发过程中有进一步的问题，欢迎随时提出。
