@@ -1,0 +1,7463 @@
+[
+  {
+    "XH": "1",
+    "GCBZ": "0",
+    "KcYTLB": "填土",
+    "KcYTMC": "耕土",
+    "JGYTLM": "填土",
+    "YTYTLM": "杂填土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "1",
+    "GCBZ": "1",
+    "KcYTLB": "填土",
+    "KcYTMC": "填筑土",
+    "JGYTLM": "填土",
+    "YTYTLM": "杂填土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "1",
+    "GCBZ": "2",
+    "KcYTLB": "填土",
+    "KcYTMC": "种植土",
+    "JGYTLM": "填土",
+    "YTYTLM": "杂填土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "1",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "孤石",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "2",
+    "GCBZ": "0",
+    "KcYTLB": "填土",
+    "KcYTMC": "人工填土",
+    "JGYTLM": "填土",
+    "YTYTLM": "杂填土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "2",
+    "GCBZ": "1",
+    "KcYTLB": "填土",
+    "KcYTMC": "杂填土",
+    "JGYTLM": "填土",
+    "YTYTLM": "杂填土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "2",
+    "GCBZ": "2",
+    "KcYTLB": "填土",
+    "KcYTMC": "草皮",
+    "JGYTLM": "填土",
+    "YTYTLM": "杂填土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "2",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "漂石",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "3",
+    "GCBZ": "0",
+    "KcYTLB": "填土",
+    "KcYTMC": "杂填土",
+    "JGYTLM": "填土",
+    "YTYTLM": "杂填土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "3",
+    "GCBZ": "1",
+    "KcYTLB": "填土",
+    "KcYTMC": "素填土",
+    "JGYTLM": "填土",
+    "YTYTLM": "素填土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "3",
+    "GCBZ": "2",
+    "KcYTLB": "填土",
+    "KcYTMC": "填筑土",
+    "JGYTLM": "填土",
+    "YTYTLM": "杂填土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "3",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "混合土漂石",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "4",
+    "GCBZ": "0",
+    "KcYTLB": "填土",
+    "KcYTMC": "素填土",
+    "JGYTLM": "填土",
+    "YTYTLM": "素填土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "4",
+    "GCBZ": "1",
+    "KcYTLB": "填土",
+    "KcYTMC": "冲（吹）填土",
+    "JGYTLM": "填土",
+    "YTYTLM": "素填土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "4",
+    "GCBZ": "2",
+    "KcYTLB": "软土",
+    "KcYTMC": "淤泥",
+    "JGYTLM": "淤泥",
+    "YTYTLM": "淤泥",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "4",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "块石",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "5",
+    "GCBZ": "0",
+    "KcYTLB": "填土",
+    "KcYTMC": "冲填土",
+    "JGYTLM": "填土",
+    "YTYTLM": "素填土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "5",
+    "GCBZ": "1",
+    "KcYTLB": "填土",
+    "KcYTMC": "种植土",
+    "JGYTLM": "填土",
+    "YTYTLM": "素填土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "5",
+    "GCBZ": "2",
+    "KcYTLB": "黏土",
+    "KcYTMC": "黏土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "5",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "卵石",
+    "JGYTLM": "卵石",
+    "YTYTLM": "卵石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "6",
+    "GCBZ": "0",
+    "KcYTLB": "填土",
+    "KcYTMC": "填土",
+    "JGYTLM": "填土",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "6",
+    "GCBZ": "1",
+    "KcYTLB": "特殊岩土",
+    "KcYTMC": "黏质黄土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "6",
+    "GCBZ": "2",
+    "KcYTLB": "黏土",
+    "KcYTMC": "粉质黏土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "6",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "含泥卵石",
+    "JGYTLM": "卵石",
+    "YTYTLM": "卵石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "7",
+    "GCBZ": "0",
+    "KcYTLB": "软土",
+    "KcYTMC": "淤泥",
+    "JGYTLM": "淤泥",
+    "YTYTLM": "淤泥",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "7",
+    "GCBZ": "1",
+    "KcYTLB": "特殊岩土",
+    "KcYTMC": "砂质黄土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "7",
+    "GCBZ": "2",
+    "KcYTLB": "黏土",
+    "KcYTMC": "石膏土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "7",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "混合土卵石",
+    "JGYTLM": "卵石",
+    "YTYTLM": "卵石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "8",
+    "GCBZ": "0",
+    "KcYTLB": "软土",
+    "KcYTMC": "淤泥质黏土",
+    "JGYTLM": "淤泥质土",
+    "YTYTLM": "淤泥质土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "8",
+    "GCBZ": "1",
+    "KcYTLB": "特殊岩土",
+    "KcYTMC": "新黄土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "8",
+    "GCBZ": "2",
+    "KcYTLB": "粉土",
+    "KcYTMC": "粉土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "8",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "砂卵石",
+    "JGYTLM": "卵石",
+    "YTYTLM": "卵石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "9",
+    "GCBZ": "0",
+    "KcYTLB": "软土",
+    "KcYTMC": "淤泥质粉土",
+    "JGYTLM": "淤泥质土",
+    "YTYTLM": "淤泥质土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "9",
+    "GCBZ": "1",
+    "KcYTLB": "特殊岩土",
+    "KcYTMC": "老黄土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "9",
+    "GCBZ": "2",
+    "KcYTLB": "砂土",
+    "KcYTMC": "粉砂",
+    "JGYTLM": "粉砂",
+    "YTYTLM": "粉砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "9",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "砂砾石",
+    "JGYTLM": "卵石",
+    "YTYTLM": "卵石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "10",
+    "GCBZ": "0",
+    "KcYTLB": "软土",
+    "KcYTMC": "泥炭",
+    "JGYTLM": "淤泥",
+    "YTYTLM": "淤泥",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "10",
+    "GCBZ": "1",
+    "KcYTLB": "黏性土",
+    "KcYTMC": "黏土",
+    "JGYTLM": "黏性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "10",
+    "GCBZ": "2",
+    "KcYTLB": "砂土",
+    "KcYTMC": "细砂",
+    "JGYTLM": "细砂",
+    "YTYTLM": "细砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "10",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "碎石",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "11",
+    "GCBZ": "0",
+    "KcYTLB": "软土",
+    "KcYTMC": "泥炭质黏土",
+    "JGYTLM": "淤泥",
+    "YTYTLM": "淤泥",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "11",
+    "GCBZ": "1",
+    "KcYTLB": "黏性土",
+    "KcYTMC": "粉质黏土",
+    "JGYTLM": "黏性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "11",
+    "GCBZ": "2",
+    "KcYTLB": "砂土",
+    "KcYTMC": "中砂",
+    "JGYTLM": "中砂",
+    "YTYTLM": "中砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "11",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "砾石",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "12",
+    "GCBZ": "0",
+    "KcYTLB": "软土",
+    "KcYTMC": "泥炭质粉土",
+    "JGYTLM": "淤泥",
+    "YTYTLM": "淤泥",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "12",
+    "GCBZ": "1",
+    "KcYTLB": "粉土",
+    "KcYTMC": "粉土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "12",
+    "GCBZ": "2",
+    "KcYTLB": "砂土",
+    "KcYTMC": "粗砂",
+    "JGYTLM": "粗砂",
+    "YTYTLM": "粗砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "12",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "角砾",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "13",
+    "GCBZ": "0",
+    "KcYTLB": "软土",
+    "KcYTMC": "淤泥质粉质黏土",
+    "JGYTLM": "淤泥质土",
+    "YTYTLM": "淤泥质土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "13",
+    "GCBZ": "1",
+    "KcYTLB": "砂类土",
+    "KcYTMC": "粉砂",
+    "JGYTLM": "粉砂",
+    "YTYTLM": "粉砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "13",
+    "GCBZ": "2",
+    "KcYTLB": "砂土",
+    "KcYTMC": "砾砂",
+    "JGYTLM": "砾砂",
+    "YTYTLM": "砾砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "13",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "砾质土",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "14",
+    "GCBZ": "0",
+    "KcYTLB": "软土",
+    "KcYTMC": "淤泥质砂土",
+    "JGYTLM": "淤泥质土",
+    "YTYTLM": "淤泥质土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "14",
+    "GCBZ": "1",
+    "KcYTLB": "砂类土",
+    "KcYTMC": "细砂",
+    "JGYTLM": "细砂",
+    "YTYTLM": "细砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "14",
+    "GCBZ": "2",
+    "KcYTLB": "粉土",
+    "KcYTMC": "粉质砂土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "14",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "冰川泥砾",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "15",
+    "GCBZ": "0",
+    "KcYTLB": "黏土",
+    "KcYTMC": "黏土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "15",
+    "GCBZ": "1",
+    "KcYTLB": "砂类土",
+    "KcYTMC": "中砂",
+    "JGYTLM": "中砂",
+    "YTYTLM": "中砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "15",
+    "GCBZ": "2",
+    "KcYTLB": "粉土",
+    "KcYTMC": "亚砂土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "15",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "碎石土",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "16",
+    "GCBZ": "0",
+    "KcYTLB": "黏土",
+    "KcYTMC": "粉质黏土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "16",
+    "GCBZ": "1",
+    "KcYTLB": "砂类土",
+    "KcYTMC": "粗砂",
+    "JGYTLM": "粗砂",
+    "YTYTLM": "粗砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "16",
+    "GCBZ": "2",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "圆砾土",
+    "JGYTLM": "圆砾",
+    "YTYTLM": "圆砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "16",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "黏土夹碎石",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "17",
+    "GCBZ": "0",
+    "KcYTLB": "黏土",
+    "KcYTMC": "重粉质黏土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "17",
+    "GCBZ": "1",
+    "KcYTLB": "砂类土",
+    "KcYTMC": "砾砂",
+    "JGYTLM": "砾砂",
+    "YTYTLM": "砾砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "17",
+    "GCBZ": "2",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "角砾土",
+    "JGYTLM": "角砾",
+    "YTYTLM": "角砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "17",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "冲积砂质卵石层",
+    "JGYTLM": "卵石",
+    "YTYTLM": "卵石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "18",
+    "GCBZ": "1",
+    "KcYTLB": "碎石类土",
+    "KcYTMC": "细圆砾土",
+    "JGYTLM": "圆砾",
+    "YTYTLM": "圆砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "18",
+    "GCBZ": "2",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "卵石土",
+    "JGYTLM": "卵石",
+    "YTYTLM": "卵石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "18",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "回填卵砾石",
+    "JGYTLM": "卵石",
+    "YTYTLM": "卵石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "19",
+    "GCBZ": "0",
+    "KcYTLB": "黏土",
+    "KcYTMC": "黏质土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "19",
+    "GCBZ": "1",
+    "KcYTLB": "碎石类土",
+    "KcYTMC": "粗圆砾土",
+    "JGYTLM": "圆砾",
+    "YTYTLM": "圆砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "19",
+    "GCBZ": "2",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "碎石土",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "19",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "洪坡积碎石土",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "20",
+    "GCBZ": "0",
+    "KcYTLB": "粉土",
+    "KcYTMC": "粉土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "20",
+    "GCBZ": "1",
+    "KcYTLB": "碎石类土",
+    "KcYTMC": "细角砾土",
+    "JGYTLM": "角砾",
+    "YTYTLM": "角砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "20",
+    "GCBZ": "2",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "漂石土",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "20",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "崩冲积碎石夹砂",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "21",
+    "GCBZ": "0",
+    "KcYTLB": "粉土",
+    "KcYTMC": "黏质粉土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "21",
+    "GCBZ": "1",
+    "KcYTLB": "碎石类土",
+    "KcYTMC": "粗角砾土",
+    "JGYTLM": "角砾",
+    "YTYTLM": "角砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "21",
+    "GCBZ": "2",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "块石土",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "21",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "崩坡积块石及碎石土",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "22",
+    "GCBZ": "0",
+    "KcYTLB": "粉土",
+    "KcYTMC": "砂质粉土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "22",
+    "GCBZ": "1",
+    "KcYTLB": "碎石类土",
+    "KcYTMC": "卵石土",
+    "JGYTLM": "卵石",
+    "YTYTLM": "卵石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "22",
+    "GCBZ": "2",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "砂姜石",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "22",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "崩积碎石",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "23",
+    "GCBZ": "1",
+    "KcYTLB": "碎石类土",
+    "KcYTMC": "碎石土",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "23",
+    "GCBZ": "2",
+    "KcYTLB": "湿陷性黄土",
+    "KcYTMC": "黄土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "23",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "砂砾卵石层",
+    "JGYTLM": "卵石",
+    "YTYTLM": "卵石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "24",
+    "GCBZ": "0",
+    "KcYTLB": "粉土",
+    "KcYTMC": "粉质土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "24",
+    "GCBZ": "1",
+    "KcYTLB": "碎石类土",
+    "KcYTMC": "漂石土",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "24",
+    "GCBZ": "2",
+    "KcYTLB": "湿陷性黄土",
+    "KcYTMC": "黄土状砂性土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "24",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "含泥砂砾",
+    "JGYTLM": "砾砂",
+    "YTYTLM": "砾砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "25",
+    "GCBZ": "0",
+    "KcYTLB": "砂土",
+    "KcYTMC": "粉砂",
+    "JGYTLM": "粉砂",
+    "YTYTLM": "粉砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "25",
+    "GCBZ": "1",
+    "KcYTLB": "碎石类土",
+    "KcYTMC": "块石土",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "25",
+    "GCBZ": "2",
+    "KcYTLB": "湿陷性黄土",
+    "KcYTMC": "黄土状粉性土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "25",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "漂卵石层",
+    "JGYTLM": "卵石",
+    "YTYTLM": "卵石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "26",
+    "GCBZ": "0",
+    "KcYTLB": "砂土",
+    "KcYTMC": "细砂",
+    "JGYTLM": "细砂",
+    "YTYTLM": "细砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "26",
+    "GCBZ": "1",
+    "KcYTLB": "砂礓石",
+    "KcYTMC": "砂礓石",
+    "JGYTLM": "圆砾",
+    "YTYTLM": "圆砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "26",
+    "GCBZ": "2",
+    "KcYTLB": "湿陷性黄土",
+    "KcYTMC": "黄土质粘土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "26",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "砂砾层",
+    "JGYTLM": "砾砂",
+    "YTYTLM": "砾砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "27",
+    "GCBZ": "0",
+    "KcYTLB": "砂土",
+    "KcYTMC": "中砂",
+    "JGYTLM": "中砂",
+    "YTYTLM": "中砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "27",
+    "GCBZ": "1",
+    "KcYTLB": "黏性土",
+    "KcYTMC": "淤泥",
+    "JGYTLM": "淤泥",
+    "YTYTLM": "淤泥",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "27",
+    "GCBZ": "2",
+    "KcYTLB": "有机土",
+    "KcYTMC": "泥炭土",
+    "JGYTLM": "淤泥",
+    "YTYTLM": "淤泥",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "27",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "块碎石",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "28",
+    "GCBZ": "0",
+    "KcYTLB": "砂土",
+    "KcYTMC": "粗砂",
+    "JGYTLM": "粗砂",
+    "YTYTLM": "粗砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "28",
+    "GCBZ": "1",
+    "KcYTLB": "黏性土",
+    "KcYTMC": "泥炭",
+    "JGYTLM": "淤泥质土",
+    "YTYTLM": "淤泥质土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "28",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "凝灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "28",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "抛石",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "29",
+    "GCBZ": "0",
+    "KcYTLB": "砂土",
+    "KcYTMC": "砾砂",
+    "JGYTLM": "砾砂",
+    "YTYTLM": "砾砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "29",
+    "GCBZ": "1",
+    "KcYTLB": "特殊岩土",
+    "KcYTMC": "冰层",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "29",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "泥岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "29",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "含泥砂卵砾石",
+    "JGYTLM": "圆砾",
+    "YTYTLM": "圆砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "30",
+    "GCBZ": "0",
+    "KcYTLB": "砂土",
+    "KcYTMC": "粉细砂",
+    "JGYTLM": "粉砂",
+    "YTYTLM": "粉砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "30",
+    "GCBZ": "1",
+    "KcYTLB": "石膏土",
+    "KcYTMC": "石膏土",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "30",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "泥灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "30",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "黏土质圆砾",
+    "JGYTLM": "圆砾",
+    "YTYTLM": "圆砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "31",
+    "GCBZ": "0",
+    "KcYTLB": "砂土",
+    "KcYTMC": "细中砂",
+    "JGYTLM": "细砂",
+    "YTYTLM": "细砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "31",
+    "GCBZ": "1",
+    "KcYTLB": "特殊岩土",
+    "KcYTMC": "盐渍土",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "31",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "页岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "31",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "黏土质角砾",
+    "JGYTLM": "角砾",
+    "YTYTLM": "角砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "32",
+    "GCBZ": "0",
+    "KcYTLB": "砂土",
+    "KcYTMC": "中粗砂",
+    "JGYTLM": "中砂",
+    "YTYTLM": "中砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "32",
+    "GCBZ": "1",
+    "KcYTLB": "特殊岩土",
+    "KcYTMC": "膨胀土",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "32",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "炭质页岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "32",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "级配良好圆砾",
+    "JGYTLM": "圆砾",
+    "YTYTLM": "圆砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "33",
+    "GCBZ": "0",
+    "KcYTLB": "砂土",
+    "KcYTMC": "粗砾砂",
+    "JGYTLM": "粗砂",
+    "YTYTLM": "粗砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "33",
+    "GCBZ": "1",
+    "KcYTLB": "裂隙黏土",
+    "KcYTMC": "裂隙黏土",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "33",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "煤层",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "33",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "级配良好角砾",
+    "JGYTLM": "角砾",
+    "YTYTLM": "角砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "34",
+    "GCBZ": "0",
+    "KcYTLB": "砂土",
+    "KcYTMC": "各种组合砂",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "34",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "第四系以前黏土",
+    "JGYTLM": "黏性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "34",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "34",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "级配不良圆砾",
+    "JGYTLM": "圆砾",
+    "YTYTLM": "圆砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "35",
+    "GCBZ": "0",
+    "KcYTLB": "砂土",
+    "KcYTMC": "砂类土",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "35",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "页岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "35",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "角闪片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "35",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "级配不良角砾",
+    "JGYTLM": "角砾",
+    "YTYTLM": "角砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "36",
+    "GCBZ": "0",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "圆砾",
+    "JGYTLM": "圆砾",
+    "YTYTLM": "圆砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "36",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "炭质页岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "36",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "二云片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "36",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "含细粒土圆砾",
+    "JGYTLM": "圆砾",
+    "YTYTLM": "圆砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "37",
+    "GCBZ": "0",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "角砾",
+    "JGYTLM": "角砾",
+    "YTYTLM": "角砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "37",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "泥岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "37",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "绿泥片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "37",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "含细粒土角砾",
+    "JGYTLM": "角砾",
+    "YTYTLM": "角砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "38",
+    "GCBZ": "0",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "卵石",
+    "JGYTLM": "卵石",
+    "YTYTLM": "卵石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "38",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "38",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "板岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "38",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "粉土质圆砾",
+    "JGYTLM": "圆砾",
+    "YTYTLM": "圆砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "39",
+    "GCBZ": "0",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "碎石",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "39",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "石灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "39",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "千枚岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "39",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "粉土质角砾",
+    "JGYTLM": "角砾",
+    "YTYTLM": "角砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "40",
+    "GCBZ": "0",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "漂石",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "40",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "泥灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "40",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "混合岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "40",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "混合土管片",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "41",
+    "GCBZ": "0",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "块石",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "41",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "岩溶化灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "41",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "糜棱岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "41",
+    "GCBZ": "3",
+    "KcYTLB": "砂土",
+    "KcYTMC": "砾砂",
+    "JGYTLM": "砾砂",
+    "YTYTLM": "砾砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "42",
+    "GCBZ": "0",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "砾石",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "42",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "白云岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "42",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "石膏",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "42",
+    "GCBZ": "3",
+    "KcYTLB": "砂土",
+    "KcYTMC": "砂",
+    "JGYTLM": "细砂",
+    "YTYTLM": "细砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "43",
+    "GCBZ": "0",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "砾类土",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "43",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "43",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "炭质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "43",
+    "GCBZ": "3",
+    "KcYTLB": "砂土",
+    "KcYTMC": "粗砂",
+    "JGYTLM": "粗砂",
+    "YTYTLM": "粗砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "44",
+    "GCBZ": "0",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "卵石土",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "44",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "44",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "角砾状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "44",
+    "GCBZ": "3",
+    "KcYTLB": "砂土",
+    "KcYTMC": "中砂",
+    "JGYTLM": "中砂",
+    "YTYTLM": "中砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "45",
+    "GCBZ": "0",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "漂石土",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "45",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "角砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "45",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "岩溶化石灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "45",
+    "GCBZ": "3",
+    "KcYTLB": "砂土",
+    "KcYTMC": "细砂",
+    "JGYTLM": "细砂",
+    "YTYTLM": "细砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "46",
+    "GCBZ": "0",
+    "KcYTLB": "湿陷性黄土",
+    "KcYTMC": "黄土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "46",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "煤层",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "46",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "白云质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "46",
+    "GCBZ": "3",
+    "KcYTLB": "砂土",
+    "KcYTMC": "极细砂",
+    "JGYTLM": "细砂",
+    "YTYTLM": "细砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "47",
+    "GCBZ": "0",
+    "KcYTLB": "湿陷性黄土",
+    "KcYTMC": "黄土状黏土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "47",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "石膏岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "47",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "燧石灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "47",
+    "GCBZ": "3",
+    "KcYTLB": "砂土",
+    "KcYTMC": "粉砂",
+    "JGYTLM": "粉砂",
+    "YTYTLM": "粉砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "48",
+    "GCBZ": "0",
+    "KcYTLB": "湿陷性黄土",
+    "KcYTMC": "黄土状粉质黏土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "48",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "盐岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "48",
+    "GCBZ": "3",
+    "KcYTLB": "砂土",
+    "KcYTMC": "含砾砂层",
+    "JGYTLM": "细砂",
+    "YTYTLM": "细砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "49",
+    "GCBZ": "0",
+    "KcYTLB": "湿陷性黄土",
+    "KcYTMC": "黄土状粉土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "49",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "含结核层",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "49",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "岩盐",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "49",
+    "GCBZ": "3",
+    "KcYTLB": "砂土",
+    "KcYTMC": "细粉砂",
+    "JGYTLM": "粉砂",
+    "YTYTLM": "粉砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "50",
+    "GCBZ": "0",
+    "KcYTLB": "湿陷性黄土",
+    "KcYTMC": "湿陷性黏土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "50",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "蛋白土",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "50",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "含结核层",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "50",
+    "GCBZ": "3",
+    "KcYTLB": "砂土",
+    "KcYTMC": "粗粉砂",
+    "JGYTLM": "粉砂",
+    "YTYTLM": "粉砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "51",
+    "GCBZ": "0",
+    "KcYTLB": "湿陷性黄土",
+    "KcYTMC": "湿陷性粉质黏土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "51",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "白垩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "51",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "浮岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "51",
+    "GCBZ": "3",
+    "KcYTLB": "砂土",
+    "KcYTMC": "泥质粉砂",
+    "JGYTLM": "粉砂",
+    "YTYTLM": "粉砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "52",
+    "GCBZ": "0",
+    "KcYTLB": "湿陷性黄土",
+    "KcYTMC": "湿陷性粉土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "52",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "凝灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "52",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "黑曜岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "52",
+    "GCBZ": "3",
+    "KcYTLB": "砂土",
+    "KcYTMC": "含泥质砂",
+    "JGYTLM": "细砂",
+    "YTYTLM": "细砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "53",
+    "GCBZ": "0",
+    "KcYTLB": "湿陷性土",
+    "KcYTMC": "湿陷性土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "53",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "火山角砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "53",
+    "GCBZ": "2",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "白垩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "53",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "黏土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "54",
+    "GCBZ": "0",
+    "KcYTLB": "残积土",
+    "KcYTMC": "砾质黏性土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "54",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "火山集块岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "54",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "粉质黏土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "55",
+    "GCBZ": "0",
+    "KcYTLB": "残积土",
+    "KcYTMC": "砂质黏性土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "55",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "花岗岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "55",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "花岗岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "55",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "重粉质黏土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "56",
+    "GCBZ": "0",
+    "KcYTLB": "残积土",
+    "KcYTMC": "黏性土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "56",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "花岗斑岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "56",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "花岗斑岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "56",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "冰水沉积层",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "57",
+    "GCBZ": "0",
+    "KcYTLB": "残积土",
+    "KcYTMC": "残积土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "57",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "流纹岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "57",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "正长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "57",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "轻砂壤土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "58",
+    "GCBZ": "0",
+    "KcYTLB": "有机质土",
+    "KcYTMC": "有机质土",
+    "JGYTLM": "淤泥质土",
+    "YTYTLM": "淤泥质土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "58",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "正长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "58",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "二长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "58",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "中砂壤土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "59",
+    "GCBZ": "0",
+    "KcYTLB": "红黏土",
+    "KcYTMC": "红黏土",
+    "JGYTLM": "红粘土",
+    "YTYTLM": "红粘土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "59",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "正长斑岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "59",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "闪长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "59",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "重砂壤土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "60",
+    "GCBZ": "0",
+    "KcYTLB": "红黏土",
+    "KcYTMC": "次生红黏土",
+    "JGYTLM": "红粘土",
+    "YTYTLM": "红粘土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "60",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "粗面岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "60",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "花岗闪长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "60",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "壤土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "61",
+    "GCBZ": "0",
+    "KcYTLB": "膨胀土",
+    "KcYTMC": "膨胀土",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "61",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "闪长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "61",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "闪长斑岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "61",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "重壤土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "62",
+    "GCBZ": "0",
+    "KcYTLB": "盐渍土",
+    "KcYTMC": "盐渍土",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "62",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "闪长斑岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "62",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "中壤土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "63",
+    "GCBZ": "0",
+    "KcYTLB": "多年冻土",
+    "KcYTMC": "多年冻土",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "63",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "安山岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "63",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "辉长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "63",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "重粉质壤土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "64",
+    "GCBZ": "0",
+    "KcYTLB": "混合土",
+    "KcYTMC": "混合土",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "64",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "辉长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "64",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "辉石岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "64",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "中粉质壤土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "65",
+    "GCBZ": "0",
+    "KcYTLB": "沙漠土",
+    "KcYTMC": "沙漠土",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "65",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "玄武岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "65",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "流纹岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "65",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "轻粉质壤土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "66",
+    "GCBZ": "0",
+    "KcYTLB": "污染土",
+    "KcYTMC": "污染土",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "66",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "橄榄岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "66",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "安山岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "66",
+    "GCBZ": "3",
+    "KcYTLB": "湿陷性黄土",
+    "KcYTMC": "黄土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "67",
+    "GCBZ": "0",
+    "KcYTLB": "分散土",
+    "KcYTMC": "分散土",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "67",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "辉岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "67",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "粗面岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "67",
+    "GCBZ": "3",
+    "KcYTLB": "湿陷性黄土",
+    "KcYTMC": "黄土状砂壤土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "68",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "玢岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "68",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "玄武岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "68",
+    "GCBZ": "3",
+    "KcYTLB": "湿陷性黄土",
+    "KcYTMC": "黄土状壤土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "69",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "细晶岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "69",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "69",
+    "GCBZ": "3",
+    "KcYTLB": "湿陷性黄土",
+    "KcYTMC": "粉土质黄土状壤土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "70",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "伟晶岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "70",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "70",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "含卵砾石的黏土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "71",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "煌斑岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "71",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "角砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "71",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "含碎石黏土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "72",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "斑岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "72",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "构造角砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "72",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "含石膏黏土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "73",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "混合岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "73",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "石灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "73",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "含黄铁矿黏土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "74",
+    "GCBZ": "0",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "凝灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "74",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "角页岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "74",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "硅质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "74",
+    "GCBZ": "3",
+    "KcYTLB": "软土",
+    "KcYTMC": "淤泥",
+    "JGYTLM": "淤泥",
+    "YTYTLM": "淤泥",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "75",
+    "GCBZ": "0",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "泥岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "75",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "板岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "75",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "白云岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "75",
+    "GCBZ": "3",
+    "KcYTLB": "砂土",
+    "KcYTMC": "粉土质砂",
+    "JGYTLM": "粉砂",
+    "YTYTLM": "粉砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "76",
+    "GCBZ": "0",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "页岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "76",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "千枚岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "76",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "角页岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "76",
+    "GCBZ": "3",
+    "KcYTLB": "软土",
+    "KcYTMC": "砂质淤泥",
+    "JGYTLM": "淤泥",
+    "YTYTLM": "淤泥",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "77",
+    "GCBZ": "0",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "泥灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "77",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "炭质千枚岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "77",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "片麻岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "77",
+    "GCBZ": "3",
+    "KcYTLB": "盐渍土",
+    "KcYTMC": "盐渍土",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "78",
+    "GCBZ": "0",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "煤岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "78",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "片麻岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "78",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "花岗片麻岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "78",
+    "GCBZ": "3",
+    "KcYTLB": "有机土",
+    "KcYTMC": "泥炭",
+    "JGYTLM": "淤泥",
+    "YTYTLM": "淤泥",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "79",
+    "GCBZ": "0",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "79",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "石英岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "79",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "79",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "古土壤",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "80",
+    "GCBZ": "0",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "板岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "80",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "硅化灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "80",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "白云大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "80",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "钙质结核",
+    "JGYTLM": "圆砾",
+    "YTYTLM": "圆砾",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "81",
+    "GCBZ": "0",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "千枚岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "81",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "81",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "石英片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "81",
+    "GCBZ": "3",
+    "KcYTLB": "有机土",
+    "KcYTMC": "腐殖土",
+    "JGYTLM": "淤泥",
+    "YTYTLM": "淤泥",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "82",
+    "GCBZ": "0",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "混合岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "82",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "绿泥片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "82",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "压碎岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "82",
+    "GCBZ": "3",
+    "KcYTLB": "填土",
+    "KcYTMC": "填筑土",
+    "JGYTLM": "填土",
+    "YTYTLM": "杂填土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "83",
+    "GCBZ": "0",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "糜棱岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "83",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "炭质片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "83",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "橄榄岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "83",
+    "GCBZ": "3",
+    "KcYTLB": "软土",
+    "KcYTMC": "淤泥质黏土",
+    "JGYTLM": "淤泥质土",
+    "YTYTLM": "淤泥质土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "84",
+    "GCBZ": "0",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "泥质粉砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "84",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "云母片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "84",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "蛇纹岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "84",
+    "GCBZ": "3",
+    "KcYTLB": "填土",
+    "KcYTMC": "杂填土",
+    "JGYTLM": "填土",
+    "YTYTLM": "杂填土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "85",
+    "GCBZ": "0",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "粉砂质泥岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "85",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "85",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "蛋白土",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "85",
+    "GCBZ": "3",
+    "KcYTLB": "填土",
+    "KcYTMC": "素填土",
+    "JGYTLM": "填土",
+    "YTYTLM": "素填土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "86",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "花岗岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "86",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "蛇纹岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "86",
+    "GCBZ": "2",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "石英岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "86",
+    "GCBZ": "3",
+    "KcYTLB": "软土",
+    "KcYTMC": "淤泥质亚黏土",
+    "JGYTLM": "淤泥质土",
+    "YTYTLM": "淤泥质土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "87",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "闪长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "87",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "角闪岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "87",
+    "GCBZ": "3",
+    "KcYTLB": "软土",
+    "KcYTMC": "淤泥质砂壤土",
+    "JGYTLM": "淤泥质土",
+    "YTYTLM": "淤泥质土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "88",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "辉长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "88",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "压碎岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "88",
+    "GCBZ": "3",
+    "KcYTLB": "混合土",
+    "KcYTMC": "混合土",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "89",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "玢岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "89",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "糜棱岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "89",
+    "GCBZ": "3",
+    "KcYTLB": "砂土",
+    "KcYTMC": "含细粒土砂",
+    "JGYTLM": "细砂",
+    "YTYTLM": "细砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "90",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "流纹岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "90",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "断层泥",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "90",
+    "GCBZ": "2",
+    "KcYTLB": "空洞",
+    "KcYTMC": "空洞",
+    "JGYTLM": "空洞",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "90",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "黏土夹砂",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "91",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "安山岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "91",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "断层角砾",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "91",
+    "GCBZ": "2",
+    "KcYTLB": "水",
+    "KcYTMC": "水",
+    "JGYTLM": "水",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "91",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "砂质黏土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "92",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "粗面岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "92",
+    "GCBZ": "1",
+    "KcYTLB": "岩石",
+    "KcYTMC": "粉砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "92",
+    "GCBZ": "2",
+    "KcYTLB": "油",
+    "KcYTMC": "油",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "92",
+    "GCBZ": "3",
+    "KcYTLB": "软土",
+    "KcYTMC": "淤泥质粉质黏土",
+    "JGYTLM": "淤泥质土",
+    "YTYTLM": "淤泥质土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "93",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "玄武岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "93",
+    "GCBZ": "1",
+    "KcYTLB": "空洞",
+    "KcYTMC": "土洞",
+    "JGYTLM": "空洞",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "93",
+    "GCBZ": "2",
+    "KcYTLB": "冰",
+    "KcYTMC": "冰",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "93",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "含砾粉质黏土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "94",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "火山角砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "94",
+    "GCBZ": "1",
+    "KcYTLB": "空洞",
+    "KcYTMC": "溶洞",
+    "JGYTLM": "空洞",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "94",
+    "GCBZ": "2",
+    "KcYTLB": "冰",
+    "KcYTMC": "冰层",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "94",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "卵砾质粉质黏土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "95",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "95",
+    "GCBZ": "2",
+    "KcYTLB": "冰",
+    "KcYTMC": "冰碛层",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "95",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "含碎石粉质黏土",
+    "JGYTLM": "淤泥质土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "96",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "角砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "96",
+    "GCBZ": "2",
+    "KcYTLB": "其他",
+    "KcYTMC": "其他",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "96",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "含泥质亚黏土",
+    "JGYTLM": "淤泥质土",
+    "YTYTLM": "淤泥质土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "97",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "97",
+    "GCBZ": "2",
+    "KcYTLB": "空洞",
+    "KcYTMC": "溶洞",
+    "JGYTLM": "空洞",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "97",
+    "GCBZ": "3",
+    "KcYTLB": "软土",
+    "KcYTMC": "淤泥质亚砂土",
+    "JGYTLM": "淤泥质土",
+    "YTYTLM": "淤泥质土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "98",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "石灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "98",
+    "GCBZ": "2",
+    "KcYTLB": "空洞",
+    "KcYTMC": "土洞",
+    "JGYTLM": "空洞",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "98",
+    "GCBZ": "3",
+    "KcYTLB": "粉土",
+    "KcYTMC": "含砾亚黏土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "99",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "白云岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "99",
+    "GCBZ": "3",
+    "KcYTLB": "粉土",
+    "KcYTMC": "轻亚黏土夹砂",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "100",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "片麻岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "100",
+    "GCBZ": "3",
+    "KcYTLB": "粉土",
+    "KcYTMC": "含砾轻亚黏土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "101",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "101",
+    "GCBZ": "3",
+    "KcYTLB": "砂土",
+    "KcYTMC": "淤泥质中粗砂",
+    "JGYTLM": "淤泥质土",
+    "YTYTLM": "淤泥质土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "102",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "石英岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "102",
+    "GCBZ": "3",
+    "KcYTLB": "粉土",
+    "KcYTMC": "卵石夹亚黏土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "103",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "中砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "103",
+    "GCBZ": "3",
+    "KcYTLB": "填土",
+    "KcYTMC": "耕植土",
+    "JGYTLM": "填土",
+    "YTYTLM": "素填土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "104",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "砂砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "104",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "坡积物",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "105",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "碎裂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "105",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "残积土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "106",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "粗砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "106",
+    "GCBZ": "3",
+    "KcYTLB": "有机土",
+    "KcYTMC": "泥炭层",
+    "JGYTLM": "淤泥",
+    "YTYTLM": "淤泥",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "107",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "粉砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "107",
+    "GCBZ": "3",
+    "KcYTLB": "有机土",
+    "KcYTMC": "泥炭土",
+    "JGYTLM": "淤泥",
+    "YTYTLM": "淤泥",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "108",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "硅化砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "108",
+    "GCBZ": "3",
+    "KcYTLB": "软土",
+    "KcYTMC": "含砂淤泥",
+    "JGYTLM": "淤泥",
+    "YTYTLM": "淤泥",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "109",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "硅化岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "109",
+    "GCBZ": "3",
+    "KcYTLB": "软土",
+    "KcYTMC": "砂混淤泥",
+    "JGYTLM": "淤泥",
+    "YTYTLM": "淤泥",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "110",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "花岗混合岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "110",
+    "GCBZ": "3",
+    "KcYTLB": "有机土",
+    "KcYTMC": "含泥炭质土",
+    "JGYTLM": "淤泥质土",
+    "YTYTLM": "淤泥质土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "111",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "花岗片麻岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "111",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "砂质黏土层",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "112",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "辉绿岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "112",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "块碎石夹亚黏土",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "113",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "块碎石夹黏土",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "114",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "浆砌卵石",
+    "JGYTLM": "卵石",
+    "YTYTLM": "卵石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "115",
+    "GCBZ": "3",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "浆砌石",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "116",
+    "GCBZ": "3",
+    "KcYTLB": "粉土",
+    "KcYTMC": "黏土质砂",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "117",
+    "GCBZ": "3",
+    "KcYTLB": "粉土",
+    "KcYTMC": "粉土夹砂",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "118",
+    "GCBZ": "3",
+    "KcYTLB": "冰",
+    "KcYTMC": "冰层",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "119",
+    "GCBZ": "3",
+    "KcYTLB": "黏土",
+    "KcYTMC": "砂壤土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "120",
+    "GCBZ": "0",
+    "KcYTLB": "空洞",
+    "KcYTMC": "空洞",
+    "JGYTLM": "空洞",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "120",
+    "GCBZ": "3",
+    "KcYTLB": "混合土",
+    "KcYTMC": "漂石混合土",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "121",
+    "GCBZ": "0",
+    "KcYTLB": "水",
+    "KcYTMC": "水",
+    "JGYTLM": "水",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "121",
+    "GCBZ": "3",
+    "KcYTLB": "混合土",
+    "KcYTMC": "卵石混合土",
+    "JGYTLM": "卵石",
+    "YTYTLM": "卵石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "122",
+    "GCBZ": "0",
+    "KcYTLB": "油",
+    "KcYTMC": "油",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "122",
+    "GCBZ": "3",
+    "KcYTLB": "软土",
+    "KcYTMC": "淤泥质粉土",
+    "JGYTLM": "淤泥质土",
+    "YTYTLM": "淤泥质土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "123",
+    "GCBZ": "0",
+    "KcYTLB": "冰",
+    "KcYTMC": "冰",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "123",
+    "GCBZ": "3",
+    "KcYTLB": "黄土",
+    "KcYTMC": "黄土状亚黏土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "124",
+    "GCBZ": "0",
+    "KcYTLB": "其他",
+    "KcYTMC": "其他",
+    "JGYTLM": "--",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "124",
+    "GCBZ": "3",
+    "KcYTLB": "黄土",
+    "KcYTMC": "黄土状轻亚黏土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "125",
+    "GCBZ": "0",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "稍密卵石",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "125",
+    "GCBZ": "3",
+    "KcYTLB": "粉土",
+    "KcYTMC": "砂质粉土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "126",
+    "GCBZ": "0",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "中密卵石",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "126",
+    "GCBZ": "3",
+    "KcYTLB": "粉土",
+    "KcYTMC": "黏质粉土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "127",
+    "GCBZ": "0",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "密实卵石",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "127",
+    "GCBZ": "3",
+    "KcYTLB": "粉土",
+    "KcYTMC": "粉土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "128",
+    "GCBZ": "0",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "疏松卵石",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "128",
+    "GCBZ": "3",
+    "KcYTLB": "粉土",
+    "KcYTMC": "亚黏土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "129",
+    "GCBZ": "0",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "泥质砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "129",
+    "GCBZ": "3",
+    "KcYTLB": "粉土",
+    "KcYTMC": "轻亚黏土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "130",
+    "GCBZ": "0",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "砂质泥岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "130",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "131",
+    "GCBZ": "0",
+    "KcYTLB": "填土",
+    "KcYTMC": "新近沉积",
+    "JGYTLM": "填土",
+    "YTYTLM": "杂填土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "131",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "角砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "132",
+    "GCBZ": "0",
+    "KcYTLB": "新填土",
+    "KcYTMC": "新填土",
+    "JGYTLM": "填土",
+    "YTYTLM": "杂填土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "132",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "砂砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "133",
+    "GCBZ": "0",
+    "KcYTLB": "中粗砂",
+    "KcYTMC": "砂性土",
+    "JGYTLM": "中砂",
+    "YTYTLM": "中砂",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "133",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "砂质砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "134",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "钙质砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "135",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "硅质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "135",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "硅质砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "136",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "胶结不良砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "137",
+    "GCBZ": "0",
+    "KcYTLB": "黏土",
+    "KcYTMC": "可塑红黏土",
+    "JGYTLM": "红粘土",
+    "YTYTLM": "红粘土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "137",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "138",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "泥质白云岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "138",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "粗砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "139",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "泥质石灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "139",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "140",
+    "GCBZ": "0",
+    "KcYTLB": "黏土",
+    "KcYTMC": "软塑红黏土",
+    "JGYTLM": "红粘土",
+    "YTYTLM": "红粘土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "140",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "细砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "141",
+    "GCBZ": "0",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "燧石灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "141",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "粉砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "142",
+    "GCBZ": "0",
+    "KcYTLB": "黏土",
+    "KcYTMC": "硬塑红黏土",
+    "JGYTLM": "红粘土",
+    "YTYTLM": "红粘土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "142",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "石英砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "143",
+    "GCBZ": "0",
+    "KcYTLB": "空洞",
+    "KcYTMC": "溶洞",
+    "JGYTLM": "空洞",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "143",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "硬砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "144",
+    "GCBZ": "0",
+    "KcYTLB": "空洞",
+    "KcYTMC": "土洞",
+    "JGYTLM": "空洞",
+    "YTYTLM": "--",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "144",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "铁质砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "145",
+    "GCBZ": "0",
+    "KcYTLB": "碎石土",
+    "KcYTMC": "钙质胶结",
+    "JGYTLM": "碎石",
+    "YTYTLM": "碎石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "145",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "长石砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "146",
+    "GCBZ": "0",
+    "KcYTLB": "软土",
+    "KcYTMC": "淤泥质粘土",
+    "JGYTLM": "淤泥质土",
+    "YTYTLM": "淤泥质土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "146",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "泥质粉砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "147",
+    "GCBZ": "0",
+    "KcYTLB": "软土",
+    "KcYTMC": "泥炭质粘土",
+    "JGYTLM": "淤泥质土",
+    "YTYTLM": "淤泥质土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "147",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "凝灰质粉砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "148",
+    "GCBZ": "0",
+    "KcYTLB": "软土",
+    "KcYTMC": "淤泥质粉质粘土",
+    "JGYTLM": "淤泥质土",
+    "YTYTLM": "淤泥质土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "148",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "钙质砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "149",
+    "GCBZ": "0",
+    "KcYTLB": "粘土",
+    "KcYTMC": "粘土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "149",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "含砾石英砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "150",
+    "GCBZ": "0",
+    "KcYTLB": "粘土",
+    "KcYTMC": "粉质粘土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "150",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "含砾砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "151",
+    "GCBZ": "0",
+    "KcYTLB": "粘土",
+    "KcYTMC": "重粉质粘土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "151",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "含角砾砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "152",
+    "GCBZ": "0",
+    "KcYTLB": "粘土",
+    "KcYTMC": "粘质土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "152",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "石英岩状砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "153",
+    "GCBZ": "0",
+    "KcYTLB": "粉土",
+    "KcYTMC": "粘质粉土",
+    "JGYTLM": "粉土",
+    "YTYTLM": "粉土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "153",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "泥质砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "154",
+    "GCBZ": "0",
+    "KcYTLB": "湿陷性黄土",
+    "KcYTMC": "黄土状粘土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "154",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "硬质岩石砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "155",
+    "GCBZ": "0",
+    "KcYTLB": "湿陷性黄土",
+    "KcYTMC": "黄土状粉质粘土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "155",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "黏土岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "156",
+    "GCBZ": "0",
+    "KcYTLB": "湿陷性黄土",
+    "KcYTMC": "湿陷性粘土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "156",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "泥页岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "157",
+    "GCBZ": "0",
+    "KcYTLB": "湿陷性黄土",
+    "KcYTMC": "湿陷性粉质粘土",
+    "JGYTLM": "湿陷性黄土",
+    "YTYTLM": "湿陷性黄土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "157",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "砂质黏土岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "158",
+    "GCBZ": "0",
+    "KcYTLB": "残积土",
+    "KcYTMC": "砾质粘性土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "158",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "硅质黏土岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "159",
+    "GCBZ": "0",
+    "KcYTLB": "残积土",
+    "KcYTMC": "砂质粘性土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "159",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "页岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "160",
+    "GCBZ": "0",
+    "KcYTLB": "残积土",
+    "KcYTMC": "粘性土",
+    "JGYTLM": "粘性土",
+    "YTYTLM": "粘性土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "160",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "铝土页岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "161",
+    "GCBZ": "0",
+    "KcYTLB": "红粘土",
+    "KcYTMC": "红粘土",
+    "JGYTLM": "红粘土",
+    "YTYTLM": "红粘土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "161",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "炭质页岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "162",
+    "GCBZ": "0",
+    "KcYTLB": "红粘土",
+    "KcYTMC": "次生红粘土",
+    "JGYTLM": "红粘土",
+    "YTYTLM": "红粘土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "162",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "油页岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "163",
+    "GCBZ": "0",
+    "KcYTLB": "粘土",
+    "KcYTMC": "可塑红粘土",
+    "JGYTLM": "红粘土",
+    "YTYTLM": "红粘土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "163",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "硅质页岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "164",
+    "GCBZ": "0",
+    "KcYTLB": "粘土",
+    "KcYTMC": "软塑红粘土",
+    "JGYTLM": "红粘土",
+    "YTYTLM": "红粘土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "164",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "凝灰质页岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "165",
+    "GCBZ": "0",
+    "KcYTLB": "粘土",
+    "KcYTMC": "硬塑红粘土",
+    "JGYTLM": "红粘土",
+    "YTYTLM": "红粘土",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "165",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "砂质页岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "166",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "粉砂质泥岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "167",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "泥岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "168",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "角页岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "169",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "石灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "170",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "171",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "含泥质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "172",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层含泥质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "173",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "薄层含泥质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "174",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "砂质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "175",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层砂质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "176",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "薄层砂质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "177",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "硅质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "178",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "中厚层硅质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "179",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "结晶灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "180",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层结晶灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "181",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "沥青质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "182",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层沥青质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "183",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "生物灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "184",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层生物灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "185",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "炭质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "186",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层炭质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "187",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "薄层炭质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "188",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "含圆藻硅质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "189",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "中厚层含圆藻硅质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "190",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "硅质结核灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "191",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "中厚层硅质结核灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "192",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "薄层硅质结核灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "193",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "含燧石结核灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "194",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "中厚层含燧石结核灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "195",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "薄层含燧石结核灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "196",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "硅质条带状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "197",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "中厚层硅质条带状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "198",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "竹叶状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "199",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层竹叶状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "200",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "瘤状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "201",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层瘤状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "202",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "鲕状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "203",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层鲕状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "204",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "碎屑状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "205",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层碎屑状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "206",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "角砾状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "207",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层角砾状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "208",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "砾状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "209",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层砾状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "210",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "页状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "211",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "豹皮状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "212",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层豹皮状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "213",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "214",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "中厚层灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "215",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "薄层灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "216",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "白云质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "217",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层白云质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "218",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "薄层白云质灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "219",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "泥灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "220",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层泥灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "221",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "薄层泥灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "222",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "砂质泥灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "223",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层砂质泥灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "224",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "薄层砂质泥灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "225",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "硅质泥灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "226",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层硅质泥灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "227",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "白云岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "228",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层白云岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "229",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "薄层白云岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "230",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "泥质白云岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "231",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层泥质白云岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "232",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "薄层泥质白云岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "233",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "硅质条带泥灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "234",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "灰质白云岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "235",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "含粉砂质白云岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "236",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "硅质白云岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "237",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "燧石条带",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "238",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "石灰华",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "239",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "磷块层",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "240",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "铝土层",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "241",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "锰矿层",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "242",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "黄铁矿",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "243",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "铁矿层",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "244",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "煤层",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "245",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "石膏层",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "246",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "岩盐",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "247",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "硅质岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "248",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "泥质条带灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "249",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "未区分的酸性侵入岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "250",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "花岗岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "251",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "花岗斑岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "252",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "黑云母花岗岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "253",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "二长花岗岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "254",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "二长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "255",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "钾长花岗岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "256",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "斜长花岗岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "257",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "白岗岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "258",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "花岗细晶岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "259",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "花岗伟晶岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "260",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "未区分酸性喷出岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "261",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "流纹岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "262",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "流纹斑岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "263",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "流纹凝灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "264",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "霏细岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "265",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "霏细斑岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "266",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "黑锰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "267",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "片麻状黑云母花岗岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "268",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "交代式花岗岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "269",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "未区分的中性侵入岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "270",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "闪长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "271",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "花岗闪长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "272",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "石英闪长斑岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "273",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "未区分中性喷出岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "274",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "安山岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "275",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "英安岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "276",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "安山凝灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "277",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "石英闪长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "278",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "英安流纹质角砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "279",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "角砾安山岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "280",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中性侵入岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "281",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "闪长岩脉",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "282",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "未区分的碱性侵入岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "283",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "霞石正长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "284",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "霞石正长斑岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "285",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "正长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "286",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "石英正长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "287",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "正长斑岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "288",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "未区分的碱性喷出岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "289",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "粗面岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "290",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "粗玄岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "291",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "粗面斑岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "292",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "响岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "293",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "碱性玄武岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "294",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "粗面集块岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "295",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "未区分的基性侵入岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "296",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "辉长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "297",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "苏长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "298",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "煌斑岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "299",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "蛇纹岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "300",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "辉绿岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "301",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "未区分基性喷出岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "302",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "玄武岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "303",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "辉斑玄武岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "304",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "凝灰玄武岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "305",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "安山玄武岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "306",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "细碧岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "307",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "玢岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "308",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "闪长玢岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "309",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "辉绿岩脉",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "310",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "未区分超基性侵入岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "311",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "纯橄榄岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "312",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "橄榄岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "313",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "角闪岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "314",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "辉岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "315",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "未区分超基性喷出岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "316",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "苦橄岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "317",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "斜长角闪岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "318",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "黑云角闪岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "319",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "黑云角闪斜长岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "320",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "集块熔岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "321",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "角砾熔岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "322",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "集块角砾熔岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "323",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "凝灰熔岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "324",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "熔集块岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "325",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "熔角砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "326",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "熔凝灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "327",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "熔角砾凝灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "328",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "熔结集块岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "329",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "熔结角砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "330",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "熔结凝灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "331",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "集块岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "332",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "火山角砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "333",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "凝灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "334",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "岩屑凝灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "335",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "沉集块岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "336",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "沉火山角砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "337",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "沉凝灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "338",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "含砾凝灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "339",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "熔岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "340",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "角砾晶屑玻屑熔结凝灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "341",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "晶屑熔结凝灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "342",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "玻屑熔结凝灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "343",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "晶屑玻屑熔结凝灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "344",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "角砾晶屑熔结凝灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "345",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "角砾玻屑熔结凝灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "346",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "混合岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "347",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "渗透状混合岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "348",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "斑点状混合岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "349",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "眼球状混合岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "350",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "香肠状混合岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "351",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "条纹状混合岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "352",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "条痕状混合岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "353",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "条带状混合岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "354",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "分枝状混合岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "355",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "网状混合岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "356",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "角砾状混合岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "357",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "雾迷状混合岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "358",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "混合花岗岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "359",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "角闪雾迷状混合岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "360",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "斜长角闪均质混合岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "361",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "条带状混合质二云片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "362",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "眼球状混合质黑云变粒岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "363",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "片麻岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "364",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "花岗片麻岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "365",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "黑云片麻岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "366",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "斜长片麻岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "367",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "二长片麻岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "368",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "黑云钾长片麻岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "369",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "角闪斜长片麻岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "370",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "二云钾长片麻岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "371",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "372",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "石英片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "373",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "角闪片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "374",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "云母片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "375",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "绢云片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "376",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "绿泥片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "377",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "蓝闪片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "378",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "滑石片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "379",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "石榴片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "380",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "角闪石英片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "381",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "斜长绿泥片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "382",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "角闪石榴云母片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "383",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "千枚岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "384",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "钙质千枚岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "385",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "石英千枚岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "386",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "绢云千枚岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "387",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "绿泥千枚岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "388",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "绢云绿泥千枚岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "389",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "板岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "390",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "钙质板岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "391",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "硅质板岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "392",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "砂质板岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "393",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "变质砂岩夹板岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "394",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "炭质板岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "395",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "板岩夹变质砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "396",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "绿泥板岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "397",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "凝灰质板岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "398",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "麻粒岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "399",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "辉石麻粒岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "400",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "紫苏麻粒岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "401",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "变粒岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "402",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "角闪变粒岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "403",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "黑云变粒岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "404",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "斜长角闪变粒岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "405",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "变流纹岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "406",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "变安山岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "407",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "变玄武岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "408",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "含砾泥质板岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "409",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "硅质泥质板岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "410",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "变质岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "411",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "黑云母斜长片麻岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "412",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "黑云母片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "413",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "角闪石片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "414",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "阳起石片岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "415",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "变质安山岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "416",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "石英绢云母千枚岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "417",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "石英脉",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "418",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "变质砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "419",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层变质砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "420",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "薄层变质砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "421",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "变质石英砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "422",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "中厚层变质石英砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "423",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "薄层变质石英砂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "424",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "石英岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "425",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "中厚层石英岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "426",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "薄层石英岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "427",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "长石石英岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "428",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "中厚层长石石英岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "429",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "薄层长石石英岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "430",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "中厚层大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "431",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "432",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "薄层大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "433",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "白云质大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "434",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "中厚层白云质大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "435",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "薄层白云质大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "436",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "白云石大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "437",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "中厚层白云石大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "438",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "薄层白云石大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "439",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "含石英大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "440",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "中厚层含石英大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "441",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "薄层含石英大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "442",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "蛇纹石大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "443",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中厚层蛇纹石大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "444",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "薄层蛇纹石大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "445",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "绿帘石大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "446",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "中厚层绿帘石大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "447",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "薄层绿帘石大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "448",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "石榴石辉石大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "449",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "中厚层石榴石辉石大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "450",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "薄层石榴石辉石大理岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "451",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "矽卡岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "452",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "透辉石矽卡岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "453",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "硅灰石矽卡岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "454",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "透辉石石榴石矽卡岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "455",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "内矽卡石",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "456",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "方柱石矽卡岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "457",
+    "GCBZ": "3",
+    "KcYTLB": "硬质岩石",
+    "KcYTMC": "方柱石石榴石矽卡岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "458",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "角岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "459",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "斑点角岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "460",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "石英角岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "461",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "绢云母角岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "462",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "矽线石角岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "463",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "堇青石角岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "464",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "红柱石黑云母角岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "465",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "蛇纹岩b",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "466",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "闪长质混染岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "467",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "断层泥",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "468",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "超糜棱岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "469",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "糜棱岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "470",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "千糜岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "471",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "断层角砾岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "472",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "构造片状岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "473",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "压碎岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "474",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "碎块岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "475",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "碎裂岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "476",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "玻状岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "477",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "豆状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "478",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "细粒鲕状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "479",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "中粒鲕状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "480",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "疮瘩状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "481",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "硅质结核灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "482",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "蝶状灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "483",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "苔藓灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "484",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "龟裂纹灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "485",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "炭质白云岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "486",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "鲕状白云岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "487",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "角砾状泥灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "488",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "疮瘩状泥灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "489",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "生物碎屑灰岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "490",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "断层影响带",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "491",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "角砾状白云岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "492",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "流纹集块岩",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "493",
+    "GCBZ": "3",
+    "KcYTLB": "软质岩石",
+    "KcYTMC": "断层破碎带",
+    "JGYTLM": "岩石",
+    "YTYTLM": "岩石",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "494",
+    "GCBZ": "3",
+    "KcYTLB": "岩溶",
+    "KcYTMC": "溶洞",
+    "JGYTLM": "",
+    "YTYTLM": "",
+    "table": "g_TuMingChange"
+  },
+  {
+    "XH": "495",
+    "GCBZ": "3",
+    "KcYTLB": "水",
+    "KcYTMC": "水",
+    "JGYTLM": "",
+    "YTYTLM": "",
+    "table": "g_TuMingChange"
+  }
+]

@@ -1,0 +1,5322 @@
+[
+  {
+    "MBTable": "t_BoPian",
+    "FIELD": "BGBH",
+    "ROW": "7",
+    "COL": "12",
+    "ROWSJ": "7",
+    "COLSJ": "12",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_BoPian",
+    "FIELD": "BGRQ",
+    "ROW": "10",
+    "COL": "12",
+    "ROWSJ": "10",
+    "COLSJ": "12",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_BoPian",
+    "FIELD": "QYBH",
+    "ROW": "9",
+    "COL": "12",
+    "ROWSJ": "9",
+    "COLSJ": "12",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_BoPian",
+    "FIELD": "QYSD",
+    "ROW": "10",
+    "COL": "3",
+    "ROWSJ": "10",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_BoPian",
+    "FIELD": "SGBW",
+    "ROW": "7",
+    "COL": "3",
+    "ROWSJ": "7",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_BoPian",
+    "FIELD": "WTBH",
+    "ROW": "8",
+    "COL": "12",
+    "ROWSJ": "8",
+    "COLSJ": "12",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_BoPian",
+    "FIELD": "YSCD",
+    "ROW": "9",
+    "COL": "3",
+    "ROWSJ": "9",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_BoPian",
+    "FIELD": "YSMC",
+    "ROW": "8",
+    "COL": "3",
+    "ROWSJ": "8",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "ANGLZHLCB",
+    "ROW": "16",
+    "COL": "2",
+    "ROWSJ": "16",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "ANGLZHLPB",
+    "ROW": "16",
+    "COL": "3",
+    "ROWSJ": "16",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "GLZHLCB",
+    "ROW": "14",
+    "COL": "2",
+    "ROWSJ": "14",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "GLZHLPB",
+    "ROW": "14",
+    "COL": "3",
+    "ROWSJ": "14",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "LSGHLCB",
+    "ROW": "14",
+    "COL": "5",
+    "ROWSJ": "14",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "LSGHLPB",
+    "ROW": "14",
+    "COL": "6",
+    "ROWSJ": "14",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "MLZHLCB",
+    "ROW": "15",
+    "COL": "2",
+    "ROWSJ": "15",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "MLZHLPB",
+    "ROW": "15",
+    "COL": "3",
+    "ROWSJ": "15",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "NJLZHLCB",
+    "ROW": "13",
+    "COL": "2",
+    "ROWSJ": "13",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "NJLZHLPB",
+    "ROW": "13",
+    "COL": "3",
+    "ROWSJ": "13",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "PH",
+    "ROW": "10",
+    "COL": "8",
+    "ROWSJ": "10",
+    "COLSJ": "8",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYBH",
+    "ROW": "6",
+    "COL": "7",
+    "ROWSJ": "6",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYCLCB",
+    "ROW": "13",
+    "COL": "5",
+    "ROWSJ": "13",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYCLPB",
+    "ROW": "13",
+    "COL": "6",
+    "ROWSJ": "13",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYDS",
+    "ROW": "21",
+    "COL": "8",
+    "ROWSJ": "21",
+    "COLSJ": "8",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYGCB",
+    "ROW": "17",
+    "COL": "5",
+    "ROWSJ": "17",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYGMLZZHCB",
+    "ROW": "13",
+    "COL": "8",
+    "ROWSJ": "13",
+    "COLSJ": "8",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYGMLZZHPB",
+    "ROW": "13",
+    "COL": "9",
+    "ROWSJ": "13",
+    "COLSJ": "9",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYGMLZZHSCB",
+    "ROW": "15",
+    "COL": "8",
+    "ROWSJ": "15",
+    "COLSJ": "8",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYGMLZZHSPB",
+    "ROW": "15",
+    "COL": "9",
+    "ROWSJ": "15",
+    "COLSJ": "9",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYGMLZZHTCB",
+    "ROW": "14",
+    "COL": "8",
+    "ROWSJ": "14",
+    "COLSJ": "8",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYGMLZZHTPB",
+    "ROW": "14",
+    "COL": "9",
+    "ROWSJ": "14",
+    "COLSJ": "9",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYGPB",
+    "ROW": "17",
+    "COL": "6",
+    "ROWSJ": "17",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYIZACB",
+    "ROW": "19",
+    "COL": "2",
+    "ROWSJ": "19",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYIZAPB",
+    "ROW": "19",
+    "COL": "3",
+    "ROWSJ": "19",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYIZBCB",
+    "ROW": "19",
+    "COL": "5",
+    "ROWSJ": "19",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYIZBPB",
+    "ROW": "19",
+    "COL": "6",
+    "ROWSJ": "19",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYIZNCB",
+    "ROW": "20",
+    "COL": "5",
+    "ROWSJ": "20",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYIZNPB",
+    "ROW": "20",
+    "COL": "6",
+    "ROWSJ": "20",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYIZPCB",
+    "ROW": "20",
+    "COL": "2",
+    "ROWSJ": "20",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYIZPNCB",
+    "ROW": "21",
+    "COL": "2",
+    "ROWSJ": "21",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYIZPNPB",
+    "ROW": "21",
+    "COL": "3",
+    "ROWSJ": "21",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYIZPPB",
+    "ROW": "20",
+    "COL": "3",
+    "ROWSJ": "20",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYNJHLZHNCB",
+    "ROW": "16",
+    "COL": "8",
+    "ROWSJ": "16",
+    "COLSJ": "8",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYNJHLZHNPB",
+    "ROW": "16",
+    "COL": "9",
+    "ROWSJ": "16",
+    "COLSJ": "9",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYQSEYHTHL",
+    "ROW": "20",
+    "COL": "8",
+    "ROWSJ": "20",
+    "COLSJ": "8",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYQSSDCB",
+    "ROW": "18",
+    "COL": "2",
+    "ROWSJ": "18",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYQSSDPB",
+    "ROW": "18",
+    "COL": "3",
+    "ROWSJ": "18",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYSD",
+    "ROW": "7",
+    "COL": "2",
+    "ROWSJ": "7",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYSSD",
+    "ROW": "9",
+    "COL": "2",
+    "ROWSJ": "9",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYTCIZPCB",
+    "ROW": "21",
+    "COL": "5",
+    "ROWSJ": "21",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYTCIZPPB",
+    "ROW": "21",
+    "COL": "6",
+    "ROWSJ": "21",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYXFW",
+    "ROW": "9",
+    "COL": "8",
+    "ROWSJ": "9",
+    "COLSJ": "8",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYXIU",
+    "ROW": "10",
+    "COL": "2",
+    "ROWSJ": "10",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYXSGCB",
+    "ROW": "18",
+    "COL": "5",
+    "ROWSJ": "18",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYXSGPB",
+    "ROW": "18",
+    "COL": "6",
+    "ROWSJ": "18",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYYLEYHTHL",
+    "ROW": "19",
+    "COL": "8",
+    "ROWSJ": "19",
+    "COLSJ": "8",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYZD",
+    "ROW": "10",
+    "COL": "5",
+    "ROWSJ": "10",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYZSDCB",
+    "ROW": "17",
+    "COL": "2",
+    "ROWSJ": "17",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "QYZSDPB",
+    "ROW": "17",
+    "COL": "3",
+    "ROWSJ": "17",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "TSGCB",
+    "ROW": "16",
+    "COL": "5",
+    "ROWSJ": "16",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "TSGPB",
+    "ROW": "16",
+    "COL": "6",
+    "ROWSJ": "16",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "TSHGCB",
+    "ROW": "15",
+    "COL": "5",
+    "ROWSJ": "15",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "TSHGPB",
+    "ROW": "15",
+    "COL": "6",
+    "ROWSJ": "15",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiJianFX",
+    "FIELD": "WEI",
+    "ROW": "9",
+    "COL": "5",
+    "ROWSJ": "9",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "ACSA",
+    "ROW": "14",
+    "COL": "7",
+    "ROWSJ": "14",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "AG",
+    "ROW": "20",
+    "COL": "5",
+    "ROWSJ": "20",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "AS_",
+    "ROW": "22",
+    "COL": "5",
+    "ROWSJ": "22",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "CA",
+    "ROW": "15",
+    "COL": "2",
+    "ROWSJ": "15",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "CD",
+    "ROW": "18",
+    "COL": "5",
+    "ROWSJ": "18",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "CL",
+    "ROW": "23",
+    "COL": "2",
+    "ROWSJ": "23",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "CL_",
+    "ROW": "23",
+    "COL": "3",
+    "ROWSJ": "23",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "CN",
+    "ROW": "18",
+    "COL": "7",
+    "ROWSJ": "18",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "CODCR",
+    "ROW": "16",
+    "COL": "7",
+    "ROWSJ": "16",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "CODMN",
+    "ROW": "15",
+    "COL": "7",
+    "ROWSJ": "15",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "CR",
+    "ROW": "17",
+    "COL": "5",
+    "ROWSJ": "17",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "CU",
+    "ROW": "15",
+    "COL": "5",
+    "ROWSJ": "15",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "DS",
+    "ROW": "20",
+    "COL": "7",
+    "ROWSJ": "20",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "FE",
+    "ROW": "13",
+    "COL": "5",
+    "ROWSJ": "13",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "FU",
+    "ROW": "19",
+    "COL": "7",
+    "ROWSJ": "19",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "GLZHLPB",
+    "ROW": "15",
+    "COL": "3",
+    "ROWSJ": "15",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "HCO3",
+    "ROW": "22",
+    "COL": "2",
+    "ROWSJ": "22",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "HFF",
+    "ROW": "13",
+    "COL": "7",
+    "ROWSJ": "13",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "HG",
+    "ROW": "21",
+    "COL": "5",
+    "ROWSJ": "21",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "MG",
+    "ROW": "16",
+    "COL": "2",
+    "ROWSJ": "16",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "MLZHLPB",
+    "ROW": "16",
+    "COL": "3",
+    "ROWSJ": "16",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "MN",
+    "ROW": "14",
+    "COL": "5",
+    "ROWSJ": "14",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "NAK",
+    "ROW": "14",
+    "COL": "2",
+    "ROWSJ": "14",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "NH4",
+    "ROW": "25",
+    "COL": "5",
+    "ROWSJ": "25",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "NO2",
+    "ROW": "27",
+    "COL": "5",
+    "ROWSJ": "27",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "NO3",
+    "ROW": "26",
+    "COL": "5",
+    "ROWSJ": "26",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "PB",
+    "ROW": "19",
+    "COL": "5",
+    "ROWSJ": "19",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "PH",
+    "ROW": "10",
+    "COL": "7",
+    "ROWSJ": "10",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "QYBH",
+    "ROW": "6",
+    "COL": "6",
+    "ROWSJ": "6",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "QYD_",
+    "ROW": "13",
+    "COL": "3",
+    "ROWSJ": "13",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "QYGCB",
+    "ROW": "20",
+    "COL": "2",
+    "ROWSJ": "20",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "QYGMLZZHCB",
+    "ROW": "13",
+    "COL": "2",
+    "ROWSJ": "13",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "QYGPB",
+    "ROW": "20",
+    "COL": "3",
+    "ROWSJ": "20",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "QYIZB",
+    "ROW": "19",
+    "COL": "2",
+    "ROWSJ": "19",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "QYIZBPB",
+    "ROW": "19",
+    "COL": "3",
+    "ROWSJ": "19",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "QYNJHLZHNPB",
+    "ROW": "14",
+    "COL": "3",
+    "ROWSJ": "14",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "QYSD",
+    "ROW": "7",
+    "COL": "2",
+    "ROWSJ": "7",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "QYSSD",
+    "ROW": "9",
+    "COL": "2",
+    "ROWSJ": "9",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "QYZD",
+    "ROW": "10",
+    "COL": "5",
+    "ROWSJ": "10",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "SE",
+    "ROW": "23",
+    "COL": "5",
+    "ROWSJ": "23",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "SO4",
+    "ROW": "24",
+    "COL": "2",
+    "ROWSJ": "24",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "SO4_",
+    "ROW": "24",
+    "COL": "3",
+    "ROWSJ": "24",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "TR",
+    "ROW": "17",
+    "COL": "7",
+    "ROWSJ": "17",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "TSGCB",
+    "ROW": "21",
+    "COL": "2",
+    "ROWSJ": "21",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "TSGPB",
+    "ROW": "21",
+    "COL": "3",
+    "ROWSJ": "21",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "TSHGPB",
+    "ROW": "22",
+    "COL": "3",
+    "ROWSJ": "22",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "WEI",
+    "ROW": "9",
+    "COL": "5",
+    "ROWSJ": "9",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "XFW",
+    "ROW": "9",
+    "COL": "7",
+    "ROWSJ": "9",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "XIU",
+    "ROW": "10",
+    "COL": "2",
+    "ROWSJ": "10",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "t_ShuiZhiQuanFX",
+    "FIELD": "ZN",
+    "ROW": "16",
+    "COL": "5",
+    "ROWSJ": "16",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "z_ZuanKong",
+    "FIELD": "QSSD",
+    "ROW": "5",
+    "COL": "4",
+    "ROWSJ": "5",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "z_ZuanKong",
+    "FIELD": "QYRQ",
+    "ROW": "5",
+    "COL": "12",
+    "ROWSJ": "5",
+    "COLSJ": "12",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "z_ZuanKong",
+    "FIELD": "XCDM",
+    "ROW": "3",
+    "COL": "12",
+    "ROWSJ": "3",
+    "COLSJ": "12",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "z_ZuanKong",
+    "FIELD": "ZJCYMCJ",
+    "ROW": "36",
+    "COL": "11",
+    "ROWSJ": "36",
+    "COLSJ": "11",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "z_ZuanKong",
+    "FIELD": "ZJMCJ",
+    "ROW": "36",
+    "COL": "9",
+    "ROWSJ": "36",
+    "COLSJ": "9",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "z_ZuanKong",
+    "FIELD": "ZJNJL",
+    "ROW": "36",
+    "COL": "7",
+    "ROWSJ": "36",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "z_ZuanKong",
+    "FIELD": "ZJSYBZ",
+    "ROW": "6",
+    "COL": "2",
+    "ROWSJ": "6",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "z_ZuanKong",
+    "FIELD": "ZJXMMC",
+    "ROW": "2",
+    "COL": "4",
+    "ROWSJ": "2",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "z_ZuanKong",
+    "FIELD": "ZKBH",
+    "ROW": "4",
+    "COL": "4",
+    "ROWSJ": "4",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "z_ZuanKong",
+    "FIELD": "ZKGCMC",
+    "ROW": "2",
+    "COL": "12",
+    "ROWSJ": "2",
+    "COLSJ": "12",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "z_ZuanKong",
+    "FIELD": "ZKSZFF",
+    "ROW": "4",
+    "COL": "12",
+    "ROWSJ": "4",
+    "COLSJ": "12",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "z_ZuanKong",
+    "FIELD": "ZKWZ",
+    "ROW": "3",
+    "COL": "4",
+    "ROWSJ": "3",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "---",
+    "ROW": "9",
+    "COL": "23",
+    "ROWSJ": "9",
+    "COLSJ": "23",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "---",
+    "ROW": "9",
+    "COL": "24",
+    "ROWSJ": "9",
+    "COLSJ": "24",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "%",
+    "ROW": "9",
+    "COL": "3",
+    "ROWSJ": "9",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "%",
+    "ROW": "9",
+    "COL": "4",
+    "ROWSJ": "9",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "%",
+    "ROW": "9",
+    "COL": "5",
+    "ROWSJ": "9",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "%",
+    "ROW": "9",
+    "COL": "6",
+    "ROWSJ": "9",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "%",
+    "ROW": "9",
+    "COL": "7",
+    "ROWSJ": "9",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "%",
+    "ROW": "9",
+    "COL": "8",
+    "ROWSJ": "9",
+    "COLSJ": "8",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "%",
+    "ROW": "9",
+    "COL": "9",
+    "ROWSJ": "9",
+    "COLSJ": "9",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "%",
+    "ROW": "9",
+    "COL": "10",
+    "ROWSJ": "9",
+    "COLSJ": "10",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "%",
+    "ROW": "9",
+    "COL": "11",
+    "ROWSJ": "9",
+    "COLSJ": "11",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "%",
+    "ROW": "9",
+    "COL": "12",
+    "ROWSJ": "9",
+    "COLSJ": "12",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "%",
+    "ROW": "9",
+    "COL": "13",
+    "ROWSJ": "9",
+    "COLSJ": "13",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "%",
+    "ROW": "9",
+    "COL": "17",
+    "ROWSJ": "9",
+    "COLSJ": "17",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "%",
+    "ROW": "9",
+    "COL": "18",
+    "ROWSJ": "9",
+    "COLSJ": "18",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "%",
+    "ROW": "9",
+    "COL": "19",
+    "ROWSJ": "9",
+    "COLSJ": "19",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "%",
+    "ROW": "9",
+    "COL": "20",
+    "ROWSJ": "9",
+    "COLSJ": "20",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "%",
+    "ROW": "9",
+    "COL": "21",
+    "ROWSJ": "9",
+    "COLSJ": "21",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "(m)",
+    "ROW": "9",
+    "COL": "2",
+    "ROWSJ": "9",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "<0.005",
+    "ROW": "8",
+    "COL": "11",
+    "ROWSJ": "8",
+    "COLSJ": "11",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "<0.075",
+    "ROW": "8",
+    "COL": "9",
+    "ROWSJ": "8",
+    "COLSJ": "9",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": ">60",
+    "ROW": "8",
+    "COL": "3",
+    "ROWSJ": "8",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "0.075\n～\n0.005",
+    "ROW": "8",
+    "COL": "10",
+    "ROWSJ": "8",
+    "COLSJ": "10",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "0.25\n～\n0.075",
+    "ROW": "8",
+    "COL": "8",
+    "ROWSJ": "8",
+    "COLSJ": "8",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "0.5\n～\n0.25",
+    "ROW": "8",
+    "COL": "7",
+    "ROWSJ": "8",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "2\n～\n0.5",
+    "ROW": "8",
+    "COL": "6",
+    "ROWSJ": "8",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "20\n～\n2",
+    "ROW": "8",
+    "COL": "5",
+    "ROWSJ": "8",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "60\n～\n20",
+    "ROW": "8",
+    "COL": "4",
+    "ROWSJ": "8",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "g/cm3",
+    "ROW": "9",
+    "COL": "14",
+    "ROWSJ": "9",
+    "COLSJ": "14",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "g/cm3",
+    "ROW": "9",
+    "COL": "15",
+    "ROWSJ": "9",
+    "COLSJ": "15",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "g/cm3",
+    "ROW": "9",
+    "COL": "16",
+    "ROWSJ": "9",
+    "COLSJ": "16",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "MPa-1",
+    "ROW": "9",
+    "COL": "22",
+    "ROWSJ": "9",
+    "COLSJ": "22",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "冻  土  试  验  报  告",
+    "ROW": "1",
+    "COL": "1",
+    "ROWSJ": "1",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "冻土干密度",
+    "ROW": "6",
+    "COL": "16",
+    "ROWSJ": "6",
+    "COLSJ": "16",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "颗粒尺寸（㎜）",
+    "ROW": "7",
+    "COL": "3",
+    "ROWSJ": "7",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "颗粒分析",
+    "ROW": "6",
+    "COL": "3",
+    "ROWSJ": "6",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "颗粒密度",
+    "ROW": "6",
+    "COL": "14",
+    "ROWSJ": "6",
+    "COLSJ": "14",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "取样深度",
+    "ROW": "6",
+    "COL": "2",
+    "ROWSJ": "6",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "融化下沉系数",
+    "ROW": "7",
+    "COL": "21",
+    "ROWSJ": "7",
+    "COLSJ": "21",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "融化压缩",
+    "ROW": "6",
+    "COL": "21",
+    "ROWSJ": "6",
+    "COLSJ": "21",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "水的相成分",
+    "ROW": "6",
+    "COL": "19",
+    "ROWSJ": "6",
+    "COLSJ": "19",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "塑限",
+    "ROW": "6",
+    "COL": "18",
+    "ROWSJ": "6",
+    "COLSJ": "18",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "特殊项目1",
+    "ROW": "6",
+    "COL": "23",
+    "ROWSJ": "6",
+    "COLSJ": "23",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "特殊项目2",
+    "ROW": "6",
+    "COL": "24",
+    "ROWSJ": "6",
+    "COLSJ": "24",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "体积含冰率",
+    "ROW": "6",
+    "COL": "13",
+    "ROWSJ": "6",
+    "COLSJ": "13",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "天然密度",
+    "ROW": "6",
+    "COL": "15",
+    "ROWSJ": "6",
+    "COLSJ": "15",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "未冻含水率",
+    "ROW": "7",
+    "COL": "19",
+    "ROWSJ": "7",
+    "COLSJ": "19",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "相对含冰率",
+    "ROW": "7",
+    "COL": "20",
+    "ROWSJ": "7",
+    "COLSJ": "20",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "压缩系数",
+    "ROW": "7",
+    "COL": "22",
+    "ROWSJ": "7",
+    "COLSJ": "22",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "样品编号",
+    "ROW": "6",
+    "COL": "1",
+    "ROWSJ": "6",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "液限",
+    "ROW": "6",
+    "COL": "17",
+    "ROWSJ": "6",
+    "COLSJ": "17",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "冻土试验",
+    "FIELD": "总含水率",
+    "ROW": "6",
+    "COL": "12",
+    "ROWSJ": "6",
+    "COLSJ": "12",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "膨胀性分析",
+    "FIELD": "（m）",
+    "ROW": "8",
+    "COL": "4",
+    "ROWSJ": "8",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "膨胀性分析",
+    "FIELD": "CEC（NH4+）  [mmol/kg]",
+    "ROW": "8",
+    "COL": "6",
+    "ROWSJ": "8",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "膨胀性分析",
+    "FIELD": "Fs（%）",
+    "ROW": "8",
+    "COL": "5",
+    "ROWSJ": "8",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "膨胀性分析",
+    "FIELD": "M  （%）",
+    "ROW": "8",
+    "COL": "7",
+    "ROWSJ": "8",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "膨胀性分析",
+    "FIELD": "及     里     程",
+    "ROW": "8",
+    "COL": "3",
+    "ROWSJ": "8",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "膨胀性分析",
+    "FIELD": "蒙脱石含量",
+    "ROW": "7",
+    "COL": "7",
+    "ROWSJ": "7",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "膨胀性分析",
+    "FIELD": "取 样 地 点",
+    "ROW": "7",
+    "COL": "3",
+    "ROWSJ": "7",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "膨胀性分析",
+    "FIELD": "取样深度",
+    "ROW": "7",
+    "COL": "4",
+    "ROWSJ": "7",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "膨胀性分析",
+    "FIELD": "试验编号",
+    "ROW": "7",
+    "COL": "1",
+    "ROWSJ": "7",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "膨胀性分析",
+    "FIELD": "委托编号",
+    "ROW": "7",
+    "COL": "2",
+    "ROWSJ": "7",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "膨胀性分析",
+    "FIELD": "阳   离   子     交   换   量",
+    "ROW": "7",
+    "COL": "6",
+    "ROWSJ": "7",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "膨胀性分析",
+    "FIELD": "自由膨胀率",
+    "ROW": "7",
+    "COL": "5",
+    "ROWSJ": "7",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "(1/zAz+)",
+    "ROW": "19",
+    "COL": "1",
+    "ROWSJ": "19",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "(1/zBz-)",
+    "ROW": "19",
+    "COL": "4",
+    "ROWSJ": "19",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "(Ca2++Mg2+)",
+    "ROW": "13",
+    "COL": "7",
+    "ROWSJ": "13",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "(Ca2++Mg2+)s",
+    "ROW": "15",
+    "COL": "7",
+    "ROWSJ": "15",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "(Ca2++Mg2+)t",
+    "ROW": "14",
+    "COL": "7",
+    "ROWSJ": "14",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "(mg/L)",
+    "ROW": "12",
+    "COL": "3",
+    "ROWSJ": "12",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "(mg/L)",
+    "ROW": "12",
+    "COL": "6",
+    "ROWSJ": "12",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "(mg/L)",
+    "ROW": "12",
+    "COL": "9",
+    "ROWSJ": "12",
+    "COLSJ": "9",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "(mg/L)",
+    "ROW": "18",
+    "COL": "8",
+    "ROWSJ": "18",
+    "COLSJ": "8",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "(mmol/L)",
+    "ROW": "12",
+    "COL": "2",
+    "ROWSJ": "12",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "(mmol/L)",
+    "ROW": "12",
+    "COL": "5",
+    "ROWSJ": "12",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "(mmol/L)",
+    "ROW": "12",
+    "COL": "8",
+    "ROWSJ": "12",
+    "COLSJ": "8",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "(Na++K+)n",
+    "ROW": "16",
+    "COL": "7",
+    "ROWSJ": "16",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "+1/zNz-)",
+    "ROW": "22",
+    "COL": "1",
+    "ROWSJ": "22",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "∑(1/zNz-)",
+    "ROW": "20",
+    "COL": "4",
+    "ROWSJ": "20",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "∑(1/zPz+)",
+    "ROW": "20",
+    "COL": "1",
+    "ROWSJ": "20",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "∑c(1/zPz+",
+    "ROW": "21",
+    "COL": "1",
+    "ROWSJ": "21",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "B",
+    "ROW": "12",
+    "COL": "1",
+    "ROWSJ": "12",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "B",
+    "ROW": "12",
+    "COL": "4",
+    "ROWSJ": "12",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "B",
+    "ROW": "12",
+    "COL": "7",
+    "ROWSJ": "12",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "Ca2+",
+    "ROW": "14",
+    "COL": "1",
+    "ROWSJ": "14",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "cB",
+    "ROW": "11",
+    "COL": "2",
+    "ROWSJ": "11",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "cB",
+    "ROW": "11",
+    "COL": "5",
+    "ROWSJ": "11",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "cB",
+    "ROW": "11",
+    "COL": "8",
+    "ROWSJ": "11",
+    "COLSJ": "8",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "Cl-",
+    "ROW": "13",
+    "COL": "4",
+    "ROWSJ": "13",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "CO32-",
+    "ROW": "16",
+    "COL": "4",
+    "ROWSJ": "16",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "DS",
+    "ROW": "21",
+    "COL": "7",
+    "ROWSJ": "21",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "HCO3-",
+    "ROW": "15",
+    "COL": "4",
+    "ROWSJ": "15",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "Mg2+",
+    "ROW": "15",
+    "COL": "1",
+    "ROWSJ": "15",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "Na++K+",
+    "ROW": "13",
+    "COL": "1",
+    "ROWSJ": "13",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "NH4+",
+    "ROW": "16",
+    "COL": "1",
+    "ROWSJ": "16",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "NO3-",
+    "ROW": "18",
+    "COL": "4",
+    "ROWSJ": "18",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "OH-",
+    "ROW": "17",
+    "COL": "4",
+    "ROWSJ": "17",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "pH",
+    "ROW": "10",
+    "COL": "7",
+    "ROWSJ": "10",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "SO42-",
+    "ROW": "14",
+    "COL": "4",
+    "ROWSJ": "14",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "Tc(1/zPz+)",
+    "ROW": "21",
+    "COL": "4",
+    "ROWSJ": "21",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "ρ(CaCO3)",
+    "ROW": "11",
+    "COL": "9",
+    "ROWSJ": "11",
+    "COLSJ": "9",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "ρb",
+    "ROW": "11",
+    "COL": "3",
+    "ROWSJ": "11",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "ρb",
+    "ROW": "11",
+    "COL": "6",
+    "ROWSJ": "11",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "含量",
+    "ROW": "17",
+    "COL": "8",
+    "ROWSJ": "17",
+    "COLSJ": "8",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "基本单元",
+    "ROW": "11",
+    "COL": "1",
+    "ROWSJ": "11",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "基本单元",
+    "ROW": "11",
+    "COL": "4",
+    "ROWSJ": "11",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "基本单元",
+    "ROW": "11",
+    "COL": "7",
+    "ROWSJ": "11",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "强酸酸度",
+    "ROW": "18",
+    "COL": "1",
+    "ROWSJ": "18",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "侵蚀CO2",
+    "ROW": "20",
+    "COL": "7",
+    "ROWSJ": "20",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "色，色度",
+    "ROW": "9",
+    "COL": "1",
+    "ROWSJ": "9",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "水质分析报告（一）",
+    "ROW": "1",
+    "COL": "1",
+    "ROWSJ": "1",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "味",
+    "ROW": "9",
+    "COL": "4",
+    "ROWSJ": "9",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "项目名称",
+    "ROW": "17",
+    "COL": "7",
+    "ROWSJ": "17",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "嗅",
+    "ROW": "10",
+    "COL": "1",
+    "ROWSJ": "10",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "悬浮物",
+    "ROW": "9",
+    "COL": "7",
+    "ROWSJ": "9",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "游离CO2",
+    "ROW": "19",
+    "COL": "7",
+    "ROWSJ": "19",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "浊度",
+    "ROW": "10",
+    "COL": "4",
+    "ROWSJ": "10",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质简分析",
+    "FIELD": "总酸度",
+    "ROW": "17",
+    "COL": "1",
+    "ROWSJ": "17",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "(1/ZBZ-)",
+    "ROW": "19",
+    "COL": "1",
+    "ROWSJ": "19",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "(Ca2++Mg2+)",
+    "ROW": "13",
+    "COL": "1",
+    "ROWSJ": "13",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "(mg.L-1)",
+    "ROW": "12",
+    "COL": "3",
+    "ROWSJ": "12",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "(mg.L-1)",
+    "ROW": "12",
+    "COL": "5",
+    "ROWSJ": "12",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "(mg.L-1)",
+    "ROW": "12",
+    "COL": "7",
+    "ROWSJ": "12",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "（mmol.L-1)",
+    "ROW": "12",
+    "COL": "2",
+    "ROWSJ": "12",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "ACSA",
+    "ROW": "14",
+    "COL": "6",
+    "ROWSJ": "14",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "Ag",
+    "ROW": "20",
+    "COL": "4",
+    "ROWSJ": "20",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "As",
+    "ROW": "22",
+    "COL": "4",
+    "ROWSJ": "22",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "B",
+    "ROW": "12",
+    "COL": "1",
+    "ROWSJ": "12",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "Ca2+",
+    "ROW": "15",
+    "COL": "1",
+    "ROWSJ": "15",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "cB",
+    "ROW": "11",
+    "COL": "2",
+    "ROWSJ": "11",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "Cd",
+    "ROW": "18",
+    "COL": "4",
+    "ROWSJ": "18",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "Cl-",
+    "ROW": "23",
+    "COL": "1",
+    "ROWSJ": "23",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "CN-",
+    "ROW": "18",
+    "COL": "6",
+    "ROWSJ": "18",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "CO32-",
+    "ROW": "21",
+    "COL": "1",
+    "ROWSJ": "21",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "CODCr",
+    "ROW": "16",
+    "COL": "6",
+    "ROWSJ": "16",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "CODMn",
+    "ROW": "15",
+    "COL": "6",
+    "ROWSJ": "15",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "Cr",
+    "ROW": "17",
+    "COL": "4",
+    "ROWSJ": "17",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "Cu",
+    "ROW": "15",
+    "COL": "4",
+    "ROWSJ": "15",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "Ds",
+    "ROW": "20",
+    "COL": "6",
+    "ROWSJ": "20",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "F-",
+    "ROW": "19",
+    "COL": "6",
+    "ROWSJ": "19",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "Fe",
+    "ROW": "13",
+    "COL": "4",
+    "ROWSJ": "13",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "HCO3-",
+    "ROW": "22",
+    "COL": "1",
+    "ROWSJ": "22",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "Hg",
+    "ROW": "21",
+    "COL": "4",
+    "ROWSJ": "21",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "Mg2+",
+    "ROW": "16",
+    "COL": "1",
+    "ROWSJ": "16",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "Mn",
+    "ROW": "14",
+    "COL": "4",
+    "ROWSJ": "14",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "Na++K+",
+    "ROW": "14",
+    "COL": "1",
+    "ROWSJ": "14",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "NH4+—N",
+    "ROW": "25",
+    "COL": "4",
+    "ROWSJ": "25",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "NO2-—N",
+    "ROW": "27",
+    "COL": "4",
+    "ROWSJ": "27",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "NO3-—N",
+    "ROW": "26",
+    "COL": "4",
+    "ROWSJ": "26",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "OH-",
+    "ROW": "20",
+    "COL": "1",
+    "ROWSJ": "20",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "Pb",
+    "ROW": "19",
+    "COL": "4",
+    "ROWSJ": "19",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "pH",
+    "ROW": "10",
+    "COL": "6",
+    "ROWSJ": "10",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "Se",
+    "ROW": "23",
+    "COL": "4",
+    "ROWSJ": "23",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "SO42-",
+    "ROW": "24",
+    "COL": "1",
+    "ROWSJ": "24",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "Th",
+    "ROW": "17",
+    "COL": "6",
+    "ROWSJ": "17",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "Zn",
+    "ROW": "16",
+    "COL": "4",
+    "ROWSJ": "16",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "ρB",
+    "ROW": "11",
+    "COL": "3",
+    "ROWSJ": "11",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "含        量",
+    "ROW": "11",
+    "COL": "5",
+    "ROWSJ": "11",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "含        量",
+    "ROW": "11",
+    "COL": "7",
+    "ROWSJ": "11",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "挥发酚",
+    "ROW": "13",
+    "COL": "6",
+    "ROWSJ": "13",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "基  本  单  元",
+    "ROW": "11",
+    "COL": "1",
+    "ROWSJ": "11",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "名        称",
+    "ROW": "12",
+    "COL": "4",
+    "ROWSJ": "12",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "名        称",
+    "ROW": "12",
+    "COL": "6",
+    "ROWSJ": "12",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "色、色度",
+    "ROW": "9",
+    "COL": "1",
+    "ROWSJ": "9",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "味",
+    "ROW": "9",
+    "COL": "4",
+    "ROWSJ": "9",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "项        目",
+    "ROW": "11",
+    "COL": "4",
+    "ROWSJ": "11",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "项        目",
+    "ROW": "11",
+    "COL": "6",
+    "ROWSJ": "11",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "嗅",
+    "ROW": "10",
+    "COL": "1",
+    "ROWSJ": "10",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "悬  浮  物",
+    "ROW": "9",
+    "COL": "6",
+    "ROWSJ": "9",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "水质全分析",
+    "FIELD": "浊    度",
+    "ROW": "10",
+    "COL": "4",
+    "ROWSJ": "10",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "---",
+    "ROW": "11",
+    "COL": "17",
+    "ROWSJ": "11",
+    "COLSJ": "17",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "---",
+    "ROW": "11",
+    "COL": "21",
+    "ROWSJ": "11",
+    "COLSJ": "21",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "---",
+    "ROW": "11",
+    "COL": "22",
+    "ROWSJ": "11",
+    "COLSJ": "22",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "---",
+    "ROW": "11",
+    "COL": "39",
+    "ROWSJ": "11",
+    "COLSJ": "39",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "---",
+    "ROW": "11",
+    "COL": "42",
+    "ROWSJ": "11",
+    "COLSJ": "42",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "---",
+    "ROW": "11",
+    "COL": "45",
+    "ROWSJ": "11",
+    "COLSJ": "45",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "---",
+    "ROW": "11",
+    "COL": "50",
+    "ROWSJ": "11",
+    "COLSJ": "50",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "---",
+    "ROW": "11",
+    "COL": "51",
+    "ROWSJ": "11",
+    "COLSJ": "51",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "---",
+    "ROW": "11",
+    "COL": "52",
+    "ROWSJ": "11",
+    "COLSJ": "52",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "---",
+    "ROW": "11",
+    "COL": "54",
+    "ROWSJ": "11",
+    "COLSJ": "54",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "---",
+    "ROW": "11",
+    "COL": "55",
+    "ROWSJ": "11",
+    "COLSJ": "55",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "---",
+    "ROW": "11",
+    "COL": "56",
+    "ROWSJ": "11",
+    "COLSJ": "56",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "---",
+    "ROW": "11",
+    "COL": "57",
+    "ROWSJ": "11",
+    "COLSJ": "57",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "%",
+    "ROW": "11",
+    "COL": "3",
+    "ROWSJ": "11",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "%",
+    "ROW": "11",
+    "COL": "4",
+    "ROWSJ": "11",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "%",
+    "ROW": "11",
+    "COL": "5",
+    "ROWSJ": "11",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "%",
+    "ROW": "11",
+    "COL": "6",
+    "ROWSJ": "11",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "%",
+    "ROW": "11",
+    "COL": "7",
+    "ROWSJ": "11",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "%",
+    "ROW": "11",
+    "COL": "8",
+    "ROWSJ": "11",
+    "COLSJ": "8",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "%",
+    "ROW": "11",
+    "COL": "9",
+    "ROWSJ": "11",
+    "COLSJ": "9",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "%",
+    "ROW": "11",
+    "COL": "10",
+    "ROWSJ": "11",
+    "COLSJ": "10",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "%",
+    "ROW": "11",
+    "COL": "11",
+    "ROWSJ": "11",
+    "COLSJ": "11",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "%",
+    "ROW": "11",
+    "COL": "12",
+    "ROWSJ": "11",
+    "COLSJ": "12",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "%",
+    "ROW": "11",
+    "COL": "13",
+    "ROWSJ": "11",
+    "COLSJ": "13",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "%",
+    "ROW": "11",
+    "COL": "18",
+    "ROWSJ": "11",
+    "COLSJ": "18",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "%",
+    "ROW": "11",
+    "COL": "19",
+    "ROWSJ": "11",
+    "COLSJ": "19",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "%",
+    "ROW": "11",
+    "COL": "20",
+    "ROWSJ": "11",
+    "COLSJ": "20",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "(m)",
+    "ROW": "11",
+    "COL": "2",
+    "ROWSJ": "11",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "<0.005",
+    "ROW": "10",
+    "COL": "11",
+    "ROWSJ": "10",
+    "COLSJ": "11",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "<0.075",
+    "ROW": "10",
+    "COL": "9",
+    "ROWSJ": "10",
+    "COLSJ": "9",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": ">60",
+    "ROW": "10",
+    "COL": "3",
+    "ROWSJ": "10",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "°",
+    "ROW": "11",
+    "COL": "43",
+    "ROWSJ": "11",
+    "COLSJ": "43",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "°",
+    "ROW": "11",
+    "COL": "46",
+    "ROWSJ": "11",
+    "COLSJ": "46",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "0.075\n～\n0.005",
+    "ROW": "10",
+    "COL": "10",
+    "ROWSJ": "10",
+    "COLSJ": "10",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "0.1\n～\n0.2",
+    "ROW": "9",
+    "COL": "23",
+    "ROWSJ": "9",
+    "COLSJ": "23",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "0.1\n～\n0.2",
+    "ROW": "9",
+    "COL": "30",
+    "ROWSJ": "9",
+    "COLSJ": "30",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "0.2\n～\n0.3",
+    "ROW": "9",
+    "COL": "24",
+    "ROWSJ": "9",
+    "COLSJ": "24",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "0.2\n～\n0.3",
+    "ROW": "9",
+    "COL": "31",
+    "ROWSJ": "9",
+    "COLSJ": "31",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "0.25\n～\n0.075",
+    "ROW": "10",
+    "COL": "8",
+    "ROWSJ": "10",
+    "COLSJ": "8",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "0.3\n～\n0.4",
+    "ROW": "9",
+    "COL": "25",
+    "ROWSJ": "9",
+    "COLSJ": "25",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "0.3\n～\n0.4",
+    "ROW": "9",
+    "COL": "32",
+    "ROWSJ": "9",
+    "COLSJ": "32",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "0.4\n～\n0.5",
+    "ROW": "9",
+    "COL": "26",
+    "ROWSJ": "9",
+    "COLSJ": "26",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "0.4\n～\n0.5",
+    "ROW": "9",
+    "COL": "33",
+    "ROWSJ": "9",
+    "COLSJ": "33",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "0.5\n～\n0.25",
+    "ROW": "10",
+    "COL": "7",
+    "ROWSJ": "10",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "0.5\n～\n0.6",
+    "ROW": "9",
+    "COL": "27",
+    "ROWSJ": "9",
+    "COLSJ": "27",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "0.5\n～\n0.6",
+    "ROW": "9",
+    "COL": "34",
+    "ROWSJ": "9",
+    "COLSJ": "34",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "0.6\n～\n0.7",
+    "ROW": "9",
+    "COL": "28",
+    "ROWSJ": "9",
+    "COLSJ": "28",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "0.6\n～\n0.7",
+    "ROW": "9",
+    "COL": "35",
+    "ROWSJ": "9",
+    "COLSJ": "35",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "0.7\n～\n0.8",
+    "ROW": "9",
+    "COL": "29",
+    "ROWSJ": "9",
+    "COLSJ": "29",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "0.7\n～\n0.8",
+    "ROW": "9",
+    "COL": "36",
+    "ROWSJ": "9",
+    "COLSJ": "36",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "2\n～\n0.5",
+    "ROW": "10",
+    "COL": "6",
+    "ROWSJ": "10",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "20\n～\n2",
+    "ROW": "10",
+    "COL": "5",
+    "ROWSJ": "10",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "60\n～\n20",
+    "ROW": "10",
+    "COL": "4",
+    "ROWSJ": "10",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "cm/s",
+    "ROW": "11",
+    "COL": "40",
+    "ROWSJ": "11",
+    "COLSJ": "40",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "cm/s",
+    "ROW": "11",
+    "COL": "41",
+    "ROWSJ": "11",
+    "COLSJ": "41",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "cm2/s",
+    "ROW": "11",
+    "COL": "37",
+    "ROWSJ": "11",
+    "COLSJ": "37",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "cm2/s",
+    "ROW": "11",
+    "COL": "38",
+    "ROWSJ": "11",
+    "COLSJ": "38",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "g/cm3",
+    "ROW": "11",
+    "COL": "14",
+    "ROWSJ": "11",
+    "COLSJ": "14",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "g/cm3",
+    "ROW": "11",
+    "COL": "15",
+    "ROWSJ": "11",
+    "COLSJ": "15",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "g/cm3",
+    "ROW": "11",
+    "COL": "16",
+    "ROWSJ": "11",
+    "COLSJ": "16",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "kPa",
+    "ROW": "11",
+    "COL": "44",
+    "ROWSJ": "11",
+    "COLSJ": "44",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "kPa",
+    "ROW": "11",
+    "COL": "47",
+    "ROWSJ": "11",
+    "COLSJ": "47",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "kPa",
+    "ROW": "11",
+    "COL": "48",
+    "ROWSJ": "11",
+    "COLSJ": "48",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "kPa",
+    "ROW": "11",
+    "COL": "49",
+    "ROWSJ": "11",
+    "COLSJ": "49",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "kPa",
+    "ROW": "11",
+    "COL": "53",
+    "ROWSJ": "11",
+    "COLSJ": "53",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "MPa",
+    "ROW": "11",
+    "COL": "30",
+    "ROWSJ": "11",
+    "COLSJ": "30",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "MPa",
+    "ROW": "11",
+    "COL": "31",
+    "ROWSJ": "11",
+    "COLSJ": "31",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "MPa",
+    "ROW": "11",
+    "COL": "32",
+    "ROWSJ": "11",
+    "COLSJ": "32",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "MPa",
+    "ROW": "11",
+    "COL": "33",
+    "ROWSJ": "11",
+    "COLSJ": "33",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "MPa",
+    "ROW": "11",
+    "COL": "34",
+    "ROWSJ": "11",
+    "COLSJ": "34",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "MPa",
+    "ROW": "11",
+    "COL": "35",
+    "ROWSJ": "11",
+    "COLSJ": "35",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "MPa",
+    "ROW": "11",
+    "COL": "36",
+    "ROWSJ": "11",
+    "COLSJ": "36",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "MPa-1",
+    "ROW": "11",
+    "COL": "23",
+    "ROWSJ": "11",
+    "COLSJ": "23",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "MPa-1",
+    "ROW": "11",
+    "COL": "24",
+    "ROWSJ": "11",
+    "COLSJ": "24",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "MPa-1",
+    "ROW": "11",
+    "COL": "25",
+    "ROWSJ": "11",
+    "COLSJ": "25",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "MPa-1",
+    "ROW": "11",
+    "COL": "26",
+    "ROWSJ": "11",
+    "COLSJ": "26",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "MPa-1",
+    "ROW": "11",
+    "COL": "27",
+    "ROWSJ": "11",
+    "COLSJ": "27",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "MPa-1",
+    "ROW": "11",
+    "COL": "28",
+    "ROWSJ": "11",
+    "COLSJ": "28",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "MPa-1",
+    "ROW": "11",
+    "COL": "29",
+    "ROWSJ": "11",
+    "COLSJ": "29",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "饱和度",
+    "ROW": "8",
+    "COL": "18",
+    "ROWSJ": "8",
+    "COLSJ": "18",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "垂   直   cv",
+    "ROW": "9",
+    "COL": "37",
+    "ROWSJ": "9",
+    "COLSJ": "37",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "垂直kv",
+    "ROW": "9",
+    "COL": "40",
+    "ROWSJ": "9",
+    "COLSJ": "40",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "次  固  结  系  数",
+    "ROW": "8",
+    "COL": "39",
+    "ROWSJ": "8",
+    "COLSJ": "39",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "干密度",
+    "ROW": "8",
+    "COL": "15",
+    "ROWSJ": "8",
+    "COLSJ": "15",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "固结系数",
+    "ROW": "8",
+    "COL": "37",
+    "ROWSJ": "8",
+    "COLSJ": "37",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "黄土湿陷性",
+    "ROW": "8",
+    "COL": "51",
+    "ROWSJ": "8",
+    "COLSJ": "51",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "剪\n切\n方\n法",
+    "ROW": "9",
+    "COL": "42",
+    "ROWSJ": "9",
+    "COLSJ": "42",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "剪\n切\n方\n法",
+    "ROW": "9",
+    "COL": "45",
+    "ROWSJ": "9",
+    "COLSJ": "45",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "剪切试验",
+    "ROW": "8",
+    "COL": "42",
+    "ROWSJ": "8",
+    "COLSJ": "42",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "颗粒尺寸（㎜）",
+    "ROW": "9",
+    "COL": "3",
+    "ROWSJ": "9",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "颗粒分析",
+    "ROW": "8",
+    "COL": "3",
+    "ROWSJ": "8",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "颗粒密度",
+    "ROW": "8",
+    "COL": "16",
+    "ROWSJ": "8",
+    "COLSJ": "16",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "灵\n敏\n度\n\nSt",
+    "ROW": "9",
+    "COL": "50",
+    "ROWSJ": "9",
+    "COLSJ": "50",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "内  摩  擦  角 φ",
+    "ROW": "9",
+    "COL": "43",
+    "ROWSJ": "9",
+    "COLSJ": "43",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "内  摩  擦  角 φ",
+    "ROW": "9",
+    "COL": "46",
+    "ROWSJ": "9",
+    "COLSJ": "46",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "黏  聚  力  c",
+    "ROW": "9",
+    "COL": "44",
+    "ROWSJ": "9",
+    "COLSJ": "44",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "黏  聚  力  c",
+    "ROW": "9",
+    "COL": "47",
+    "ROWSJ": "9",
+    "COLSJ": "47",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "起  始  压  力",
+    "ROW": "9",
+    "COL": "53",
+    "ROWSJ": "9",
+    "COLSJ": "53",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "取样深度",
+    "ROW": "8",
+    "COL": "2",
+    "ROWSJ": "8",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "三轴试验",
+    "ROW": "8",
+    "COL": "45",
+    "ROWSJ": "8",
+    "COLSJ": "45",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "渗透系数",
+    "ROW": "8",
+    "COL": "40",
+    "ROWSJ": "8",
+    "COLSJ": "40",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "湿陷变形系数",
+    "ROW": "9",
+    "COL": "51",
+    "ROWSJ": "9",
+    "COLSJ": "51",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "水  平  ch",
+    "ROW": "9",
+    "COL": "38",
+    "ROWSJ": "9",
+    "COLSJ": "38",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "水\n\n平\nkh",
+    "ROW": "9",
+    "COL": "41",
+    "ROWSJ": "9",
+    "COLSJ": "41",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "塑限",
+    "ROW": "8",
+    "COL": "20",
+    "ROWSJ": "8",
+    "COLSJ": "20",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "塑性指数",
+    "ROW": "8",
+    "COL": "21",
+    "ROWSJ": "8",
+    "COLSJ": "21",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "特殊项目1",
+    "ROW": "8",
+    "COL": "54",
+    "ROWSJ": "8",
+    "COLSJ": "54",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "特殊项目2",
+    "ROW": "8",
+    "COL": "55",
+    "ROWSJ": "8",
+    "COLSJ": "55",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "特殊项目3",
+    "ROW": "8",
+    "COL": "56",
+    "ROWSJ": "8",
+    "COLSJ": "56",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "天然含水率",
+    "ROW": "8",
+    "COL": "13",
+    "ROWSJ": "8",
+    "COLSJ": "13",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "天然孔隙比",
+    "ROW": "8",
+    "COL": "17",
+    "ROWSJ": "8",
+    "COLSJ": "17",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "天然密度",
+    "ROW": "8",
+    "COL": "14",
+    "ROWSJ": "8",
+    "COLSJ": "14",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "土  工  试  验  报  告",
+    "ROW": "1",
+    "COL": "1",
+    "ROWSJ": "1",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "土的分类",
+    "ROW": "8",
+    "COL": "57",
+    "ROWSJ": "8",
+    "COLSJ": "57",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "无侧限抗压强度",
+    "ROW": "8",
+    "COL": "48",
+    "ROWSJ": "8",
+    "COLSJ": "48",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "压 缩 系 数",
+    "ROW": "8",
+    "COL": "23",
+    "ROWSJ": "8",
+    "COLSJ": "23",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "压缩模量",
+    "ROW": "8",
+    "COL": "30",
+    "ROWSJ": "8",
+    "COLSJ": "30",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "样品编号",
+    "ROW": "8",
+    "COL": "1",
+    "ROWSJ": "8",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "液限",
+    "ROW": "8",
+    "COL": "19",
+    "ROWSJ": "8",
+    "COLSJ": "19",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "液性指数",
+    "ROW": "8",
+    "COL": "22",
+    "ROWSJ": "8",
+    "COLSJ": "22",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "有机质",
+    "ROW": "8",
+    "COL": "12",
+    "ROWSJ": "8",
+    "COLSJ": "12",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "原\n\n状\n\nqu",
+    "ROW": "9",
+    "COL": "48",
+    "ROWSJ": "9",
+    "COLSJ": "48",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "重塑qu'",
+    "ROW": "9",
+    "COL": "49",
+    "ROWSJ": "9",
+    "COLSJ": "49",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土工试验",
+    "FIELD": "自重湿陷系数",
+    "ROW": "9",
+    "COL": "52",
+    "ROWSJ": "9",
+    "COLSJ": "52",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土化综合",
+    "FIELD": "（m）",
+    "ROW": "8",
+    "COL": "4",
+    "ROWSJ": "8",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土化综合",
+    "FIELD": "Q或Wu          （%）",
+    "ROW": "8",
+    "COL": "7",
+    "ROWSJ": "8",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土化综合",
+    "FIELD": "ω（CaCO3）（%）",
+    "ROW": "8",
+    "COL": "6",
+    "ROWSJ": "8",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土化综合",
+    "FIELD": "ω（CaSO4·2H2O）（%）",
+    "ROW": "8",
+    "COL": "5",
+    "ROWSJ": "8",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土化综合",
+    "FIELD": "及     里     程",
+    "ROW": "8",
+    "COL": "3",
+    "ROWSJ": "8",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土化综合",
+    "FIELD": "难溶盐含量",
+    "ROW": "7",
+    "COL": "6",
+    "ROWSJ": "7",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土化综合",
+    "FIELD": "取 样 地 点",
+    "ROW": "7",
+    "COL": "3",
+    "ROWSJ": "7",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土化综合",
+    "FIELD": "取样深度",
+    "ROW": "7",
+    "COL": "4",
+    "ROWSJ": "7",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土化综合",
+    "FIELD": "试验编号",
+    "ROW": "7",
+    "COL": "1",
+    "ROWSJ": "7",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土化综合",
+    "FIELD": "委托编号",
+    "ROW": "7",
+    "COL": "2",
+    "ROWSJ": "7",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土化综合",
+    "FIELD": "有机质含量",
+    "ROW": "7",
+    "COL": "7",
+    "ROWSJ": "7",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "土化综合",
+    "FIELD": "中溶盐含量",
+    "ROW": "7",
+    "COL": "5",
+    "ROWSJ": "7",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石薄片鉴定",
+    "FIELD": "报告编号",
+    "ROW": "7",
+    "COL": "10",
+    "ROWSJ": "7",
+    "COLSJ": "10",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石薄片鉴定",
+    "FIELD": "报告日期",
+    "ROW": "10",
+    "COL": "10",
+    "ROWSJ": "10",
+    "COLSJ": "10",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石薄片鉴定",
+    "FIELD": "取样深度",
+    "ROW": "10",
+    "COL": "1",
+    "ROWSJ": "10",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石薄片鉴定",
+    "FIELD": "施工部位",
+    "ROW": "7",
+    "COL": "1",
+    "ROWSJ": "7",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石薄片鉴定",
+    "FIELD": "试验编号",
+    "ROW": "9",
+    "COL": "10",
+    "ROWSJ": "9",
+    "COLSJ": "10",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石薄片鉴定",
+    "FIELD": "委托编号",
+    "ROW": "8",
+    "COL": "10",
+    "ROWSJ": "8",
+    "COLSJ": "10",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石薄片鉴定",
+    "FIELD": "岩石产地",
+    "ROW": "9",
+    "COL": "1",
+    "ROWSJ": "9",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石薄片鉴定",
+    "FIELD": "岩石名称",
+    "ROW": "8",
+    "COL": "1",
+    "ROWSJ": "8",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "饱和",
+    "ROW": "6",
+    "COL": "12",
+    "ROWSJ": "6",
+    "COLSJ": "12",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "饱和吸水率  （%）",
+    "ROW": "5",
+    "COL": "9",
+    "ROWSJ": "5",
+    "COLSJ": "9",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "单轴抗压强度（Mpa）",
+    "ROW": "5",
+    "COL": "10",
+    "ROWSJ": "5",
+    "COLSJ": "10",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "干密度      （g/cm3）",
+    "ROW": "5",
+    "COL": "6",
+    "ROWSJ": "5",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "含水率  （%）",
+    "ROW": "5",
+    "COL": "4",
+    "ROWSJ": "5",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "横波波速（m/s）",
+    "ROW": "6",
+    "COL": "23",
+    "ROWSJ": "6",
+    "COLSJ": "23",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "烘干",
+    "ROW": "6",
+    "COL": "11",
+    "ROWSJ": "6",
+    "COLSJ": "11",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "抗剪断强度",
+    "ROW": "5",
+    "COL": "15",
+    "ROWSJ": "5",
+    "COLSJ": "15",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "抗剪强度（直剪）",
+    "ROW": "5",
+    "COL": "17",
+    "ROWSJ": "5",
+    "COLSJ": "17",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "抗拉试验（劈裂法）（Mpa）",
+    "ROW": "5",
+    "COL": "14",
+    "ROWSJ": "5",
+    "COLSJ": "14",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "颗粒密度    （g/cm3）",
+    "ROW": "5",
+    "COL": "7",
+    "ROWSJ": "5",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "内摩擦角(°)",
+    "ROW": "6",
+    "COL": "16",
+    "ROWSJ": "6",
+    "COLSJ": "16",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "内摩擦角(°)",
+    "ROW": "6",
+    "COL": "18",
+    "ROWSJ": "6",
+    "COLSJ": "18",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "耐崩解指数     （%）",
+    "ROW": "6",
+    "COL": "21",
+    "ROWSJ": "6",
+    "COLSJ": "21",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "黏聚力    （MPa）",
+    "ROW": "6",
+    "COL": "15",
+    "ROWSJ": "6",
+    "COLSJ": "15",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "黏聚力    （MPa）",
+    "ROW": "6",
+    "COL": "17",
+    "ROWSJ": "6",
+    "COLSJ": "17",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "膨胀力 （MPa）",
+    "ROW": "6",
+    "COL": "20",
+    "ROWSJ": "6",
+    "COLSJ": "20",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "膨胀率  （%）",
+    "ROW": "6",
+    "COL": "19",
+    "ROWSJ": "6",
+    "COLSJ": "19",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "膨胀性试验",
+    "ROW": "5",
+    "COL": "19",
+    "ROWSJ": "5",
+    "COLSJ": "19",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "取样深度         （m）",
+    "ROW": "5",
+    "COL": "2",
+    "ROWSJ": "5",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "软化系数",
+    "ROW": "5",
+    "COL": "13",
+    "ROWSJ": "5",
+    "COLSJ": "13",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "声波速度",
+    "ROW": "5",
+    "COL": "22",
+    "ROWSJ": "5",
+    "COLSJ": "22",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "试验编号",
+    "ROW": "5",
+    "COL": "1",
+    "ROWSJ": "5",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "特殊项目1",
+    "ROW": "5",
+    "COL": "24",
+    "ROWSJ": "5",
+    "COLSJ": "24",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "特殊项目2",
+    "ROW": "5",
+    "COL": "25",
+    "ROWSJ": "5",
+    "COLSJ": "25",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "特殊项目3",
+    "ROW": "5",
+    "COL": "26",
+    "ROWSJ": "5",
+    "COLSJ": "26",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "天然",
+    "ROW": "6",
+    "COL": "10",
+    "ROWSJ": "6",
+    "COLSJ": "10",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "天然密度      （g/cm3）",
+    "ROW": "5",
+    "COL": "5",
+    "ROWSJ": "5",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "吸水率      （%）",
+    "ROW": "5",
+    "COL": "8",
+    "ROWSJ": "5",
+    "COLSJ": "8",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "现场鉴定名称",
+    "ROW": "5",
+    "COL": "3",
+    "ROWSJ": "5",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "岩  石  试  验  报  告",
+    "ROW": "1",
+    "COL": "1",
+    "ROWSJ": "1",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩石试验",
+    "FIELD": "纵波波速（m/s）",
+    "ROW": "6",
+    "COL": "22",
+    "ROWSJ": "6",
+    "COLSJ": "22",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "A12O3",
+    "ROW": "7",
+    "COL": "7",
+    "ROWSJ": "7",
+    "COLSJ": "7",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "CaO",
+    "ROW": "7",
+    "COL": "10",
+    "ROWSJ": "7",
+    "COLSJ": "10",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "Fe2O3",
+    "ROW": "7",
+    "COL": "8",
+    "ROWSJ": "7",
+    "COLSJ": "8",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "K2O",
+    "ROW": "7",
+    "COL": "13",
+    "ROWSJ": "7",
+    "COLSJ": "13",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "MgO",
+    "ROW": "7",
+    "COL": "11",
+    "ROWSJ": "7",
+    "COLSJ": "11",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "MnO",
+    "ROW": "7",
+    "COL": "9",
+    "ROWSJ": "7",
+    "COLSJ": "9",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "n（SiO2）\r\nn（A12O3）",
+    "ROW": "7",
+    "COL": "21",
+    "ROWSJ": "7",
+    "COLSJ": "21",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "n（SiO2）\r\nn（R2O3）",
+    "ROW": "7",
+    "COL": "20",
+    "ROWSJ": "7",
+    "COLSJ": "20",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "Ng2O",
+    "ROW": "7",
+    "COL": "12",
+    "ROWSJ": "7",
+    "COLSJ": "12",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "R2O3",
+    "ROW": "7",
+    "COL": "6",
+    "ROWSJ": "7",
+    "COLSJ": "6",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "SiO2",
+    "ROW": "7",
+    "COL": "5",
+    "ROWSJ": "7",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "摩     尔     比",
+    "ROW": "6",
+    "COL": "20",
+    "ROWSJ": "6",
+    "COLSJ": "20",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "取 样 地 点及    里    程",
+    "ROW": "6",
+    "COL": "3",
+    "ROWSJ": "6",
+    "COLSJ": "3",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "取样\r\n\r\n深度\r\n(m)",
+    "ROW": "6",
+    "COL": "4",
+    "ROWSJ": "6",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "烧灼\r\n失量",
+    "ROW": "7",
+    "COL": "14",
+    "ROWSJ": "7",
+    "COLSJ": "14",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "试样\r\n\r\n编号",
+    "ROW": "6",
+    "COL": "1",
+    "ROWSJ": "6",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "委托\r\n\r\n编号",
+    "ROW": "6",
+    "COL": "2",
+    "ROWSJ": "6",
+    "COLSJ": "2",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "阳   离   子\r\n交   换   量\r\n(mmo1/kg)",
+    "ROW": "6",
+    "COL": "16",
+    "ROWSJ": "6",
+    "COLSJ": "16",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "氧化物含量 （％）              （试样粒径：   mm）",
+    "ROW": "6",
+    "COL": "5",
+    "ROWSJ": "6",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "总比表面积(m2/g)",
+    "ROW": "6",
+    "COL": "18",
+    "ROWSJ": "6",
+    "COLSJ": "18",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "岩土化学分析",
+    "FIELD": "总量",
+    "ROW": "7",
+    "COL": "15",
+    "ROWSJ": "7",
+    "COLSJ": "15",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "                                           试样编号\r\n       基本单元",
+    "ROW": "7",
+    "COL": "4",
+    "ROWSJ": "7",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "Ca2+",
+    "ROW": "24",
+    "COL": "4",
+    "ROWSJ": "24",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "Cl-",
+    "ROW": "18",
+    "COL": "4",
+    "ROWSJ": "18",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "CO32-",
+    "ROW": "12",
+    "COL": "4",
+    "ROWSJ": "12",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "HCO3-",
+    "ROW": "15",
+    "COL": "4",
+    "ROWSJ": "15",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "Mg2+",
+    "ROW": "27",
+    "COL": "4",
+    "ROWSJ": "27",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "Na++K+",
+    "ROW": "30",
+    "COL": "4",
+    "ROWSJ": "30",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "OH-",
+    "ROW": "9",
+    "COL": "4",
+    "ROWSJ": "9",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "pH值",
+    "ROW": "33",
+    "COL": "4",
+    "ROWSJ": "33",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "SO42-",
+    "ROW": "21",
+    "COL": "4",
+    "ROWSJ": "21",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "百分比含量ωB（%）",
+    "ROW": "10",
+    "COL": "5",
+    "ROWSJ": "10",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "百分比含量ωB（%）",
+    "ROW": "13",
+    "COL": "5",
+    "ROWSJ": "13",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "百分比含量ωB（%）",
+    "ROW": "16",
+    "COL": "5",
+    "ROWSJ": "16",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "百分比含量ωB（%）",
+    "ROW": "19",
+    "COL": "5",
+    "ROWSJ": "19",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "百分比含量ωB（%）",
+    "ROW": "22",
+    "COL": "5",
+    "ROWSJ": "22",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "百分比含量ωB（%）",
+    "ROW": "25",
+    "COL": "5",
+    "ROWSJ": "25",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "百分比含量ωB（%）",
+    "ROW": "28",
+    "COL": "5",
+    "ROWSJ": "28",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "百分比含量ωB（%）",
+    "ROW": "31",
+    "COL": "5",
+    "ROWSJ": "31",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "分层盐渍土定名",
+    "ROW": "36",
+    "COL": "4",
+    "ROWSJ": "36",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "分层易溶盐含量DT（%）",
+    "ROW": "34",
+    "COL": "4",
+    "ROWSJ": "34",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "分层易溶盐含量DT（mg/kg）",
+    "ROW": "35",
+    "COL": "4",
+    "ROWSJ": "35",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "摩尔浓度bB（mmol/kg）",
+    "ROW": "9",
+    "COL": "5",
+    "ROWSJ": "9",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "摩尔浓度bB（mmol/kg）",
+    "ROW": "12",
+    "COL": "5",
+    "ROWSJ": "12",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "摩尔浓度bB（mmol/kg）",
+    "ROW": "15",
+    "COL": "5",
+    "ROWSJ": "15",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "摩尔浓度bB（mmol/kg）",
+    "ROW": "18",
+    "COL": "5",
+    "ROWSJ": "18",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "摩尔浓度bB（mmol/kg）",
+    "ROW": "21",
+    "COL": "5",
+    "ROWSJ": "21",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "摩尔浓度bB（mmol/kg）",
+    "ROW": "24",
+    "COL": "5",
+    "ROWSJ": "24",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "摩尔浓度bB（mmol/kg）",
+    "ROW": "27",
+    "COL": "5",
+    "ROWSJ": "27",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "摩尔浓度bB（mmol/kg）",
+    "ROW": "30",
+    "COL": "5",
+    "ROWSJ": "30",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "取样深度（m）",
+    "ROW": "8",
+    "COL": "4",
+    "ROWSJ": "8",
+    "COLSJ": "4",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "项目",
+    "ROW": "7",
+    "COL": "1",
+    "ROWSJ": "7",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "易溶盐",
+    "ROW": "8",
+    "COL": "1",
+    "ROWSJ": "8",
+    "COLSJ": "1",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "质量比含量ω′B（mg/kg）",
+    "ROW": "11",
+    "COL": "5",
+    "ROWSJ": "11",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "质量比含量ω′B（mg/kg）",
+    "ROW": "14",
+    "COL": "5",
+    "ROWSJ": "14",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "质量比含量ω′B（mg/kg）",
+    "ROW": "17",
+    "COL": "5",
+    "ROWSJ": "17",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "质量比含量ω′B（mg/kg）",
+    "ROW": "20",
+    "COL": "5",
+    "ROWSJ": "20",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "质量比含量ω′B（mg/kg）",
+    "ROW": "23",
+    "COL": "5",
+    "ROWSJ": "23",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "质量比含量ω′B（mg/kg）",
+    "ROW": "26",
+    "COL": "5",
+    "ROWSJ": "26",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "质量比含量ω′B（mg/kg）",
+    "ROW": "29",
+    "COL": "5",
+    "ROWSJ": "29",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  },
+  {
+    "MBTable": "易溶盐分析",
+    "FIELD": "质量比含量ω′B（mg/kg）",
+    "ROW": "32",
+    "COL": "5",
+    "ROWSJ": "32",
+    "COLSJ": "5",
+    "LZID": "",
+    "table": "t_TableMBMap"
+  }
+]
