@@ -1,0 +1,50 @@
+[
+  {
+    "LB": "固结试验",
+    "DW": "次",
+    "SL": "54",
+    "FZ": "",
+    "LZID": "3",
+    "table": "k_GZL_ShiNeiTYSY"
+  },
+  {
+    "LB": "颗分试验",
+    "DW": "次",
+    "SL": "14",
+    "FZ": "",
+    "LZID": "1",
+    "table": "k_GZL_ShiNeiTYSY"
+  },
+  {
+    "LB": "三轴剪试验",
+    "DW": "次",
+    "SL": "9",
+    "FZ": "",
+    "LZID": "5",
+    "table": "k_GZL_ShiNeiTYSY"
+  },
+  {
+    "LB": "物理性试验",
+    "DW": "个",
+    "SL": "57",
+    "FZ": "",
+    "LZID": "2",
+    "table": "k_GZL_ShiNeiTYSY"
+  },
+  {
+    "LB": "易溶盐试验",
+    "DW": "次",
+    "SL": "1",
+    "FZ": "",
+    "LZID": "6",
+    "table": "k_GZL_ShiNeiTYSY"
+  },
+  {
+    "LB": "直剪试验",
+    "DW": "次",
+    "SL": "54",
+    "FZ": "",
+    "LZID": "4",
+    "table": "k_GZL_ShiNeiTYSY"
+  }
+]

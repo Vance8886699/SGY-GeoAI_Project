@@ -1,0 +1,74 @@
+[
+  {
+    "LB": "鉴别孔",
+    "DW": "个",
+    "SL": "31",
+    "ZKZJC": "792.2999877929688",
+    "TJZJS": "",
+    "KTSDFW": "15.50~39.00",
+    "TJSDFW": "",
+    "FZ": "",
+    "LZID": "1",
+    "table": "k_GZL_ZuanKong"
+  },
+  {
+    "LB": "取样孔",
+    "DW": "个",
+    "SL": "46",
+    "ZKZJC": "1290.4000244140625",
+    "TJZJS": "",
+    "KTSDFW": "15.80~39.50",
+    "TJSDFW": "",
+    "FZ": "",
+    "LZID": "2",
+    "table": "k_GZL_ZuanKong"
+  },
+  {
+    "LB": "探井",
+    "DW": "个",
+    "SL": "",
+    "ZKZJC": "",
+    "TJZJS": "",
+    "KTSDFW": "",
+    "TJSDFW": "",
+    "FZ": "",
+    "LZID": "3",
+    "table": "k_GZL_ZuanKong"
+  },
+  {
+    "LB": "先井后钻",
+    "DW": "个",
+    "SL": "",
+    "ZKZJC": "",
+    "TJZJS": "",
+    "KTSDFW": "",
+    "TJSDFW": "",
+    "FZ": "",
+    "LZID": "4",
+    "table": "k_GZL_ZuanKong"
+  },
+  {
+    "LB": "先井后钻（取样）",
+    "DW": "个",
+    "SL": "",
+    "ZKZJC": "",
+    "TJZJS": "",
+    "KTSDFW": "",
+    "TJSDFW": "",
+    "FZ": "",
+    "LZID": "5",
+    "table": "k_GZL_ZuanKong"
+  },
+  {
+    "LB": "总和",
+    "DW": "个",
+    "SL": "77",
+    "ZKZJC": "2082.699951171875",
+    "TJZJS": "",
+    "KTSDFW": "",
+    "TJSDFW": "",
+    "FZ": "",
+    "LZID": "6",
+    "table": "k_GZL_ZuanKong"
+  }
+]

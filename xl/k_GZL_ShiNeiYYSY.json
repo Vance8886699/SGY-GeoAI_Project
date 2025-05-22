@@ -1,0 +1,42 @@
+[
+  {
+    "LB": "单轴抗压",
+    "DW": "个",
+    "SL": "26",
+    "FZ": "",
+    "LZID": "2",
+    "table": "k_GZL_ShiNeiYYSY"
+  },
+  {
+    "LB": "抗剪断试验",
+    "DW": "个",
+    "SL": "14",
+    "FZ": "",
+    "LZID": "4",
+    "table": "k_GZL_ShiNeiYYSY"
+  },
+  {
+    "LB": "抗剪试验",
+    "DW": "个",
+    "SL": "14",
+    "FZ": "",
+    "LZID": "5",
+    "table": "k_GZL_ShiNeiYYSY"
+  },
+  {
+    "LB": "抗拉试验",
+    "DW": "个",
+    "SL": "0",
+    "FZ": "",
+    "LZID": "3",
+    "table": "k_GZL_ShiNeiYYSY"
+  },
+  {
+    "LB": "物理性试验",
+    "DW": "个",
+    "SL": "26",
+    "FZ": "",
+    "LZID": "1",
+    "table": "k_GZL_ShiNeiYYSY"
+  }
+]

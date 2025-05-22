@@ -1,0 +1,30 @@
+[
+  {
+    "GCSY": "27",
+    "GCBZ": "0",
+    "YLJB": "100.0",
+    "LZID": "0",
+    "table": "g_GJSYYLJB_SHP"
+  },
+  {
+    "GCSY": "27",
+    "GCBZ": "0",
+    "YLJB": "200.0",
+    "LZID": "0",
+    "table": "g_GJSYYLJB_SHP"
+  },
+  {
+    "GCSY": "27",
+    "GCBZ": "0",
+    "YLJB": "400.0",
+    "LZID": "0",
+    "table": "g_GJSYYLJB_SHP"
+  },
+  {
+    "GCSY": "27",
+    "GCBZ": "0",
+    "YLJB": "800.0",
+    "LZID": "0",
+    "table": "g_GJSYYLJB_SHP"
+  }
+]

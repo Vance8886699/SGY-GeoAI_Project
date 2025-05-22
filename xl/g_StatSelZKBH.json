@@ -1,0 +1,20 @@
+[
+  {
+    "GCBZ": "0",
+    "MODELNAME": "Z_KTDYLB",
+    "SELZKBH": "",
+    "ID": "",
+    "FANRECORD": "",
+    "GCSY": "",
+    "table": "g_StatSelZKBH"
+  },
+  {
+    "GCBZ": "0",
+    "MODELNAME": "统一",
+    "SELZKBH": "BK01,BK02,BK03,BK04,BK05,BK06,BK07,BK08,BK09,BK10",
+    "ID": "0",
+    "FANRECORD": "0",
+    "GCSY": "0",
+    "table": "g_StatSelZKBH"
+  }
+]

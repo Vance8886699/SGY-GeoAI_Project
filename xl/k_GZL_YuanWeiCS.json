@@ -1,0 +1,66 @@
+[
+  {
+    "LB": "扁铲侧胀试验",
+    "DW": "次",
+    "SL": "0",
+    "FZ": "",
+    "LZID": "7",
+    "table": "k_GZL_YuanWeiCS"
+  },
+  {
+    "LB": "标准贯入",
+    "DW": "次",
+    "SL": "80",
+    "FZ": "",
+    "LZID": "1",
+    "table": "k_GZL_YuanWeiCS"
+  },
+  {
+    "LB": "超声波测试",
+    "DW": "次",
+    "SL": "0",
+    "FZ": "",
+    "LZID": "6",
+    "table": "k_GZL_YuanWeiCS"
+  },
+  {
+    "LB": "横波测点数",
+    "DW": "次",
+    "SL": "0",
+    "FZ": "",
+    "LZID": "4",
+    "table": "k_GZL_YuanWeiCS"
+  },
+  {
+    "LB": "旁压试验",
+    "DW": "次",
+    "SL": "0",
+    "FZ": "",
+    "LZID": "3",
+    "table": "k_GZL_YuanWeiCS"
+  },
+  {
+    "LB": "十字板剪切试验",
+    "DW": "次",
+    "SL": "0",
+    "FZ": "",
+    "LZID": "2",
+    "table": "k_GZL_YuanWeiCS"
+  },
+  {
+    "LB": "应力铲试验",
+    "DW": "次",
+    "SL": "0",
+    "FZ": "",
+    "LZID": "8",
+    "table": "k_GZL_YuanWeiCS"
+  },
+  {
+    "LB": "纵波测点数",
+    "DW": "次",
+    "SL": "0",
+    "FZ": "",
+    "LZID": "5",
+    "table": "k_GZL_YuanWeiCS"
+  }
+]

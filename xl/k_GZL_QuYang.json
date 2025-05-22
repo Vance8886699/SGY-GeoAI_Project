@@ -1,0 +1,34 @@
+[
+  {
+    "LB": "扰动土样",
+    "DW": "个",
+    "SL": "3",
+    "FZ": "",
+    "LZID": "2",
+    "table": "k_GZL_QuYang"
+  },
+  {
+    "LB": "水样",
+    "DW": "个",
+    "SL": "5",
+    "FZ": "",
+    "LZID": "4",
+    "table": "k_GZL_QuYang"
+  },
+  {
+    "LB": "岩样",
+    "DW": "个",
+    "SL": "26",
+    "FZ": "",
+    "LZID": "3",
+    "table": "k_GZL_QuYang"
+  },
+  {
+    "LB": "原状土样",
+    "DW": "个",
+    "SL": "54",
+    "FZ": "",
+    "LZID": "1",
+    "table": "k_GZL_QuYang"
+  }
+]

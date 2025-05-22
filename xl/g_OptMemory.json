@@ -1,0 +1,74 @@
+[
+  {
+    "OptType": "波速柱状图",
+    "OptOrdered": "",
+    "OptChose": "",
+    "table": "g_OptMemory"
+  },
+  {
+    "OptType": "超声波柱状图",
+    "OptOrdered": "",
+    "OptChose": "",
+    "table": "g_OptMemory"
+  },
+  {
+    "OptType": "单孔地质柱状图",
+    "OptOrdered": "",
+    "OptChose": "",
+    "table": "g_OptMemory"
+  },
+  {
+    "OptType": "单桥静探柱状图",
+    "OptOrdered": "",
+    "OptChose": "",
+    "table": "g_OptMemory"
+  },
+  {
+    "OptType": "动探柱状图",
+    "OptOrdered": "",
+    "OptChose": "",
+    "table": "g_OptMemory"
+  },
+  {
+    "OptType": "螺旋板载荷试验",
+    "OptOrdered": "",
+    "OptChose": "",
+    "table": "g_OptMemory"
+  },
+  {
+    "OptType": "旁压曲线",
+    "OptOrdered": "",
+    "OptChose": "",
+    "table": "g_OptMemory"
+  },
+  {
+    "OptType": "平板载荷试验",
+    "OptOrdered": "",
+    "OptChose": "",
+    "table": "g_OptMemory"
+  },
+  {
+    "OptType": "十字板试验",
+    "OptOrdered": "",
+    "OptChose": "",
+    "table": "g_OptMemory"
+  },
+  {
+    "OptType": "双桥静探柱状图",
+    "OptOrdered": "",
+    "OptChose": "",
+    "table": "g_OptMemory"
+  },
+  {
+    "OptType": "土层钻孔柱状图",
+    "OptOrdered": "",
+    "OptChose": "",
+    "table": "g_OptMemory"
+  },
+  {
+    "OptType": "岩层钻孔柱状图",
+    "OptOrdered": "",
+    "OptChose": "",
+    "table": "g_OptMemory"
+  }
+]

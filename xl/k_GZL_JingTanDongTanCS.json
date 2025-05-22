@@ -1,0 +1,20 @@
+[
+  {
+    "LB": "静力触探",
+    "DW": "个",
+    "KSL": "4",
+    "ZCSCD": "单桥：36.20\r\n双桥：0.00\r\n多桥：11.00",
+    "FZ": "",
+    "LZID": "1",
+    "table": "k_GZL_JingTanDongTanCS"
+  },
+  {
+    "LB": "圆锥型动力触探",
+    "DW": "个",
+    "KSL": "22",
+    "ZCSCD": "轻型：4.80\r\n重型：11.00\r\n超重型：1.30",
+    "FZ": "",
+    "LZID": "2",
+    "table": "k_GZL_JingTanDongTanCS"
+  }
+]

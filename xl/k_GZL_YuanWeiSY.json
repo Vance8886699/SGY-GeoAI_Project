@@ -1,0 +1,18 @@
+[
+  {
+    "LB": "螺旋板载荷试验",
+    "DW": "次",
+    "SL": "0",
+    "FZ": "",
+    "LZID": "2",
+    "table": "k_GZL_YuanWeiSY"
+  },
+  {
+    "LB": "平板载荷试验",
+    "DW": "次",
+    "SL": "0",
+    "FZ": "",
+    "LZID": "1",
+    "table": "k_GZL_YuanWeiSY"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "LB": "抽水试验段",
+    "DW": "次",
+    "SL": "0",
+    "FZ": "",
+    "LZID": "2",
+    "table": "k_GZL_ShuiWenSY"
+  },
+  {
+    "LB": "压水试验段",
+    "DW": "次",
+    "SL": "0",
+    "FZ": "",
+    "LZID": "1",
+    "table": "k_GZL_ShuiWenSY"
+  },
+  {
+    "LB": "注水试验段",
+    "DW": "次",
+    "SL": "1",
+    "FZ": "",
+    "LZID": "3",
+    "table": "k_GZL_ShuiWenSY"
+  }
+]
