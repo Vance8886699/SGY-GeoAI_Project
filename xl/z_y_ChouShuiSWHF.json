@@ -1,0 +1,32 @@
+[
+  {
+    "ID": "1",
+    "GCSY": "2",
+    "ZKBH": "ZD-162",
+    "HFSJ": "0.0",
+    "JIANGS": "8.4",
+    "BZ": "",
+    "LZID": "",
+    "table": "z_y_ChouShuiSWHF"
+  },
+  {
+    "ID": "2",
+    "GCSY": "2",
+    "ZKBH": "ZD-162",
+    "HFSJ": "8.0",
+    "JIANGS": "6.4",
+    "BZ": "",
+    "LZID": "",
+    "table": "z_y_ChouShuiSWHF"
+  },
+  {
+    "ID": "3",
+    "GCSY": "2",
+    "ZKBH": "ZD-162",
+    "HFSJ": "17.5",
+    "JIANGS": "6.1",
+    "BZ": "",
+    "LZID": "",
+    "table": "z_y_ChouShuiSWHF"
+  }
+]
