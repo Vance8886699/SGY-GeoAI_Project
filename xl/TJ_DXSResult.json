@@ -1,0 +1,22 @@
+[
+  {
+    "GCSY": "45",
+    "TJDXSXM": "标高",
+    "TJDXSMAX": "26.880001",
+    "TJDXSMAXKH": "zk9",
+    "TJDXSMIN": "12.119999",
+    "TJDXSMINKH": "zk1",
+    "LZID": "",
+    "table": "TJ_DXSResult"
+  },
+  {
+    "GCSY": "45",
+    "TJDXSXM": "埋深",
+    "TJDXSMAX": "27.0",
+    "TJDXSMAXKH": "zk1",
+    "TJDXSMIN": "12.4",
+    "TJDXSMINKH": "zk12",
+    "LZID": "",
+    "table": "TJ_DXSResult"
+  }
+]

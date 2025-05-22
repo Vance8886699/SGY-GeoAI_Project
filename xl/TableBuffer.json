@@ -1,0 +1,327 @@
+[
+  {
+    "QYBH": "BK01-1",
+    "RT": "20.4",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK01-QT-002",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK02-QT-003",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK03-1",
+    "RT": "22",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK05-1",
+    "RT": "21.1",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK05-2",
+    "RT": "13.6",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK07-1",
+    "RT": "13.7",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK08-1",
+    "RT": "20.3",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK08-QT-002",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK11-1",
+    "RT": "24.9",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK11-2",
+    "RT": "11.9",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK12-1",
+    "RT": "26.4",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK14-1",
+    "RT": "22.2",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK14-QT-002",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK15-1",
+    "RT": "13.2",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK16-1",
+    "RT": "14.2",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK18-1",
+    "RT": "19.3",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK18-QT-002",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK19-1",
+    "RT": "21.8",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK20-1",
+    "RT": "21.1",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK20-QT-002",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK21-1",
+    "RT": "23.2",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK22-1",
+    "RT": "24",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "BK24-1",
+    "RT": "12.7",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "JK02-1",
+    "RT": "23.3",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "JK04-1",
+    "RT": "13.8",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "JK06-1",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "JK08-1",
+    "RT": "12.9",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "JK09-1",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "JK11-1",
+    "RT": "15.6",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "JK13-1",
+    "RT": "24.5",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "JK15-1",
+    "RT": "26.4",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "JK17-1",
+    "RT": "11.2",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "JK18-1",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "JK20-1",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "JK21-1",
+    "RT": "27",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "JK23-1",
+    "RT": "22.6",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "JK26-1",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "JK28-1",
+    "RT": "12.7",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK01-1",
+    "RT": "24",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK01-2",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK01-3",
+    "RT": "14.4",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK03-1",
+    "RT": "24",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK03-2",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK05-1",
+    "RT": "16.3",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK05-2",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK08-1",
+    "RT": "21.3",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK09-1",
+    "RT": "14.1",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK10-1",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK12-1",
+    "RT": "21.5",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK12-2",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK12-3",
+    "RT": "13",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK12-4",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK13-1",
+    "RT": "12.8",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK15-1",
+    "RT": "12.9",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK17-1",
+    "RT": "25.4",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK17-2",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK17-3",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK20-1",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK20-2",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK22-1",
+    "RT": "25",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK22-2",
+    "RT": "",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK22-3",
+    "RT": "12.2",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK24-1",
+    "RT": "22.7",
+    "table": "TableBuffer"
+  },
+  {
+    "QYBH": "ZK24-2",
+    "RT": "",
+    "table": "TableBuffer"
+  }
+]

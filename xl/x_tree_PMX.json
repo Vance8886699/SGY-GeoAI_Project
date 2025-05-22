@@ -1,0 +1,41 @@
+[
+  {
+    "GCBZ": "0",
+    "ID": "0",
+    "t_parentID": "7",
+    "t_parenttable": "名称",
+    "t_parentField": "勘探点表",
+    "t_ID": "11",
+    "t_table": "名称",
+    "t_field": "基本数据",
+    "LZID": "",
+    "SHOW": "1",
+    "table": "x_tree_PMX"
+  },
+  {
+    "GCBZ": "0",
+    "ID": "1",
+    "t_parentID": "7",
+    "t_parenttable": "名称",
+    "t_parentField": "勘探点表",
+    "t_ID": "12",
+    "t_table": "名称",
+    "t_field": "原位测试",
+    "LZID": "",
+    "SHOW": "1",
+    "table": "x_tree_PMX"
+  },
+  {
+    "GCBZ": "0",
+    "ID": "2",
+    "t_parentID": "7",
+    "t_parenttable": "名称",
+    "t_parentField": "勘探点表",
+    "t_ID": "13",
+    "t_table": "名称",
+    "t_field": "室内试验",
+    "LZID": "",
+    "SHOW": "1",
+    "table": "x_tree_PMX"
+  }
+]
