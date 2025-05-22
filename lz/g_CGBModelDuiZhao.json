@@ -1,0 +1,4657 @@
+[
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "XUHAO",
+    "TJFIELD": "XUHAO",
+    "TJTABLE": "XUHAO",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "JZDD",
+    "TJFIELD": "JZDD",
+    "TJTABLE": "z_ZuanKong",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "ZKBH",
+    "TJFIELD": "ZKBH",
+    "TJTABLE": "z_ZuanKong",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "ZKLC",
+    "TJFIELD": "ZKLC",
+    "TJTABLE": "z_ZuanKong",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "KTLX",
+    "TJFIELD": "ZKLX",
+    "TJTABLE": "z_ZuanKong",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "ZKSD",
+    "TJFIELD": "ZKSD",
+    "TJTABLE": "z_ZuanKong",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "ZJSD",
+    "TJFIELD": "ZKTJSD",
+    "TJTABLE": "z_ZuanKong",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "ZKBG",
+    "TJFIELD": "ZKBG",
+    "TJTABLE": "z_ZuanKong",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "WZ_X",
+    "TJFIELD": "ZKX",
+    "TJTABLE": "z_ZuanKong",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "WZ_Y",
+    "TJFIELD": "ZKY",
+    "TJTABLE": "z_ZuanKong",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "DQSD",
+    "TJFIELD": "DQJTCD",
+    "TJTABLE": "z_y_JingTan",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "SQSD",
+    "TJFIELD": "SQJTCD",
+    "TJTABLE": "z_y_JingTanSQ",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "WQSD",
+    "TJFIELD": "DUQJTCD",
+    "TJTABLE": "z_y_JingTanSQ",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "DTSD10",
+    "TJFIELD": "QXDTCD",
+    "TJTABLE": "z_y_DongTan",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "DTSD63_5",
+    "TJFIELD": "ZXDTCD",
+    "TJTABLE": "z_y_DongTan",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "DTSD120",
+    "TJFIELD": "CZXDTCD",
+    "TJTABLE": "z_y_DongTan",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "YZGS",
+    "TJFIELD": "YZTY",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "RDGS",
+    "TJFIELD": "RDTY",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "YYGS",
+    "TJFIELD": "YYGS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "SYGS",
+    "TJFIELD": "SYGS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "SWSD",
+    "TJFIELD": "WDSWSD",
+    "TJTABLE": "z_g_ShuiWei",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "SWBG",
+    "TJFIELD": "WDSWGC",
+    "TJTABLE": "z_g_ShuiWei",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "SWSDCJ",
+    "TJFIELD": "CJSWSD",
+    "TJTABLE": "z_g_ShuiWei",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "SWBGCJ",
+    "TJFIELD": "CJSWGC",
+    "TJTABLE": "z_g_ShuiWei",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "SWCSRQ",
+    "TJFIELD": "WDSWRQ",
+    "TJTABLE": "z_g_ShuiWei",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "BGGS",
+    "TJFIELD": "BGSYCS",
+    "TJTABLE": "z_y_BiaoGuan",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "BSHB",
+    "TJFIELD": "HBCDS",
+    "TJTABLE": "z_y_BoSu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "BSZB",
+    "TJFIELD": "ZBCDS",
+    "TJTABLE": "z_y_BoSu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "SZBGS",
+    "TJFIELD": "SZBSYDS",
+    "TJTABLE": "z_y_ShiZiBan",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "PYGS",
+    "TJFIELD": "PYSYDS",
+    "TJTABLE": "z_y_PangYa",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "DSLSD",
+    "TJFIELD": "TSLSYSD",
+    "TJTABLE": "z_y_TouShuiLv",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "CTZSCD",
+    "TJFIELD": "ZSSYDCD",
+    "TJTABLE": "z_y_ZhuShui",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "CTYSCD",
+    "TJFIELD": "YSSYDCD",
+    "TJTABLE": "z_y_YaShui_SJ",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "CTCSCD",
+    "TJFIELD": "CSSYDCD",
+    "TJTABLE": "z_y_ChouShui_SJ",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "KTKSRQ",
+    "TJFIELD": "ZKKSRQ",
+    "TJTABLE": "z_ZuanKong",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "KTZZRQ",
+    "TJFIELD": "ZKZZRQ",
+    "TJTABLE": "z_ZuanKong",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "Z001",
+    "TJFIELD": "BZ",
+    "TJTABLE": "z_ZuanKong",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "勘探点一览表",
+    "TJKEY": "ZKGDMC",
+    "TJFIELD": "ZKGDMC",
+    "TJTABLE": "z_ZuanKong",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层汇总表",
+    "TJKEY": "CETCBH",
+    "TJFIELD": "DCBH",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层汇总表",
+    "TJKEY": "CECYND",
+    "TJFIELD": "DCSDCY",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层汇总表",
+    "TJKEY": "CETCMC",
+    "TJFIELD": "TCMC",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层汇总表",
+    "TJKEY": "CEHD",
+    "TJFIELD": "TCHD",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层汇总表",
+    "TJKEY": "CETBG",
+    "TJFIELD": "TCETBG",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层汇总表",
+    "TJKEY": "CEBBG",
+    "TJFIELD": "TCEBBG",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层汇总表",
+    "TJKEY": "CETSD",
+    "TJFIELD": "TCETSD",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层汇总表",
+    "TJKEY": "CEBSD",
+    "TJFIELD": "TCEBSD",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYBH",
+    "TJFIELD": "ZKQYBH",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYSD",
+    "TJFIELD": "SYSD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "MD",
+    "TJFIELD": "QYZLMD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "HSL",
+    "TJFIELD": "QYHSL",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "BZ",
+    "TJFIELD": "QYBZ",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KXB",
+    "TJFIELD": "QYKXB",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "RZ",
+    "TJFIELD": "QYTRZLMD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KXD",
+    "TJFIELD": "QYKXD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "BHD",
+    "TJFIELD": "QYBHD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GMD",
+    "TJFIELD": "QYTRMDG",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GZD",
+    "TJFIELD": "QYTRGZD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "BHMD",
+    "TJFIELD": "QYBHMD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "BHZD",
+    "TJFIELD": "QYBHZD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "YX",
+    "TJFIELD": "QYYX",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "SX",
+    "TJFIELD": "QYSY",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "YXZS",
+    "TJFIELD": "QYYXZS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "SXZS",
+    "TJFIELD": "QYSXZS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "HSB",
+    "TJFIELD": "QYHSB",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "YXB",
+    "TJFIELD": "QYYSB",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "YXKXB",
+    "TJFIELD": "QYYXKXB",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "HSLYX",
+    "TJFIELD": "QYHSLYX",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "ZJNMJ00",
+    "TJFIELD": "ZJNMJ00",
+    "TJTABLE": "z_c_ZhiJian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "ZJNJL00",
+    "TJFIELD": "ZJNJL00",
+    "TJTABLE": "z_c_ZhiJian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "ZJNMJ10",
+    "TJFIELD": "ZJNMJ10",
+    "TJTABLE": "z_c_ZhiJian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "ZJNJL10",
+    "TJFIELD": "ZJNJL10",
+    "TJTABLE": "z_c_ZhiJian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "ZJNMJ11",
+    "TJFIELD": "ZJNMJ11",
+    "TJTABLE": "z_c_ZhiJian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "ZJNJL11",
+    "TJFIELD": "ZJNJL11",
+    "TJTABLE": "z_c_ZhiJian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "SHZF01",
+    "TJFIELD": "SHZF01",
+    "TJTABLE": "z_c_SanZhou",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "SHZC00",
+    "TJFIELD": "SHZC00",
+    "TJTABLE": "z_c_SanZhou",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "SHZF21",
+    "TJFIELD": "SHZF21",
+    "TJTABLE": "z_c_SanZhou",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "SHZC20",
+    "TJFIELD": "SHZC20",
+    "TJTABLE": "z_c_SanZhou",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "SHZF11",
+    "TJFIELD": "SHZF11",
+    "TJTABLE": "z_c_SanZhou",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "SHZC10",
+    "TJFIELD": "SHZC10",
+    "TJTABLE": "z_c_SanZhou",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "SHZF31",
+    "TJFIELD": "SHZF31",
+    "TJTABLE": "z_c_SanZhou",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "SHZC30",
+    "TJFIELD": "SHZC30",
+    "TJTABLE": "z_c_SanZhou",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJZZP0",
+    "TJFIELD": "GJZZP0",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJKXBP0",
+    "TJFIELD": "GJKXBP0",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJKXB005",
+    "TJFIELD": "GJKXBXM1",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJKXB01",
+    "TJFIELD": "GJKXBXM2",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJKXB02",
+    "TJFIELD": "GJKXBXM3",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJKXB03",
+    "TJFIELD": "GJKXBXM4",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJKXB04",
+    "TJFIELD": "GJKXBXM5",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJKXB05",
+    "TJFIELD": "GJKXBXM6",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJKXB06",
+    "TJFIELD": "GJKXBXM7",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJKXB08",
+    "TJFIELD": "GJKXBXM8",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJKXB10",
+    "TJFIELD": "GJKXBXM9",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJKXB12",
+    "TJFIELD": "GJKXBXM10",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJKXB16",
+    "TJFIELD": "GJKXBXM11",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJKXB32",
+    "TJFIELD": "GJKXBXM12",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJKXB64",
+    "TJFIELD": "GJKXBXM13",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJKXB128",
+    "TJFIELD": "GJKXBXM14",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJKXB256",
+    "TJFIELD": "GJKXBXM15",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXSP0005",
+    "TJFIELD": "GJXSXM1",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS00501",
+    "TJFIELD": "GJXSXM2",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS0102",
+    "TJFIELD": "GJXSXM3",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS0203",
+    "TJFIELD": "GJXSXM4",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS0204",
+    "TJFIELD": "GJXSXM5",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS0304",
+    "TJFIELD": "GJXSXM6",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS0405",
+    "TJFIELD": "GJXSXM7",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS0406",
+    "TJFIELD": "GJXSXM8",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS0408",
+    "TJFIELD": "GJXSXM9",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS0506",
+    "TJFIELD": "GJXSXM10",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS0508",
+    "TJFIELD": "GJXSXM11",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS0608",
+    "TJFIELD": "GJXSXM12",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS0810",
+    "TJFIELD": "GJXSXM13",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS0812",
+    "TJFIELD": "GJXSXM14",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS0816",
+    "TJFIELD": "GJXSXM15",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS1632",
+    "TJFIELD": "GJXSXM16",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS3264",
+    "TJFIELD": "GJXSXM17",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS64128",
+    "TJFIELD": "GJXSXM18",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS128256",
+    "TJFIELD": "GJXSXM19",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXSP0_005",
+    "TJFIELD": "GJXSXM20",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXSP0_01",
+    "TJFIELD": "GJXSXM21",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXSP0_02",
+    "TJFIELD": "GJXSXM22",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXSP0_03",
+    "TJFIELD": "GJXSXM23",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXSP0_04",
+    "TJFIELD": "GJXSXM24",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXSP0_05",
+    "TJFIELD": "GJXSXM25",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXSP0_08",
+    "TJFIELD": "SXGJXS14",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXSP0_16",
+    "TJFIELD": "SXGJXS15",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXSP0_32",
+    "TJFIELD": "SXGJXS16",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJMLP0005",
+    "TJFIELD": "GJMLXM1",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJML00501",
+    "TJFIELD": "GJMLXM2",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJML0102",
+    "TJFIELD": "GJMLXM3",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJML0203",
+    "TJFIELD": "GJMLXM4",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJML0204",
+    "TJFIELD": "GJMLXM5",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJML0304",
+    "TJFIELD": "GJMLXM6",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJML0405",
+    "TJFIELD": "GJMLXM7",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJML0406",
+    "TJFIELD": "GJMLXM8",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJML0408",
+    "TJFIELD": "GJMLXM9",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJML0506",
+    "TJFIELD": "GJMLXM10",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJML0508",
+    "TJFIELD": "GJMLXM11",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJML0608",
+    "TJFIELD": "GJMLXM12",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJML0810",
+    "TJFIELD": "GJMLXM13",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJML0812",
+    "TJFIELD": "GJMLXM14",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJML0816",
+    "TJFIELD": "GJMLXM15",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJML1632",
+    "TJFIELD": "GJMLXM16",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJML3264",
+    "TJFIELD": "GJMLXM17",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJML64128",
+    "TJFIELD": "GJMLXM18",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJML128256",
+    "TJFIELD": "GJMLXM19",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJMLP0_005",
+    "TJFIELD": "GJMLXM20",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJMLP0_01",
+    "TJFIELD": "GJMLXM21",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJMLP0_02",
+    "TJFIELD": "GJMLXM22",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJMLP0_03",
+    "TJFIELD": "GJMLXM23",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJMLP0_04",
+    "TJFIELD": "GJMLXM24",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJMLP0_05",
+    "TJFIELD": "GJMLXM25",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJMLP0_08",
+    "TJFIELD": "SXGJXS17",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJMLP0_16",
+    "TJFIELD": "SXGJXS18",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJMLP0_32",
+    "TJFIELD": "SXGJXS19",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS005",
+    "TJFIELD": "SXGJXS1",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS01",
+    "TJFIELD": "SXGJXS2",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS02",
+    "TJFIELD": "SXGJXS3",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS03",
+    "TJFIELD": "SXGJXS4",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS04",
+    "TJFIELD": "SXGJXS5",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS05",
+    "TJFIELD": "SXGJXS6",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJXS08",
+    "TJFIELD": "SXGJXS7",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJYSZS",
+    "TJFIELD": "GJYSZS",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJHTZS",
+    "TJFIELD": "GJHTZS",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJQQGJYL",
+    "TJFIELD": "GJQQGJYL",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJKXSYLXSA",
+    "TJFIELD": "GJKXSYLXSA",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJKXSYLXSB",
+    "TJFIELD": "GJKXSYLXSB",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJBXML",
+    "TJFIELD": "GJBXML",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJTXML",
+    "TJFIELD": "GJTXML",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJBSB",
+    "TJFIELD": "GJBSB",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJUSER1",
+    "TJFIELD": "SXGJXS20",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJUSER2",
+    "TJFIELD": "SXGJXS21",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJUSER3",
+    "TJFIELD": "SXGJXS22",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJUSER4",
+    "TJFIELD": "SXGJXS23",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJUSER5",
+    "TJFIELD": "SXGJXS24",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GJUSER6",
+    "TJFIELD": "SXGJXS25",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GXS00050",
+    "TJFIELD": "SPYSXS1",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GXS00501",
+    "TJFIELD": "SPYSXS2",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GXS0102",
+    "TJFIELD": "SPYSXS3",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GXS0203",
+    "TJFIELD": "SPYSXS4",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GXS0304",
+    "TJFIELD": "SPYSXS5",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GXS0405",
+    "TJFIELD": "SPYSXS6",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GXS0408",
+    "TJFIELD": "SPYSXS7",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GXS0508",
+    "TJFIELD": "SPYSXS8",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GXS0816",
+    "TJFIELD": "SPYSXS9",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GXS1632",
+    "TJFIELD": "SPYSXS10",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GML00050",
+    "TJFIELD": "SPYSML1",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GML00501",
+    "TJFIELD": "SPYSML2",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GML0102",
+    "TJFIELD": "SPYSML3",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GML0203",
+    "TJFIELD": "SPYSML4",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GML0304",
+    "TJFIELD": "SPYSML5",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GML0405",
+    "TJFIELD": "SPYSML6",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GML0408",
+    "TJFIELD": "SPYSML7",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GML0508",
+    "TJFIELD": "SPYSML8",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GML0816",
+    "TJFIELD": "SPYSML9",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GML1632",
+    "TJFIELD": "SPYSML10",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GKXBP0",
+    "TJFIELD": "SPKXB1",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GKXB005",
+    "TJFIELD": "SPKXB2",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GKXB01",
+    "TJFIELD": "SPKXB3",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GKXB02",
+    "TJFIELD": "SPKXB4",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GKXB03",
+    "TJFIELD": "SPKXB5",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GKXB04",
+    "TJFIELD": "SPKXB6",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GKXB05",
+    "TJFIELD": "SPKXB7",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GKXB08",
+    "TJFIELD": "SPKXB8",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GKXB16",
+    "TJFIELD": "SPKXB9",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GKXB32",
+    "TJFIELD": "SPKXB10",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GXS005",
+    "TJFIELD": "SPGJXS1",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GXS01",
+    "TJFIELD": "SPGJXS2",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GXS02",
+    "TJFIELD": "SPGJXS3",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GXS03",
+    "TJFIELD": "SPGJXS4",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GXS04",
+    "TJFIELD": "SPGJXS5",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GXS05",
+    "TJFIELD": "SPGJXS6",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GXS08",
+    "TJFIELD": "SPGJXS7",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GYSZS",
+    "TJFIELD": "GYSZS",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GHTZS",
+    "TJFIELD": "GHTZS",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GQQGJYL",
+    "TJFIELD": "GQQGJYL",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GKXSYLXSA",
+    "TJFIELD": "GKXSYLXSA",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GKXSYLXSB",
+    "TJFIELD": "GKXSYLXSB",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GBXML",
+    "TJFIELD": "GBXML",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GTXML",
+    "TJFIELD": "GTXML",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GBSB",
+    "TJFIELD": "GBSB",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GUSER1",
+    "TJFIELD": "SPKXB1_",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GUSER2",
+    "TJFIELD": "SPKXB2_",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GUSER3",
+    "TJFIELD": "SPKXB3_",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GUSER4",
+    "TJFIELD": "SPKXB4_",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GUSER5",
+    "TJFIELD": "SPKXB5_",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "GUSER6",
+    "TJFIELD": "SPKXB6_",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL800",
+    "TJFIELD": "KL800",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL400",
+    "TJFIELD": "KL400",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL200",
+    "TJFIELD": "KL200",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL60",
+    "TJFIELD": "KL60",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL40",
+    "TJFIELD": "KL40",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL20",
+    "TJFIELD": "KL20",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL10",
+    "TJFIELD": "KL10",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL5",
+    "TJFIELD": "KL5",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL2",
+    "TJFIELD": "KL2",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL1",
+    "TJFIELD": "KL1",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL_5",
+    "TJFIELD": "KL_5",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL_25",
+    "TJFIELD": "KL_25",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL_1",
+    "TJFIELD": "KL_1",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL_075",
+    "TJFIELD": "KL_075",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL_074",
+    "TJFIELD": "KL_074",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL_05",
+    "TJFIELD": "KL_05",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL_01",
+    "TJFIELD": "KL_01",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL_005",
+    "TJFIELD": "KL_005",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL_002",
+    "TJFIELD": "KL_002",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KL0",
+    "TJFIELD": "KL0",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KLD10",
+    "TJFIELD": "KLD10",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KLD15",
+    "TJFIELD": "KLD15",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KLD30",
+    "TJFIELD": "KLD30",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KLD50",
+    "TJFIELD": "KLD50",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KLD60",
+    "TJFIELD": "KLD60",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KLD85",
+    "TJFIELD": "KLD85",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KLD90",
+    "TJFIELD": "KLD90",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KLD95",
+    "TJFIELD": "KLD95",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KLQLXS",
+    "TJFIELD": "KLQLXS",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KLBJXS",
+    "TJFIELD": "KLBJXS",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KLHL",
+    "TJFIELD": "KLHL",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "SXSX02",
+    "TJFIELD": "SXSX02",
+    "TJTABLE": "z_c_ShiXian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "SXSX03",
+    "TJFIELD": "SXSX03",
+    "TJTABLE": "z_c_ShiXian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "SXJSYL",
+    "TJFIELD": "SXJSYL",
+    "TJTABLE": "z_c_ShiXian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "SXXS",
+    "TJFIELD": "SXXS",
+    "TJTABLE": "z_c_ShiXian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "SXZXS",
+    "TJFIELD": "SXZXS",
+    "TJTABLE": "z_c_ShiXian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "SXQSYL",
+    "TJFIELD": "SXQSYL",
+    "TJTABLE": "z_c_ShiXian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "ZXMD",
+    "TJFIELD": "QYZXMD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "ZDMD",
+    "TJFIELD": "QYZDMD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "ZXKXB",
+    "TJFIELD": "QYZXKXB",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "ZDKXB",
+    "TJFIELD": "QYZDKXB",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "XDMD",
+    "TJFIELD": "QYXDMD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "XZJ1",
+    "TJFIELD": "QYXZJ1",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "XZJ2",
+    "TJFIELD": "QYXZJ2",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "DZKYQD",
+    "TJFIELD": "DZKYQD_HG",
+    "TJTABLE": "t_YanShi",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "ZRKYQD",
+    "TJFIELD": "DZKYQD_TR",
+    "TJTABLE": "t_YanShi",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "BHKYQD",
+    "TJFIELD": "DZKYQD_BH",
+    "TJTABLE": "t_YanShi",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KLQD",
+    "TJFIELD": "KLSY",
+    "TJTABLE": "t_YanShi",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "KJQD",
+    "TJFIELD": "KJDQD_NJL",
+    "TJTABLE": "t_YanShi",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "RHQD",
+    "TJFIELD": "RHXS",
+    "TJTABLE": "t_YanShi",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "STXS",
+    "TJFIELD": "QYSTXS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "SPSTXS",
+    "TJFIELD": "QYSPSTXS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "CZSTXS",
+    "TJFIELD": "QYCZSTXS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYSZBQD",
+    "TJFIELD": "QYSZBQD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYSZBCYQD",
+    "TJFIELD": "QYSZBCYQD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYSZBLMD",
+    "TJFIELD": "QYSZBLMD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYKYDCS",
+    "TJFIELD": "QYKYDCS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYKYDYZ",
+    "TJFIELD": "QYKYDYZ",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYLMD",
+    "TJFIELD": "QYLMD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYTSL",
+    "TJFIELD": "QYTSL",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYJQBS",
+    "TJFIELD": "QYJQBS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYZBBS",
+    "TJFIELD": "QYZBBS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYDTML",
+    "TJFIELD": "QYDTML",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYDJML",
+    "TJFIELD": "QYDJML",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYBSB",
+    "TJFIELD": "QYDBSB",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYHTML",
+    "TJFIELD": "QYHTML",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYZY010",
+    "TJFIELD": "QYZY010",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYZY0005",
+    "TJFIELD": "QYZY0005",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYZY00501",
+    "TJFIELD": "QYZY00501",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYZY0102",
+    "TJFIELD": "QYZY0102",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYZY0203",
+    "TJFIELD": "QYZY0203",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYZY0304",
+    "TJFIELD": "QYZY0304",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYZY0405",
+    "TJFIELD": "QYZY0405",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYZY0506",
+    "TJFIELD": "QYZY0506",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYZYHSL",
+    "TJFIELD": "QYZYHSL",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYYJZHL",
+    "TJFIELD": "QYYJZHL",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYHYL",
+    "TJFIELD": "QYHYL",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYCZBCBR25",
+    "TJFIELD": "QYCZBCBR25",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYCZBCBR5",
+    "TJFIELD": "QYCZBCBR5",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYTXKLXS",
+    "TJFIELD": "QYTXKLXS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYXSL",
+    "TJFIELD": "XSL",
+    "TJTABLE": "t_YanShi",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "QYBHXSL",
+    "TJFIELD": "BHXSL",
+    "TJTABLE": "t_YanShi",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "PZZYPZL",
+    "TJFIELD": "PZZYPZL",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "PZHZPZL",
+    "TJFIELD": "PZHZPZL",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "PZSSXS",
+    "TJFIELD": "PZSSXS",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "PZPZYL",
+    "TJFIELD": "PZPZYL",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "PZXZL",
+    "TJFIELD": "PZXZL",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "PZTSL",
+    "TJFIELD": "PZTSL",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "PZPZYLP1",
+    "TJFIELD": "PZPZYLP1",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "PZPZYLP2",
+    "TJFIELD": "PZPZYLP2",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "PZPZYLP3",
+    "TJFIELD": "PZPZYLP3",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "PZPZLV1",
+    "TJFIELD": "PZPZLV1",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "PZPZLV2",
+    "TJFIELD": "PZPZLV2",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "PZPZLV3",
+    "TJFIELD": "PZPZLV3",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "SNDM",
+    "TJFIELD": "SNDM",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "ZCL",
+    "TJFIELD": "ZCL",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "EXTR1",
+    "TJFIELD": "EXTR1",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "EXTR2",
+    "TJFIELD": "EXTR2",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "EXTR3",
+    "TJFIELD": "EXTR3",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "EXTR4",
+    "TJFIELD": "EXTR4",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "EXTR5",
+    "TJFIELD": "EXTR5",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "土工试验",
+    "TJKEY": "Z001",
+    "TJFIELD": "BZ",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层统计(纵向显示)",
+    "TJKEY": "CETCBH",
+    "TJFIELD": "DCBH",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层统计(纵向显示)",
+    "TJKEY": "CECYND",
+    "TJFIELD": "DCSDCY",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层统计(纵向显示)",
+    "TJKEY": "CETCMC",
+    "TJFIELD": "TCMC",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层统计(纵向显示)",
+    "TJKEY": "CEDC",
+    "TJFIELD": "ZKSY",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层统计(纵向显示)",
+    "TJKEY": "CEHD",
+    "TJFIELD": "CHD",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层统计(纵向显示)",
+    "TJKEY": "CETBG",
+    "TJFIELD": "CDINGGC",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层统计(纵向显示)",
+    "TJKEY": "CEBBG",
+    "TJFIELD": "CDGC",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层统计(纵向显示)",
+    "TJKEY": "CETSD",
+    "TJFIELD": "CDINGSD",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层统计(纵向显示)",
+    "TJKEY": "CEBSD",
+    "TJFIELD": "CDSD",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层统计(纵向显示)",
+    "TJKEY": "CEOTR",
+    "TJFIELD": "TCQTTZ",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层统计(纵向显示)",
+    "TJKEY": "CEZKBH",
+    "TJFIELD": "ZKBH",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "地层统计(纵向显示)",
+    "TJKEY": "Z001",
+    "TJFIELD": "BZ",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "TCBH",
+    "TJFIELD": "DCBH",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCND",
+    "TJFIELD": "DCSDCY",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCYX",
+    "TJFIELD": "TCLM",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCSW",
+    "TJFIELD": "TCQW",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCMD",
+    "TJFIELD": "TCMSD",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCSD",
+    "TJFIELD": "TCSID",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCCD",
+    "TJFIELD": "TCKSX",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCFHCD",
+    "TJFIELD": "TCFHCD",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCJYCD",
+    "TJFIELD": "TCJYCD",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCPSCD",
+    "TJFIELD": "TCPL",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCWZX",
+    "TJFIELD": "TCZTX",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCBHW",
+    "TJFIELD": "TCBHW",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "TCMC",
+    "TJFIELD": "TCMC",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "TJBH",
+    "TJFIELD": "ZKSY",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYSD",
+    "TJFIELD": "SYDSD",
+    "TJTABLE": "z_g_TuCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "MD",
+    "TJFIELD": "QYZLMD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "HSL",
+    "TJFIELD": "QYHSL",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "BZ",
+    "TJFIELD": "QYBZ",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KXB",
+    "TJFIELD": "QYKXB",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "RZ",
+    "TJFIELD": "QYTRZLMD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KXD",
+    "TJFIELD": "QYKXD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "BHD",
+    "TJFIELD": "QYBHD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GMD",
+    "TJFIELD": "QYTRMDG",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GZD",
+    "TJFIELD": "QYTRGZD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "BHMD",
+    "TJFIELD": "QYBHMD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "BHZD",
+    "TJFIELD": "QYBHZD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "YX",
+    "TJFIELD": "QYYX",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "SX",
+    "TJFIELD": "QYSY",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "YXZS",
+    "TJFIELD": "QYYXZS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "SXZS",
+    "TJFIELD": "QYSXZS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "HSB",
+    "TJFIELD": "QYHSB",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "YXB",
+    "TJFIELD": "QYYSB",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "YXKXB",
+    "TJFIELD": "QYYXKXB",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "HSLYX",
+    "TJFIELD": "QYHSLYX",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "ZJNMJ00",
+    "TJFIELD": "ZJNMJ00",
+    "TJTABLE": "z_c_ZhiJian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "ZJNJL00",
+    "TJFIELD": "ZJNJL00",
+    "TJTABLE": "z_c_ZhiJian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "ZJNMJ10",
+    "TJFIELD": "ZJNMJ10",
+    "TJTABLE": "z_c_ZhiJian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "ZJNJL10",
+    "TJFIELD": "ZJNJL10",
+    "TJTABLE": "z_c_ZhiJian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "ZJNMJ11",
+    "TJFIELD": "ZJNMJ11",
+    "TJTABLE": "z_c_ZhiJian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "ZJNJL11",
+    "TJFIELD": "ZJNJL11",
+    "TJTABLE": "z_c_ZhiJian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "SHZF01",
+    "TJFIELD": "SHZF01",
+    "TJTABLE": "z_c_SanZhou",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "SHZC00",
+    "TJFIELD": "SHZC00",
+    "TJTABLE": "z_c_SanZhou",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "SHZF21",
+    "TJFIELD": "SHZF21",
+    "TJTABLE": "z_c_SanZhou",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "SHZC20",
+    "TJFIELD": "SHZC20",
+    "TJTABLE": "z_c_SanZhou",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "SHZF11",
+    "TJFIELD": "SHZF11",
+    "TJTABLE": "z_c_SanZhou",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "SHZC10",
+    "TJFIELD": "SHZC10",
+    "TJTABLE": "z_c_SanZhou",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "SHZF31",
+    "TJFIELD": "SHZF31",
+    "TJTABLE": "z_c_SanZhou",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "SHZC30",
+    "TJFIELD": "SHZC30",
+    "TJTABLE": "z_c_SanZhou",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJZZP0",
+    "TJFIELD": "GJZZP0",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJKXBP0",
+    "TJFIELD": "GJKXBP0",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJKXB005",
+    "TJFIELD": "GJKXBXM1",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJKXB01",
+    "TJFIELD": "GJKXBXM2",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJKXB02",
+    "TJFIELD": "GJKXBXM3",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJKXB03",
+    "TJFIELD": "GJKXBXM4",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJKXB04",
+    "TJFIELD": "GJKXBXM5",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJKXB05",
+    "TJFIELD": "GJKXBXM6",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJKXB06",
+    "TJFIELD": "GJKXBXM7",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJKXB08",
+    "TJFIELD": "GJKXBXM8",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJKXB10",
+    "TJFIELD": "GJKXBXM9",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJKXB12",
+    "TJFIELD": "GJKXBXM10",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJKXB16",
+    "TJFIELD": "GJKXBXM11",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJKXB32",
+    "TJFIELD": "GJKXBXM12",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJKXB64",
+    "TJFIELD": "GJKXBXM13",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJKXB128",
+    "TJFIELD": "GJKXBXM14",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJKXB256",
+    "TJFIELD": "GJKXBXM15",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXSP0005",
+    "TJFIELD": "GJXSXM1",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS00501",
+    "TJFIELD": "GJXSXM2",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS0102",
+    "TJFIELD": "GJXSXM3",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS0203",
+    "TJFIELD": "GJXSXM4",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS0204",
+    "TJFIELD": "GJXSXM5",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS0304",
+    "TJFIELD": "GJXSXM6",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS0405",
+    "TJFIELD": "GJXSXM7",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS0406",
+    "TJFIELD": "GJXSXM8",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS0408",
+    "TJFIELD": "GJXSXM9",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS0506",
+    "TJFIELD": "GJXSXM10",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS0508",
+    "TJFIELD": "GJXSXM11",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS0608",
+    "TJFIELD": "GJXSXM12",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS0810",
+    "TJFIELD": "GJXSXM13",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS0812",
+    "TJFIELD": "GJXSXM14",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS0816",
+    "TJFIELD": "GJXSXM15",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS1632",
+    "TJFIELD": "GJXSXM16",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS3264",
+    "TJFIELD": "GJXSXM17",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS64128",
+    "TJFIELD": "GJXSXM18",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS128256",
+    "TJFIELD": "GJXSXM19",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXSP0_005",
+    "TJFIELD": "GJXSXM20",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXSP0_01",
+    "TJFIELD": "GJXSXM21",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXSP0_02",
+    "TJFIELD": "GJXSXM22",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXSP0_03",
+    "TJFIELD": "GJXSXM23",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXSP0_04",
+    "TJFIELD": "GJXSXM24",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXSP0_05",
+    "TJFIELD": "GJXSXM25",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXSP0_08",
+    "TJFIELD": "SXGJXS14",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXSP0_16",
+    "TJFIELD": "SXGJXS15",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXSP0_32",
+    "TJFIELD": "SXGJXS16",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJMLP0005",
+    "TJFIELD": "GJMLXM1",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJML00501",
+    "TJFIELD": "GJMLXM2",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJML0102",
+    "TJFIELD": "GJMLXM3",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJML0203",
+    "TJFIELD": "GJMLXM4",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJML0204",
+    "TJFIELD": "GJMLXM5",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJML0304",
+    "TJFIELD": "GJMLXM6",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJML0405",
+    "TJFIELD": "GJMLXM7",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJML0406",
+    "TJFIELD": "GJMLXM8",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJML0408",
+    "TJFIELD": "GJMLXM9",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJML0506",
+    "TJFIELD": "GJMLXM10",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJML0508",
+    "TJFIELD": "GJMLXM11",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJML0608",
+    "TJFIELD": "GJMLXM12",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJML0810",
+    "TJFIELD": "GJMLXM13",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJML0812",
+    "TJFIELD": "GJMLXM14",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJML0816",
+    "TJFIELD": "GJMLXM15",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJML1632",
+    "TJFIELD": "GJMLXM16",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJML3264",
+    "TJFIELD": "GJMLXM17",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJML64128",
+    "TJFIELD": "GJMLXM18",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJML128256",
+    "TJFIELD": "GJMLXM19",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJMLP0_005",
+    "TJFIELD": "GJMLXM20",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJMLP0_01",
+    "TJFIELD": "GJMLXM21",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJMLP0_02",
+    "TJFIELD": "GJMLXM22",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJMLP0_03",
+    "TJFIELD": "GJMLXM23",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJMLP0_04",
+    "TJFIELD": "GJMLXM24",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJMLP0_05",
+    "TJFIELD": "GJMLXM25",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJMLP0_08",
+    "TJFIELD": "SXGJXS17",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJMLP0_16",
+    "TJFIELD": "SXGJXS18",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJMLP0_32",
+    "TJFIELD": "SXGJXS19",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS005",
+    "TJFIELD": "SXGJXS1",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS01",
+    "TJFIELD": "SXGJXS2",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS02",
+    "TJFIELD": "SXGJXS3",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS03",
+    "TJFIELD": "SXGJXS4",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS04",
+    "TJFIELD": "SXGJXS5",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS05",
+    "TJFIELD": "SXGJXS6",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJXS08",
+    "TJFIELD": "SXGJXS7",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJYSZS",
+    "TJFIELD": "GJYSZS",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJHTZS",
+    "TJFIELD": "GJHTZS",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJQQGJYL",
+    "TJFIELD": "GJQQGJYL",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJKXSYLXSA",
+    "TJFIELD": "GJKXSYLXSA",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJKXSYLXSB",
+    "TJFIELD": "GJKXSYLXSB",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJBXML",
+    "TJFIELD": "GJBXML",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJTXML",
+    "TJFIELD": "GJTXML",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJBSB",
+    "TJFIELD": "GJBSB",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJUSER1",
+    "TJFIELD": "SXGJXS20",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJUSER2",
+    "TJFIELD": "SXGJXS21",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJUSER3",
+    "TJFIELD": "SXGJXS22",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJUSER4",
+    "TJFIELD": "SXGJXS23",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJUSER5",
+    "TJFIELD": "SXGJXS24",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GJUSER6",
+    "TJFIELD": "SXGJXS25",
+    "TJTABLE": "z_c_GuJie",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GXS00050",
+    "TJFIELD": "SPYSXS1",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GXS00501",
+    "TJFIELD": "SPYSXS2",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GXS0102",
+    "TJFIELD": "SPYSXS3",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GXS0203",
+    "TJFIELD": "SPYSXS4",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GXS0304",
+    "TJFIELD": "SPYSXS5",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GXS0405",
+    "TJFIELD": "SPYSXS6",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GXS0408",
+    "TJFIELD": "SPYSXS7",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GXS0508",
+    "TJFIELD": "SPYSXS8",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GXS0816",
+    "TJFIELD": "SPYSXS9",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GXS1632",
+    "TJFIELD": "SPYSXS10",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GML00050",
+    "TJFIELD": "SPYSML1",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GML00501",
+    "TJFIELD": "SPYSML2",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GML0102",
+    "TJFIELD": "SPYSML3",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GML0203",
+    "TJFIELD": "SPYSML4",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GML0304",
+    "TJFIELD": "SPYSML5",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GML0405",
+    "TJFIELD": "SPYSML6",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GML0408",
+    "TJFIELD": "SPYSML7",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GML0508",
+    "TJFIELD": "SPYSML8",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GML0816",
+    "TJFIELD": "SPYSML9",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GML1632",
+    "TJFIELD": "SPYSML10",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GKXBP0",
+    "TJFIELD": "SPKXB1",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GKXB005",
+    "TJFIELD": "SPKXB2",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GKXB01",
+    "TJFIELD": "SPKXB3",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GKXB02",
+    "TJFIELD": "SPKXB4",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GKXB03",
+    "TJFIELD": "SPKXB5",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GKXB04",
+    "TJFIELD": "SPKXB6",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GKXB05",
+    "TJFIELD": "SPKXB7",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GKXB08",
+    "TJFIELD": "SPKXB8",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GKXB16",
+    "TJFIELD": "SPKXB9",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GKXB32",
+    "TJFIELD": "SPKXB10",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GXS005",
+    "TJFIELD": "SPGJXS1",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GXS01",
+    "TJFIELD": "SPGJXS2",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GXS02",
+    "TJFIELD": "SPGJXS3",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GXS03",
+    "TJFIELD": "SPGJXS4",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GXS04",
+    "TJFIELD": "SPGJXS5",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GXS05",
+    "TJFIELD": "SPGJXS6",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GXS08",
+    "TJFIELD": "SPGJXS7",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GYSZS",
+    "TJFIELD": "GYSZS",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GHTZS",
+    "TJFIELD": "GHTZS",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GQQGJYL",
+    "TJFIELD": "GQQGJYL",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GKXSYLXSA",
+    "TJFIELD": "GKXSYLXSA",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GKXSYLXSB",
+    "TJFIELD": "GKXSYLXSB",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GBXML",
+    "TJFIELD": "GBXML",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GTXML",
+    "TJFIELD": "GTXML",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GBSB",
+    "TJFIELD": "GBSB",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GUSER1",
+    "TJFIELD": "SPKXB1_",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GUSER2",
+    "TJFIELD": "SPKXB2_",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GUSER3",
+    "TJFIELD": "SPKXB3_",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GUSER4",
+    "TJFIELD": "SPKXB4_",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GUSER5",
+    "TJFIELD": "SPKXB5_",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "GUSER6",
+    "TJFIELD": "SPKXB6_",
+    "TJTABLE": "z_c_GuJieShP",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL800",
+    "TJFIELD": "KL800",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL400",
+    "TJFIELD": "KL400",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL200",
+    "TJFIELD": "KL200",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL60",
+    "TJFIELD": "KL60",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL40",
+    "TJFIELD": "KL40",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL20",
+    "TJFIELD": "KL20",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL10",
+    "TJFIELD": "KL10",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL5",
+    "TJFIELD": "KL5",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL2",
+    "TJFIELD": "KL2",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL1",
+    "TJFIELD": "KL1",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL_5",
+    "TJFIELD": "KL_5",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL_25",
+    "TJFIELD": "KL_25",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL_1",
+    "TJFIELD": "KL_1",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL_075",
+    "TJFIELD": "KL_075",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL_074",
+    "TJFIELD": "KL_074",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL_05",
+    "TJFIELD": "KL_05",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL_01",
+    "TJFIELD": "KL_01",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL_005",
+    "TJFIELD": "KL_005",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL_002",
+    "TJFIELD": "KL_002",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KL0",
+    "TJFIELD": "KL0",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KLD10",
+    "TJFIELD": "KLD10",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KLD15",
+    "TJFIELD": "KLD15",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KLD30",
+    "TJFIELD": "KLD30",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KLD50",
+    "TJFIELD": "KLD50",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KLD60",
+    "TJFIELD": "KLD60",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KLD85",
+    "TJFIELD": "KLD85",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KLD90",
+    "TJFIELD": "KLD90",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KLD95",
+    "TJFIELD": "KLD95",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KLQLXS",
+    "TJFIELD": "KLQLXS",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KLBJXS",
+    "TJFIELD": "KLBJXS",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KLHL",
+    "TJFIELD": "KLHL",
+    "TJTABLE": "z_c_KeFen",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "SXSX02",
+    "TJFIELD": "SXSX02",
+    "TJTABLE": "z_c_ShiXian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "SXSX03",
+    "TJFIELD": "SXSX03",
+    "TJTABLE": "z_c_ShiXian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "SXXS",
+    "TJFIELD": "SXXS",
+    "TJTABLE": "z_c_ShiXian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "SXZXS",
+    "TJFIELD": "SXZXS",
+    "TJTABLE": "z_c_ShiXian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "SXQSYL",
+    "TJFIELD": "SXQSYL",
+    "TJTABLE": "z_c_ShiXian",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "ZXMD",
+    "TJFIELD": "QYZXMD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "ZDMD",
+    "TJFIELD": "QYZDMD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "ZXKXB",
+    "TJFIELD": "QYZXKXB",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "ZDKXB",
+    "TJFIELD": "QYZDKXB",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "XDMD",
+    "TJFIELD": "QYXDMD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "XZJ1",
+    "TJFIELD": "QYXZJ1",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "XZJ2",
+    "TJFIELD": "QYXZJ2",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DZKYQD",
+    "TJFIELD": "DZKYQD_HG",
+    "TJTABLE": "t_YanShi",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "ZRKYQD",
+    "TJFIELD": "DZKYQD_TR",
+    "TJTABLE": "t_YanShi",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "BHKYQD",
+    "TJFIELD": "DZKYQD_BH",
+    "TJTABLE": "t_YanShi",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KLQD",
+    "TJFIELD": "KLSY",
+    "TJTABLE": "t_YanShi",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "KJQD",
+    "TJFIELD": "KJDQD_NJL",
+    "TJTABLE": "t_YanShi",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "RHQD",
+    "TJFIELD": "RHXS",
+    "TJTABLE": "t_YanShi",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "STXS",
+    "TJFIELD": "QYSTXS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "SPSTXS",
+    "TJFIELD": "QYSPSTXS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "CZSTXS",
+    "TJFIELD": "QYCZSTXS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYSZBQD",
+    "TJFIELD": "QYSZBQD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYSZBCYQD",
+    "TJFIELD": "QYSZBCYQD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYSZBLMD",
+    "TJFIELD": "QYSZBLMD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYKYDCS",
+    "TJFIELD": "QYKYDCS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYKYDYZ",
+    "TJFIELD": "QYKYDYZ",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYLMD",
+    "TJFIELD": "QYLMD",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYTSL",
+    "TJFIELD": "QYTSL",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYJQBS",
+    "TJFIELD": "QYJQBS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYZBBS",
+    "TJFIELD": "QYZBBS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "BSYWHB",
+    "TJFIELD": "SBBS_HBBS",
+    "TJTABLE": "t_YanShi",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "BSYWZB",
+    "TJFIELD": "SBBS_ZBBS",
+    "TJTABLE": "t_YanShi",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYDTML",
+    "TJFIELD": "QYDTML",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYDJML",
+    "TJFIELD": "QYDJML",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYBSB",
+    "TJFIELD": "QYDBSB",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYHTML",
+    "TJFIELD": "QYHTML",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYZY010",
+    "TJFIELD": "QYZY010",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYZY0005",
+    "TJFIELD": "QYZY0005",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYZY00501",
+    "TJFIELD": "QYZY00501",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYZY0102",
+    "TJFIELD": "QYZY0102",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYZY0203",
+    "TJFIELD": "QYZY0203",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYZY0304",
+    "TJFIELD": "QYZY0304",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYZY0405",
+    "TJFIELD": "QYZY0405",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYZY0506",
+    "TJFIELD": "QYZY0506",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "BGJS",
+    "TJFIELD": "BGJS",
+    "TJTABLE": "z_y_BiaoGuan",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "BGXJS",
+    "TJFIELD": "BGXZJS",
+    "TJTABLE": "z_y_BiaoGuan",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "N10",
+    "TJFIELD": "N10",
+    "TJTABLE": "z_y_DongTan",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "N63_5",
+    "TJFIELD": "N63_5",
+    "TJTABLE": "z_y_DongTan",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "NX63_5",
+    "TJFIELD": "NX63_5",
+    "TJTABLE": "z_y_DongTan",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "N120",
+    "TJFIELD": "N120",
+    "TJTABLE": "z_y_DongTan",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "NX120",
+    "TJFIELD": "NX120",
+    "TJTABLE": "z_y_DongTan",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "JTBGRZL",
+    "TJFIELD": "JTBGRZL",
+    "TJTABLE": "z_y_JingTan",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "JTZTZL",
+    "TJFIELD": "JTZTZL",
+    "TJTABLE": "z_y_JingTanSQ",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "JTCMZ",
+    "TJFIELD": "JTCMZ",
+    "TJTABLE": "z_y_JingTanSQ",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "JTMZB",
+    "TJFIELD": "JTMZB",
+    "TJTABLE": "z_y_JingTanSQ",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "SZBQD",
+    "TJFIELD": "SZBQD",
+    "TJTABLE": "z_y_ShiZiBan",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "SZBCQD",
+    "TJFIELD": "SZBCYQD",
+    "TJTABLE": "z_y_ShiZiBan",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "CTXK",
+    "TJFIELD": "CTXK",
+    "TJTABLE": "z_y_STXiShu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "CTXSP",
+    "TJFIELD": "CTXSP",
+    "TJTABLE": "z_y_STXiShu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "CTXSZ",
+    "TJFIELD": "CTXSZ",
+    "TJTABLE": "z_y_STXiShu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCCZL",
+    "TJFIELD": "DCCZL",
+    "TJTABLE": "x_DiCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCDZ",
+    "TJFIELD": "DCDZ",
+    "TJTABLE": "x_DiCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCCZ",
+    "TJFIELD": "DCCZ",
+    "TJTABLE": "x_DiCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCML",
+    "TJFIELD": "DCDCML",
+    "TJTABLE": "x_DiCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "SNDM",
+    "TJFIELD": "SNDM",
+    "TJTABLE": "x_DiCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCDCLB",
+    "TJFIELD": "DCDCLB",
+    "TJTABLE": "x_DiCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCTSDJ",
+    "TJFIELD": "DCTSDJ",
+    "TJTABLE": "x_DiCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCGTL",
+    "TJFIELD": "DCGTL",
+    "TJTABLE": "x_DiCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCGTZ",
+    "TJFIELD": "DCGTZ",
+    "TJTABLE": "x_DiCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "DCGTM",
+    "TJFIELD": "DCGTM",
+    "TJTABLE": "x_DiCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYZYHSL",
+    "TJFIELD": "QYZYHSL",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYYJZHL",
+    "TJFIELD": "QYYJZHL",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYHYL",
+    "TJFIELD": "QYHYL",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYCZBCBR25",
+    "TJFIELD": "QYCZBCBR25",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYCZBCBR5",
+    "TJFIELD": "QYCZBCBR5",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYTXKLXS",
+    "TJFIELD": "QYTXKLXS",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYXSL",
+    "TJFIELD": "XSL",
+    "TJTABLE": "t_YanShi",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "QYBHXSL",
+    "TJFIELD": "BHXSL",
+    "TJTABLE": "t_YanShi",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "PZZYPZL",
+    "TJFIELD": "PZZYPZL",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "PZHZPZL",
+    "TJFIELD": "PZHZPZL",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "PZSSXS",
+    "TJFIELD": "PZSSXS",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "PZPZYL",
+    "TJFIELD": "PZPZYL",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "PZXZL",
+    "TJFIELD": "PZXZL",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "PZTSL",
+    "TJFIELD": "PZTSL",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "PZPZYLP1",
+    "TJFIELD": "PZPZYLP1",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "PZPZYLP2",
+    "TJFIELD": "PZPZYLP2",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "PZPZYLP3",
+    "TJFIELD": "PZPZYLP3",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "PZPZLV1",
+    "TJFIELD": "PZPZLV1",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "PZPZLV2",
+    "TJFIELD": "PZPZLV2",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "PZPZLV3",
+    "TJFIELD": "PZPZLV3",
+    "TJTABLE": "z_c_PengZhangTu",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "ZCL",
+    "TJFIELD": "ZCL",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "VEXTR1",
+    "TJFIELD": "VEXTR1",
+    "TJTABLE": "x_DiCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "VEXTR2",
+    "TJFIELD": "VEXTR2",
+    "TJTABLE": "x_DiCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "VEXTR3",
+    "TJFIELD": "VEXTR3",
+    "TJTABLE": "x_DiCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "VEXTR4",
+    "TJFIELD": "VEXTR4",
+    "TJTABLE": "x_DiCeng",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "EXTR1",
+    "TJFIELD": "EXTR1",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "EXTR2",
+    "TJFIELD": "EXTR2",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "EXTR3",
+    "TJFIELD": "EXTR3",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "EXTR4",
+    "TJFIELD": "EXTR4",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "EXTR5",
+    "TJFIELD": "EXTR5",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  },
+  {
+    "MODEL": "物理力学指标统计表",
+    "TJKEY": "Z001",
+    "TJFIELD": "BZ",
+    "TJTABLE": "z_c_QuYang",
+    "table": "g_CGBModelDuiZhao"
+  }
+]
