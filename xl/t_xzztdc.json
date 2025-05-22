@@ -1,0 +1,47 @@
+[
+  {
+    "GCSY": "0",
+    "BH": "629.12--410.60",
+    "DCBH": "0",
+    "INSERTE": "631.4422",
+    "INSERTN": "-399.9463",
+    "TCMC": "填筑土",
+    "HATCHANGLE": "0.0",
+    "HATCHBILI": "0.25",
+    "DCHD": "",
+    "DCHDE": "642.6474",
+    "DCHDN": "-409.1775",
+    "LZID": "",
+    "table": "t_xzztdc"
+  },
+  {
+    "GCSY": "0",
+    "BH": "629.12--410.60",
+    "DCBH": "0",
+    "INSERTE": "636.2444",
+    "INSERTN": "-408.1777",
+    "TCMC": "砂岩",
+    "HATCHANGLE": "0.0",
+    "HATCHBILI": "0.25",
+    "DCHD": "12-26",
+    "DCHDE": "642.6474",
+    "DCHDN": "-409.1775",
+    "LZID": "",
+    "table": "t_xzztdc"
+  },
+  {
+    "GCSY": "0",
+    "BH": "629.12--410.60",
+    "DCBH": "0",
+    "INSERTE": "636.9114",
+    "INSERTN": "-396.847",
+    "TCMC": "粉土",
+    "HATCHANGLE": "0.0",
+    "HATCHBILI": "0.25",
+    "DCHD": "3-9",
+    "DCHDE": "642.3139",
+    "DCHDN": "-400.7461",
+    "LZID": "",
+    "table": "t_xzztdc"
+  }
+]
